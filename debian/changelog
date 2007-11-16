@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.18) hardy; urgency=low
+
+  * debian/control: bump Conflicts/Replaces on gutsy-wallpapers.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 16 Nov 2007 16:57:33 +0100
+
 ubuntu-wallpapers (0.17) hardy; urgency=low
 
   * debian/control, debian/rules, setup.cfg, setup.py: gutsy -> ubuntu.

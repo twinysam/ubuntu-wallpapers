@@ -10,8 +10,8 @@ Standards-Version: 3.7.2
 Package: ubuntu-wallpapers
 Architecture: all
 Section: x11
-Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.18)
-Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.18)
+Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
+Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
 Description: Ubuntu Wallpapers
  The default Wallpapers for Ubuntu. At the moment the package contains:
   * Simple Ubuntu
