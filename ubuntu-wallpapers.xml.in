@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <_name>Simple Ubuntu</_name>
+    <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
+    <options>zoom</options>
+    <pcolor>#dab082</pcolor>
+    <scolor>#dab082</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Elephant</_name>
+    <filename>/usr/share/backgrounds/elephant-skin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#5b2e0f</pcolor>
+    <scolor>#5b2e0f</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

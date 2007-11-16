@@ -1,0 +1,18 @@
+Source: ubuntu-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
+XS-Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
+Build-Depends: debhelper (>= 5), cdbs, python-dev (>= 2.4), python-distutils-extra, python-central (>= 0.5), xsltproc
+XS-Python-Version: all
+Standards-Version: 3.7.2
+
+Package: ubuntu-wallpapers
+Architecture: all
+Section: x11
+Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.18)
+Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.18)
+Description: Ubuntu Wallpapers
+ The default Wallpapers for Ubuntu. At the moment the package contains:
+  * Simple Ubuntu
+  * Elephant

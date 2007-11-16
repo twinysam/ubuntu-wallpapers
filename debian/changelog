@@ -1,0 +1,154 @@
+ubuntu-wallpapers (0.17) hardy; urgency=low
+
+  * debian/control, debian/rules, setup.cfg, setup.py: gutsy -> ubuntu.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 16 Nov 2007 16:01:13 +0100
+
+gutsy-wallpapers (0.16) gutsy; urgency=low
+
+  * elephant-skin.jpg, ubuntu-wallpapers.xml.in, debian/copyright, AUTHORS:
+    re-add Elephant Skin.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Tue, 25 Sep 2007 11:23:39 +0200
+
+gutsy-wallpapers (0.15) gutsy; urgency=low
+
+  * dropped Elephant pic, no space for that. :-/
+  * setup.py: install *.png and *.jpg by default.
+  * ubuntu-wallpapers.xml.in, warty-final-ubuntu.png: reintroduced .png
+    version; the gconf default /desktop/gnome/background/picture_filename (of
+    libgnome package) demands /usr/share/backgrounds/warty-final-ubuntu.png
+    .
+    If somebody has an idea, please fix that for Hardy.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Tue, 25 Sep 2007 09:01:05 +0200
+
+gutsy-wallpapers (0.14) gutsy; urgency=low
+
+  * updating default pic, adding elephant pic to replace smooth chocolate
+    which was removed earlier 
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Mon, 24 Sep 2007 17:44:11 +0200
+
+gutsy-wallpapers (0.13) gutsy; urgency=low
+
+  * s/feisty/gutsy, adding new pic, removing smooth-chocolate
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Wed, 19 Sep 2007 13:08:44 +0200
+
+feisty-wallpapers (0.12) feisty; urgency=low
+
+  * set Maintainer and XS-Vcs-Bzr. 
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri,  9 Mar 2007 11:34:51 +0100
+
+feisty-wallpapers (0.11) feisty; urgency=low
+
+  * Native Packaging.
+  * Python Build System.
+  * debian/control, debian/rules: changes wrt Python.
+  * debian/rules:
+    - call dh_gconf by hand.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Mon, 26 Feb 2007 17:36:53 +0100
+
+feisty-wallpapers (0.10-0ubuntu1) feisty; urgency=low
+
+  * adding new wallpaper
+
+ -- Kenneth Wimer <wimer@kde.org>  Thu,  8 Feb 2007 20:31:13 +0100
+
+feisty-wallpapers (0.9-0ubuntu4) feisty; urgency=low
+
+  * debian/rules:
+    - Whoops, the cdbs class for gnome packages already calls dh_gconf.
+      Remove the redundant dh_gconf call.
+    - Generate gconf-defaults during the build phase, not binary.
+
+ -- Johan Kiviniemi <debian@johan.kiviniemi.name>  Thu,  7 Dec 2006 16:12:24 +0200
+
+feisty-wallpapers (0.9-0ubuntu3) feisty; urgency=low
+
+  * debian/rules, debian/wallpapers2gconf.xsl:
+    - set gconf defaults based on ubuntu-wallpapers.xml
+
+ -- Johan Kiviniemi <debian@johan.kiviniemi.name>  Wed,  6 Dec 2006 21:59:43 +0200
+
+feisty-wallpapers (0.9-0ubuntu2) feisty; urgency=low
+
+  * debian/control:
+    - version Conflicts/Replaces.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Tue, 28 Nov 2006 17:37:12 +0100
+
+feisty-wallpapers (0.9-0ubuntu1) feisty; urgency=low
+
+  * New release.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Wed, 22 Nov 2006 19:01:13 +0100
+
+edgy-wallpapers (0.8-0ubuntu1) edgy; urgency=low
+
+  * New release:
+    - Edgy look.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 20 Oct 2006 21:33:12 +0200
+
+edgy-wallpapers (0.7-0ubuntu2) edgy; urgency=low
+
+  * debian/copyright:
+    - updated.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 20 Oct 2006 14:44:52 +0200
+
+edgy-wallpapers (0.7-0ubuntu1) edgy; urgency=low
+
+  * New release:
+    - new Edgy look.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 19 Oct 2006 19:26:12 +0200
+
+edgy-wallpapers (0.6-0ubuntu1) edgy; urgency=low
+
+  * New upstream release:
+    - fix redundant wallpaper. (Malone: #65897), thanks 
+      Johan Kiviniemi <launchpad.net@johan.kiviniemi.name> for working on
+      this.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 13 Oct 2006 15:51:40 +0200
+
+edgy-wallpapers (0.5-0ubuntu1) edgy; urgency=low
+
+  * Reverted to Dapper artwork, for discussion please see
+    ubuntu-art@lists.ubuntu.com.
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 12 Oct 2006 10:34:03 +0200
+
+edgy-wallpapers (0.4-0ubuntu1) edgy; urgency=low
+
+  * New upstream release:
+    - Move preview notice out of panel area on certain resolutions.
+
+ -- Frank Schoep <frank@ffnn.nl>  Thu, 14 Sep 2006 13:58:39 +0200
+
+edgy-wallpapers (0.3-0ubuntu1) edgy; urgency=low
+
+  * New upstream release:
+    - Added artwork preview notice.
+
+ -- Frank Schoep <frank@ffnn.nl>  Mon, 11 Sep 2006 19:57:53 +0200
+
+edgy-wallpapers (0.2-0ubuntu1) edgy; urgency=low
+
+  * New upstream release:
+    - Updated the artwork to Troy Sobotka's Wave wallpaper. Widescreen 
+      version to follow. (Frank Schoep)
+
+ -- Frank Schoep <frank@ffnn.nl>  Wed,  6 Sep 2006 18:26:13 +0200
+
+edgy-wallpapers (0.1-0ubuntu1) edgy; urgency=low
+
+  * Initial release (as it's own module).
+
+ -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 20 Jul 2006 11:41:27 +0200
+
