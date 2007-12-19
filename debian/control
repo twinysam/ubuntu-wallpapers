@@ -5,7 +5,7 @@ Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 XS-Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
 Build-Depends: debhelper (>= 5), cdbs, python-dev (>= 2.4), python-distutils-extra, python-central (>= 0.5), xsltproc
 XS-Python-Version: all
-Standards-Version: 3.7.2
+Standards-Version: 3.7.3
 
 Package: ubuntu-wallpapers
 Architecture: all

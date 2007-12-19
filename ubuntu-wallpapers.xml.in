@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper>
     <_name>Simple Ubuntu</_name>
-    <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
+    <filename>/usr/share/backgrounds/simple-ubuntu.png</filename>
     <options>zoom</options>
     <pcolor>#dab082</pcolor>
     <scolor>#dab082</scolor>
@@ -11,7 +11,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Elephant</_name>
-    <filename>/usr/share/backgrounds/elephant-skin.jpg</filename>
+    <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
     <options>zoom</options>
     <pcolor>#5b2e0f</pcolor>
     <scolor>#5b2e0f</scolor>

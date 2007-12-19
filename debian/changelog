@@ -1,3 +1,14 @@
+ubuntu-wallpapers (0.19) hardy; urgency=low
+
+  * elephant-skin.jpg:
+    - Converted to png (elephent-skin.png)
+    - Set as default wallpaper (renamed to warty-final-ubuntu.png)
+  * warty-final-ubuntu.png: renamed to ubuntu-simple.png
+  * ubuntu-wallpapers.xml.in: Updated to reflect changes
+  * debian/control: bumped standards version to 3.7.3
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Wed, 19 Dec 2007 15:17:29 -0800
+
 ubuntu-wallpapers (0.18) hardy; urgency=low
 
   * debian/control: bump Conflicts/Replaces on gutsy-wallpapers.
