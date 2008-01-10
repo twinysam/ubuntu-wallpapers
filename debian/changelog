@@ -1,3 +1,11 @@
+ubuntu-wallpapers (0.20) hardy; urgency=low
+
+  * ubuntu-wallpapers.xml.in:
+   - Moved elephant to top of the list
+  * ubuntu-simple.png => simple-ubuntu.png
+
+ -- Cody A.W. Somerville <cody-somerville@ubuntu.com>  Thu, 10 Jan 2008 13:52:24 -0400
+
 ubuntu-wallpapers (0.19) hardy; urgency=low
 
   * elephant-skin.jpg:
