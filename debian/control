@@ -14,5 +14,5 @@ Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
 Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
 Description: Ubuntu Wallpapers
  The default Wallpapers for Ubuntu. At the moment the package contains:
-  * Simple Ubuntu
-  * Elephant
+  * Simple Ubuntu (Elephant)
+  * Warty Final (Feta Kuti)
