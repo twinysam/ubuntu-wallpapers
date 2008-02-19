@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.22) hardy; urgency=low
+
+  * fixing one pixel semi-transparent border
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Tue, 19 Feb 2008 11:07:25 +0100
+
 ubuntu-wallpapers (0.21) hardy; urgency=low
 
   * Adding wallpaper candidate for testing, moving elephant to secondary
