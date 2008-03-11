@@ -1,3 +1,10 @@
+ubuntu-wallpapers (0.23) hardy; urgency=low
+
+  * Tweaking wallpaper to have less contrast as well as fixing the bleeding
+    neck syndrome
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Tue, 11 Mar 2008 17:42:19 +0100
+
 ubuntu-wallpapers (0.22) hardy; urgency=low
 
   * fixing one pixel semi-transparent border
