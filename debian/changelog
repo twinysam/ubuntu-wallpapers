@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.24) hardy; urgency=low
+
+  * Adding simplified heron pic for Jane
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Thu, 13 Mar 2008 13:49:34 +0100
+
 ubuntu-wallpapers (0.23) hardy; urgency=low
 
   * Tweaking wallpaper to have less contrast as well as fixing the bleeding
