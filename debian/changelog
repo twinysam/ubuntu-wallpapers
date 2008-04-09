@@ -1,3 +1,10 @@
+ubuntu-wallpapers (0.25) hardy; urgency=low
+
+  * Updating the wallpaper and the simple background with a red crested
+    version and more colorful background and adding Ashton to the authors file
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Wed, 09 Apr 2008 20:18:46 +0200
+
 ubuntu-wallpapers (0.24) hardy; urgency=low
 
   * Adding simplified heron pic for Jane
