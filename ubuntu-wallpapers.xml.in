@@ -5,16 +5,8 @@
     <_name>Ubuntu</_name>
     <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
     <options>zoom</options>
-    <pcolor>#8f4a1c</pcolor>
-    <scolor>#8f4a1c</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <_name>Ubuntu</_name>
-    <filename>/usr/share/backgrounds/heron-simple.png</filename>
-    <options>zoom</options>
-    <pcolor>#8f4a1c</pcolor>
-    <scolor>#8f4a1c</scolor>
+    <pcolor>#684b33</pcolor>
+    <scolor>#684b33</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>

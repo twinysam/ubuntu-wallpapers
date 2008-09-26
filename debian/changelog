@@ -1,3 +1,16 @@
+ubuntu-wallpapers (0.27) intrepid; urgency=low
+
+  * Removing heron pics due to package size problems.
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Fri, 26 Sep 2008 16:14:46 +0200
+
+ubuntu-wallpapers (0.26) intrepid; urgency=low
+
+  * Updating wallpaper for Intrepid, moving heron to the side. We might want
+    to remove heron pics before release.
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Wed, 24 Sep 2008 14:36:44 +0200
+
 ubuntu-wallpapers (0.25) hardy; urgency=low
 
   * Updating the wallpaper and the simple background with a red crested
