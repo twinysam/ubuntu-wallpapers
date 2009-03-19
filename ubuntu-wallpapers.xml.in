@@ -5,16 +5,16 @@
     <_name>Ubuntu</_name>
     <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
     <options>zoom</options>
-    <pcolor>#684b33</pcolor>
-    <scolor>#684b33</scolor>
+    <pcolor>#b06840</pcolor>
+    <scolor>#b06840</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Elephant</_name>
+    <_name>Simple</_name>
     <filename>/usr/share/backgrounds/simple-ubuntu.png</filename>
     <options>zoom</options>
-    <pcolor>#dab082</pcolor>
-    <scolor>#dab082</scolor>
+    <pcolor>#c58357</pcolor>
+    <scolor>#c58357</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
 </wallpapers>
