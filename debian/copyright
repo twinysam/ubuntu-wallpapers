@@ -11,9 +11,12 @@ Upstream Author:
 	Néstor Navas <nestor.navas@gmail.com>
 	Jozef Mak <jozmak@gmail.com>
 	Damian Vila <damianvila@gmail.com>
+	Daniel Planas Armangué <daniplanas.a@gmail.com>
+	Kenneth Wimer <kenneth.wimer@ubuntu.com>
+
 
 Copyright: 
-	Copyright 2004-2006 Canonical Ltd.
+	© 2004-2009 Canonical Ltd.
 	
 	http://www.ubuntu.com/ubuntu/TrademarkPolicy
 
@@ -280,11 +283,3 @@ usage guidelines, as may be published on its website or otherwise made
 available upon request from time to time.
 
 Creative Commons may be contacted at http://creativecommons.org/
-
-
-The Debian packaging is (C) 2006, Daniel Holbach <daniel.holbach@ubuntu.com> and
-is licensed under the GPL, see above.
-
-On Debian systems, the complete text of the GNU General
-Public License can be found in `/usr/share/common-licenses/GPL'.
-
