@@ -1,3 +1,16 @@
+ubuntu-wallpapers (0.28.4) jaunty; urgency=low
+
+  * Changing simple-ubuntu to reduce size; fixes LP: #345523
+  * Removing headers to fix LP: #357218
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Fri, 17 Apr 2009 13:25:20 +0200
+
+ubuntu-wallpapers (0.28.3) jaunty; urgency=low
+
+  * updating simple-ubuntu.png to fix LP: #345523 
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Mon, 23 Mar 2009 14:17:22 +0100
+
 ubuntu-wallpapers (0.28.2) jaunty; urgency=low
 
   [ Kenneth Wimer ]
