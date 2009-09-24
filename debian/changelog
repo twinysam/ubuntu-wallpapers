@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.28.5) karmic; urgency=low
+
+  * Uploading lots of exiting new wallpapers for Karmic
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Thu, 24 Sep 2009 20:11:18 +0200
+
 ubuntu-wallpapers (0.28.4) jaunty; urgency=low
 
   * Changing simple-ubuntu to reduce size; fixes LP: #345523
