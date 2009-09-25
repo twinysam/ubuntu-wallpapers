@@ -3,10 +3,10 @@ Section: x11
 Priority: optional
 Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
-Build-Depends: debhelper (>= 5), cdbs, python-dev (>= 2.4), python-central (>= 0.5)
+Build-Depends: debhelper (>= 5), cdbs, python, python-central
 Build-Depends-Indep: python-distutils-extra, xsltproc
 XS-Python-Version: all
-Standards-Version: 3.8.0
+Standards-Version: 3.8.3
 
 Package: ubuntu-wallpapers
 Architecture: all

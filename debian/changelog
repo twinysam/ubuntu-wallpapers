@@ -1,3 +1,14 @@
+ubuntu-wallpapers (0.29) karmic; urgency=low
+
+  * debian/rules: Remove Python egg. This package does not ship any Python
+    modules, it just uses the distutils build system for convenience. Fixes
+    FTBFS due to the pkgbinarymangler sanity checks.
+  * debian/control: Drop unnecessary python-dev build dependency, just
+    build-depend on python.
+  * debian/control: Bump Standards-Version to 3.8.3 (no changes necessary).
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 25 Sep 2009 09:33:35 +0200
+
 ubuntu-wallpapers (0.28.5) karmic; urgency=low
 
   * Uploading lots of exiting new wallpapers for Karmic
