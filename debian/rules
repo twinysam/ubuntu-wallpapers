@@ -10,6 +10,7 @@ binary-post-install/ubuntu-wallpapers::
 	xsltproc --novalid -o debian/gconf-defaults debian/wallpapers2gconf.xsl ubuntu-wallpapers.xml.in
 	# desktop-base from Debian uses priority 15, override its settings
 	dh_gconf --priority=16
+	rm -r debian/$(cdbs_curpkg)/usr/lib/python*
 
 clean ::
 	$(RM) debian/gconf-defaults

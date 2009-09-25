@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Ubuntu</name>
+    <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
+    <options>zoom</options>
+    <pcolor>#b06840</pcolor>
+    <scolor>#b06840</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>White Orchid</name>
+    <filename>/usr/share/backgrounds/WhiteOrchid.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Throwing Stones</name>
+    <filename>/usr/share/backgrounds/ThrowingStones.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Radioactive Sunrise.jpg</name>
+    <filename>/usr/share/backgrounds/RadioactiveSunrise.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#8f3342</pcolor>
+    <scolor>#8f3342</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>O Life.jpg</name>
+    <filename>/usr/share/backgrounds/OLife.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Grass in A.jpg</name>
+    <filename>/usr/share/backgrounds/GrassinA.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#3d9a01</pcolor>
+    <scolor>#3d9a01</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Climbing.jpg</name>
+    <filename>/usr/share/backgrounds/Climbing.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#0054c9</pcolor>
+    <scolor>#0054c9</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Cherries.jpg</name>
+    <filename>/usr/share/backgrounds/Cherries.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Primula Red</name>
+    <filename>/usr/share/backgrounds/Primula Red.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#e61e2b</pcolor>
+    <scolor>#e61e2b</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Butterfly</name>
+    <filename>/usr/share/backgrounds/Butterfly.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#afa6a1</pcolor>
+    <scolor>#afa6a1</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Rainbow is Dead</name>
+    <filename>/usr/share/backgrounds/TheRainbowisDead.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#ffffff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sunset</name>
+    <filename>/usr/share/backgrounds/Sunset.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Mi old, old Shoes</name>
+    <filename>/usr/share/backgrounds/Shoes.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#eeeeee</pcolor>
+    <scolor>#eeeeee</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sand</name>
+    <filename>/usr/share/backgrounds/Sand.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#b68a5b</pcolor>
+    <scolor>#b68a5b</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Palmengarten</name>
+    <filename>/usr/share/backgrounds/Palmengarten.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#547530</pcolor>
+    <scolor>#547530</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Naranja</name>
+    <filename>/usr/share/backgrounds/Naranja.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#959796</pcolor>
+    <scolor>#959796</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Misty Morning</name>
+    <filename>/usr/share/backgrounds/MistyMorning.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#90a7b9</pcolor>
+    <scolor>#90a7b9</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Frog</name>
+    <filename>/usr/share/backgrounds/Frog.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Flor de Loto</name>
+    <filename>/usr/share/backgrounds/FlordeLoto.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Bay</name>
+    <filename>/usr/share/backgrounds/Bay.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
