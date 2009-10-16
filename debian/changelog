@@ -1,3 +1,10 @@
+ubuntu-wallpapers (0.30) karmic; urgency=low
+
+  * Fixed file name error and associated names in ubuntu-wallpaper.xml.in.
+    LP: #436487 
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Fri, 16 Oct 2009 13:25:10 +0200
+
 ubuntu-wallpapers (0.29) karmic; urgency=low
 
   * debian/rules: Remove Python egg. This package does not ship any Python
