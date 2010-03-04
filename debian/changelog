@@ -1,3 +1,20 @@
+ubuntu-wallpapers (0.31) lucid; urgency=low
+
+  * Cleaned the source and updated the changelog version
+  * debian/control:
+    - updated standards version
+
+  [ Kenneth Wimer ]
+  * Updating wallpaper for lucid
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 04 Mar 2010 14:16:04 +0100
+
+ubuntu-wallpapers (0.30ubuntu1) karmic; urgency=low
+
+  * Updating copyright file to correct spelling error in author name and changing the CC license included from 2.5 to 2.0 to reflect the licensing available on flickr to fix LP: #505406
+
+ -- Kenneth Wimer <kwwii@ubuntu.com>  Mon, 11 Jan 2010 11:51:33 +0100
+
 ubuntu-wallpapers (0.30) karmic; urgency=low
 
   * Fixed file name error and associated names in ubuntu-wallpaper.xml.in.
