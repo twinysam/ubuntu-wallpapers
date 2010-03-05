@@ -1,3 +1,10 @@
+ubuntu-wallpapers (0.31.1) lucid; urgency=low
+
+  * Correctly set the background color to fix the transition from gtk to the
+    desktop, thanks Didier Roche and Kenneth Wimer
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Fri, 05 Mar 2010 13:28:45 +0100
+
 ubuntu-wallpapers (0.31) lucid; urgency=low
 
   * Cleaned the source and updated the changelog version
