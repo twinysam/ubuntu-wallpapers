@@ -121,4 +121,12 @@
     <scolor>#93a6b5</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <_name>SmoothMoment</_name>
+    <filename>/usr/share/backgrounds/SmoothMoment.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#bababa</pcolor>
+    <scolor>#bababa</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
  </wallpapers>
