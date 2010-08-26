@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.31.5) maverick; urgency=low
+
+  * Wallpapers from the community contest (LP: #621287)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Thu, 26 Aug 2010 16:09:28 -0400
+
 ubuntu-wallpapers (0.31.4) maverick; urgency=low
 
   * warty-final-ubuntu.png
