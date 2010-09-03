@@ -9,6 +9,11 @@
     <scolor>#2c001e</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Contest</name>
+    <filename>/usr/share/backgrounds/contest/background-1.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
   <wallpaper>
     <_name>Aeg</_name>
     <filename>/usr/share/backgrounds/Aeg_by_Tauno_Erik.jpg</filename>
@@ -131,7 +136,7 @@
   </wallpaper>
   <wallpaper>
     <_name>Spiral</_name>
-    <filename>/usr/share/backgrounds/Spiral_by_fiЯa.jpg</filename>
+    <filename>/usr/share/backgrounds/Spiral_by_firas.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>

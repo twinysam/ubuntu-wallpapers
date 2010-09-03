@@ -1,3 +1,14 @@
+ubuntu-wallpapers (0.31.6) maverick; urgency=low
+
+  * Added the contest winners as an animated bundle (LP: #629216)
+  * Renamed Spiral_by_fiЯas.jpg to Spiral_by_firas.jpg (LP: #621287)
+  * warty-final-ubuntu.png
+    - Final default wallpaper for Maverick (LP: #625193)
+  * background wallpaper is smaller than gnome-panel causing empty 
+    space (LP: #625972)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 03 Sep 2010 00:01:38 -0400
+
 ubuntu-wallpapers (0.31.5) maverick; urgency=low
 
   * Wallpapers from the community contest (LP: #621287)
