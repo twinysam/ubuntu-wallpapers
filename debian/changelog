@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.31.7) natty; urgency=low
+
+  * Run jpegoptim on our wallpapers to save some space.
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Nov 2010 13:19:49 +0100
+
 ubuntu-wallpapers (0.31.6) maverick; urgency=low
 
   * Added the contest winners as an animated bundle (LP: #629216)
