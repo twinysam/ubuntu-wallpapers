@@ -1,3 +1,23 @@
+ubuntu-wallpapers (0.31.9) natty; urgency=low
+
+  * Wallpapers from the Ubuntu 11.04 community contest (LP: #740588)
+    - http://www.flickr.com/groups/ubuntunattyshortlist/
+    - JPEG 66% compression for photographs (scaled max 2000px width)
+    - JPEG 95% compression for illustrations (scaled max 2000px width)
+    - update AUTHORS
+    - jpegoptim -o -t (see 'rebuild.sh')
+  * Incremental tweaks to the default wallpaper for Ubuntu 11.04 (LP: #741253)
+    - jpegoptim -o -t (see 'rebuild.sh')
+
+ -- Paul Sladen <sladen@canonical.com>  Wed, 23 Mar 2011 23:00:00 +0000
+
+ubuntu-wallpapers (0.31.8) natty; urgency=low
+
+  * Run jpegoptim on warty-final-ubuntu.png as well, thanks to Tiago Silva for
+    pointing out.
+
+ -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 23 Nov 2010 09:53:55 +0100
+
 ubuntu-wallpapers (0.31.7) natty; urgency=low
 
   * Run jpegoptim on our wallpapers to save some space.

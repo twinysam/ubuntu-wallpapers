@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Ubuntu</_name>
+    <name>Ubuntu</name>
     <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
@@ -15,7 +15,7 @@
     <options>zoom</options>
   </wallpaper>
   <wallpaper>
-    <_name>Aeg</_name>
+    <name>Aeg</name>
     <filename>/usr/share/backgrounds/Aeg_by_Tauno_Erik.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -23,7 +23,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Arboreal ballet</_name>
+    <name>Arboreal ballet</name>
     <filename>/usr/share/backgrounds/Arboreal_ballet_by_Bob_Farrell.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -31,7 +31,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Aubergine Sea</_name>
+    <name>Aubergine Sea</name>
     <filename>/usr/share/backgrounds/Aubergine_Sea_by_Wyatt_Kirby.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -39,7 +39,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Berries</_name>
+    <name>Berries</name>
     <filename>/usr/share/backgrounds/Berries_by_Orb9220.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -47,7 +47,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Bird</_name>
+    <name>Bird</name>
     <filename>/usr/share/backgrounds/Bird_by_Magnus.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -55,7 +55,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Fabric</_name>
+    <name>Fabric</name>
     <filename>/usr/share/backgrounds/Fabric_by_Just_Jeanette.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -63,7 +63,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Green</_name>
+    <name>Green</name>
     <filename>/usr/share/backgrounds/Green_by_Alan_Mattila.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -71,7 +71,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Grey day</_name>
+    <name>Grey day</name>
     <filename>/usr/share/backgrounds/Grey_day_by_Drew__.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -79,7 +79,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Holes</_name>
+    <name>Holes</name>
     <filename>/usr/share/backgrounds/Holes_by_FireCobold.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -87,7 +87,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Ilunabarra Azkainetik</_name>
+    <name>Ilunabarra Azkainetik</name>
     <filename>/usr/share/backgrounds/Ilunabarra_Azkainetik_by_Garuna_bor-bor.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -95,7 +95,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Lá no alto</_name>
+    <name>Lá no alto</name>
     <filename>/usr/share/backgrounds/La_no_alto_by_Allyson_Souza.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -103,7 +103,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Quandro</_name>
+    <name>Quandro</name>
     <filename>/usr/share/backgrounds/Quandro_by_Tomas_Vasconcelo.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -111,7 +111,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Signpost</_name>
+    <name>Signpost</name>
     <filename>/usr/share/backgrounds/Signpost_by_maroubal2.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -119,7 +119,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tiny Worlds</_name>
+    <name>Tiny Worlds</name>
     <filename>/usr/share/backgrounds/Tiny_Worlds_by_matthileo.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -127,7 +127,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Touch the light</_name>
+    <name>Touch the light</name>
     <filename>/usr/share/backgrounds/Touch_the_light_by_Matt_Katzenberger.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -135,7 +135,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Tri Narwhal</_name>
+    <name>Tri Narwhal</name>
     <filename>/usr/share/backgrounds/Tri_Narwhal_by_momez.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -143,7 +143,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Variations On Natty Narwhal 1</_name>
+    <name>Variations On Natty Narwhal 1</name>
     <filename>/usr/share/backgrounds/Variations-On-Natty-Narwhal-1_by_madeinkobaia.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -151,7 +151,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>White flowers</_name>
+    <name>White flowers</name>
     <filename>/usr/share/backgrounds/White_flowers_by_Garuna_bor-bor.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
