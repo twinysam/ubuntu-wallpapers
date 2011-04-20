@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.31.10) natty; urgency=low
+
+  * Make sure background is updated on upgrade. (LP: #746028)
+
+ -- Stéphane Graber <stgraber@ubuntu.com>  Wed, 20 Apr 2011 20:28:36 +0200
+
 ubuntu-wallpapers (0.31.9) natty; urgency=low
 
   * Wallpapers from the Ubuntu 11.04 community contest (LP: #740588)
