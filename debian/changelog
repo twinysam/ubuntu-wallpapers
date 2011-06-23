@@ -1,3 +1,11 @@
+ubuntu-wallpapers (0.31.11) oneiric; urgency=low
+
+  * Convert to dh_python2.
+  * Fix POT file naming.
+  * Update POT file from source.
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 23 Jun 2011 12:24:17 +0100
+
 ubuntu-wallpapers (0.31.10) natty; urgency=low
 
   * Make sure background is updated on upgrade. (LP: #746028)
