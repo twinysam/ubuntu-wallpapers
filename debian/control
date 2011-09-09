@@ -6,7 +6,7 @@ Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
 Build-Depends: debhelper (>= 5), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
 Build-Depends-Indep: python-distutils-extra, xsltproc
 X-Python-Version: >= 2.0
-Standards-Version: 3.9.1
+Standards-Version: 3.9.2
 
 Package: ubuntu-wallpapers
 Architecture: all
