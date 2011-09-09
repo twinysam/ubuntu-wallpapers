@@ -1,3 +1,10 @@
+ubuntu-wallpapers (0.32.0) oneiric; urgency=low
+
+  [Otto Greenslade]
+  * Update default wallpaper for Ubuntu 11.10 cycle. (LP: #833990)
+
+ -- Paul Sladen <sladen@ubuntu.com>  Fri, 09 Sep 2011 20:56:13 +0100
+
 ubuntu-wallpapers (0.31.11) oneiric; urgency=low
 
   * Convert to dh_python2.
