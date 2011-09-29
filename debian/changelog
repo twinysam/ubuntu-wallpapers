@@ -1,3 +1,11 @@
+ubuntu-wallpapers (0.32.1) oneiric; urgency=low
+
+  [Iain Farrell/Otto Greenslade]
+  * Wallpapers from the Ubuntu 11.10 community contest (LP: #829213)
+    http://design.canonical.com/2011/08/quick-wallpaper-update/
+
+ -- Paul Sladen <sladen@ubuntu.com>  Thu, 29 Sep 2011 20:59:59 +0000
+
 ubuntu-wallpapers (0.32.0) oneiric; urgency=low
 
   [Otto Greenslade]
