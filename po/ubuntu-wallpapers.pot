@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-23 12:21+0100\n"
+"POT-Creation-Date: 2011-09-29 23:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,77 +18,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
-msgid "Aeg"
+msgid "Buck Off!"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:2
-msgid "Arboreal ballet"
+msgid "Darkening Clockwork"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:3
-msgid "Aubergine Sea"
+msgid "Dybbølsbro Station"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:4
-msgid "Berries"
+msgid "Jardin Polar"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:5
-msgid "Bird"
+msgid "Langelinie Allé"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:6
-msgid "Fabric"
+msgid "Momiji Dream"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:7
-msgid "Green"
+msgid "Mount Snowdon, Wales"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:8
-msgid "Grey day"
+msgid "Not Alone"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:9
-msgid "Holes"
+msgid "Power of Words"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:10
-msgid "Ilunabarra Azkainetik"
+msgid "Purple Dancers"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:11
-msgid "Lá no alto"
+msgid "Small flowers"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:12
-msgid "Quandro"
+msgid "Stalking Ocelot"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:13
-msgid "Signpost"
+msgid "The Grass Ain't Greener"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:14
-msgid "Tiny Worlds"
-msgstr ""
-
-#: ../ubuntu-wallpapers.xml.in.h:15
-msgid "Touch the light"
-msgstr ""
-
-#: ../ubuntu-wallpapers.xml.in.h:16
-msgid "Tri Narwhal"
-msgstr ""
-
-#: ../ubuntu-wallpapers.xml.in.h:17
 msgid "Ubuntu"
 msgstr ""
 
-#: ../ubuntu-wallpapers.xml.in.h:18
-msgid "Variations On Natty Narwhal 1"
-msgstr ""
-
-#: ../ubuntu-wallpapers.xml.in.h:19
-msgid "White flowers"
+#: ../ubuntu-wallpapers.xml.in.h:15
+msgid "Wild Wheat"
 msgstr ""

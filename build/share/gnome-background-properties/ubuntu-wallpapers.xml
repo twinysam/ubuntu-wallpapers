@@ -1,8 +1,8 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>Ubuntu</_name>
+    <name>Ubuntu</name>
     <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
@@ -15,7 +15,7 @@
     <options>zoom</options>
   </wallpaper>
   <wallpaper>
-    <_name>Buck Off!</_name>
+    <name>Buck Off!</name>
     <filename>/usr/share/backgrounds/Buck_off!_by_SirPecanGum.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -23,7 +23,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Darkening Clockwork</_name>
+    <name>Darkening Clockwork</name>
     <filename>/usr/share/backgrounds/Darkening_Clockwork_by_Matt_Katzenberger.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -31,7 +31,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Dybbølsbro Station</_name>
+    <name>Dybbølsbro Station</name>
     <filename>/usr/share/backgrounds/Dybbølsbro_Station_by_SirPecanGum.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -39,7 +39,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Jardin Polar</_name>
+    <name>Jardin Polar</name>
     <filename>/usr/share/backgrounds/JardinPolar_by_CarmenGloria_Gonzalez.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -47,7 +47,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Langelinie Allé</_name>
+    <name>Langelinie Allé</name>
     <filename>/usr/share/backgrounds/Langelinie_Allé_by_SirPecanGum.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -55,7 +55,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Momiji Dream</_name>
+    <name>Momiji Dream</name>
     <filename>/usr/share/backgrounds/Momiji_Dream_by_Deacon_MacMillan.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -63,7 +63,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Mount Snowdon, Wales</_name>
+    <name>Mount Snowdon, Wales</name>
     <filename>/usr/share/backgrounds/Mount_Snowdon,_Wales_by_Adam_Vellender.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -71,7 +71,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Not Alone</_name>
+    <name>Not Alone</name>
     <filename>/usr/share/backgrounds/Not_Alone_by_Deacon_MacMillan.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -79,7 +79,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Power of Words</_name>
+    <name>Power of Words</name>
     <filename>/usr/share/backgrounds/Power_of_Words_by_Antonio_Litterio.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -87,7 +87,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Purple Dancers</_name>
+    <name>Purple Dancers</name>
     <filename>/usr/share/backgrounds/PurpleDancers_by_Emilio_Merlino.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -95,7 +95,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Small flowers</_name>
+    <name>Small flowers</name>
     <filename>/usr/share/backgrounds/Small_flowers_by_Dariusz_Duma.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -103,7 +103,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Stalking Ocelot</_name>
+    <name>Stalking Ocelot</name>
     <filename>/usr/share/backgrounds/Stalking_Ocelot_by_Sayantan_Chaudhuri.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -111,7 +111,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>The Grass Ain't Greener</_name>
+    <name>The Grass Ain't Greener</name>
     <filename>/usr/share/backgrounds/The_Grass_aint_Greener_by_fix_pena.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
@@ -119,7 +119,7 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Wild Wheat</_name>
+    <name>Wild Wheat</name>
     <filename>/usr/share/backgrounds/WildWheat_by_Brian_Burt.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
