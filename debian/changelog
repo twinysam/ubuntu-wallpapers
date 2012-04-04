@@ -1,3 +1,11 @@
+ubuntu-wallpapers (0.33.0) precise; urgency=low
+
+  [Andrea Cimitan/Otto Greenslade/Xi Zhu]
+  * Wallpapers from the Ubuntu 12.04 community contest (LP: #933562)
+  * Incremental update to the default wallpaper (LP: #968399)
+
+ -- Andrea Cimitan <andrea.cimitan@canonical.com>  Wed, 04 Apr 2012 12:50:37 +0100
+
 ubuntu-wallpapers (0.32.1) oneiric; urgency=low
 
   [Iain Farrell/Otto Greenslade]

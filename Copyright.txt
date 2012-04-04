@@ -1,4 +1,4 @@
-Ubuntu 11.10 Wallpaper shortlist selection full-set (precompression masters).
+Ubuntu 12.04 Wallpaper shortlist selection full-set (precompression masters).
 Hopefully we can do an 'ubuntu-wallpapers-high-quality' package too.
 
 Distributed under the Terms of the CC-BY-SA licence:
@@ -7,48 +7,17 @@ Distributed under the Terms of the CC-BY-SA licence:
 
 The wonderful artists and their works:
 
-
-Bridge in Scanolera		by  Robert Anderson
-Siberian Tiger			by  Jan Hoover
-Minas				by  CarmenGloria Gonzalez
-Buck off			by  SirPecanGum
-Berge II			by  Simon Schlegl
-Small flowers			by  Dariusz Duma
-Forest				by  Dariusz Duma
-Mulgustus			by  Tauno Erik
-WildWheat			by  Brian Burt
-Tower				by  Simon Schlegl
-The White Way			by  Simon Schlegl
-JardinPolar			by  CarmenGloria Gonzalez
-Soil				by  Erwin Udomlya
-La solucion-mañana		by  Pilar Flores
-El cielo sobre Berlin		by  Pilar Flores
-Purple Dancers			by  Emilio Merlino
-Not Alone			by  Deacon MacMillan
-Darkening Clockwork		by  Matt Katzenberger
-Renault Alpine Sideview		by  David Kirba
-Sepia Leaf			by  Erin Estes
-Langelinie Allé			by  SirPecanGum
-Woodland			by  Dariusz Duma
-Los colores del verde		by  Pilar Flores
-Rose				by  Simon Schlegl
-Dybbølsbro Station		by  SirPecanGum
-Dewy Clover			by  Noah Bertilson
-Autocoleopteros			by  CarmenGloria Gonzalez
-Deboth				by  Fernando Garca
-Segovia				by  Fernando Garca
-Penguin beach			by  edb
-Power of Words			by  Antonio Litterio
-Momiji Dream			by  Deacon MacMillan
-The Grass Ain't Greener		by  fix pena
-Sand Maze			by  Jose Bolorino
-Touchdown			by  Mohamed Malik
-Mount Snowdon Wales		by  Adam Vellender
-Take2				by  Francisco Villalobos
-Altitude			by  Erin Estes
-Variations on Oneiric Ocelot	by  madeinkobaia
-Stalking Ocelot			by  Sayantan Chaudhuri
-Reclining Ocelot		by  Sayantan Chaudhuri
-Oxygen				by  Hugo Cliff
-Red Poppies			by  Ádám Fejes
-Leaves				by  Federica Miglio
+Delicate Petals           by lefthandgergo
+Early Blossom             by Dh0r
+Flocking                  by noombox
+Floorboards               by Dawid Huczyński
+Golden Bloom              by Twinmama
+London Eye From Beneath   by Fernando García
+Morning Dew               by Lars Clausen
+Murales                   by Jan Bencini
+Precise Pangolin          by Vlad Gerasimov
+Speaker Weave             by Phil Jackson
+The Forbidden City        by Daniel Mathis
+Tie My Boat               by Ray García
+Twilight Frost            by Phil Jackson
+Winter Morning            by Shannon Lucas
