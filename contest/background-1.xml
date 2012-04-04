@@ -10,128 +10,128 @@
 <!-- This animation will start at midnight. -->
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Stalking_Ocelot_by_Sayantan_Chaudhuri.jpg</file>
+    <file>/usr/share/backgrounds/Twilight_Frost_by_Phil_Jackson.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Stalking_Ocelot_by_Sayantan_Chaudhuri.jpg</from>
-    <to>/usr/share/backgrounds/Small_flowers_by_Dariusz_Duma.jpg</to>
+    <from>/usr/share/backgrounds/Twilight_Frost_by_Phil_Jackson.jpg</from>
+    <to>/usr/share/backgrounds/Precise_Pangolin_by_Vlad_Gerasimov.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Small_flowers_by_Dariusz_Duma.jpg</file>
+    <file>/usr/share/backgrounds/Precise_Pangolin_by_Vlad_Gerasimov.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Small_flowers_by_Dariusz_Duma.jpg</from>
-    <to>/usr/share/backgrounds/WildWheat_by_Brian_Burt.jpg</to>
+    <from>/usr/share/backgrounds/Precise_Pangolin_by_Vlad_Gerasimov.jpg</from>
+    <to>/usr/share/backgrounds/The_Forbidden_City_by_Daniel_Mathis.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/WildWheat_by_Brian_Burt.jpg</file>
+    <file>/usr/share/backgrounds/The_Forbidden_City_by_Daniel_Mathis.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/WildWheat_by_Brian_Burt.jpg</from>
-    <to>/usr/share/backgrounds/JardinPolar_by_CarmenGloria_Gonzalez.jpg</to>
+    <from>/usr/share/backgrounds/The_Forbidden_City_by_Daniel_Mathis.jpg</from>
+    <to>/usr/share/backgrounds/Winter_Morning_by_Shannon_Lucas.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/JardinPolar_by_CarmenGloria_Gonzalez.jpg</file>
+    <file>/usr/share/backgrounds/Winter_Morning_by_Shannon_Lucas.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/JardinPolar_by_CarmenGloria_Gonzalez.jpg</from>
-    <to>/usr/share/backgrounds/Buck_off!_by_SirPecanGum.jpg</to>
+    <from>/usr/share/backgrounds/Winter_Morning_by_Shannon_Lucas.jpg</from>
+    <to>/usr/share/backgrounds/Morning_Dew_by_Lars_Clausen.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Buck_off!_by_SirPecanGum.jpg</file>
+    <file>/usr/share/backgrounds/Morning_Dew_by_Lars_Clausen.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Buck_off!_by_SirPecanGum.jpg</from>
-    <to>/usr/share/backgrounds/Not_Alone_by_Deacon_MacMillan.jpg</to>
+    <from>/usr/share/backgrounds/Morning_Dew_by_Lars_Clausen.jpg</from>
+    <to>/usr/share/backgrounds/Early_Blossom_by_Dh0r.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Not_Alone_by_Deacon_MacMillan.jpg</file>
+    <file>/usr/share/backgrounds/Early_Blossom_by_Dh0r.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Not_Alone_by_Deacon_MacMillan.jpg</from>
-    <to>/usr/share/backgrounds/Darkening_Clockwork_by_Matt_Katzenberger.jpg</to>
+    <from>/usr/share/backgrounds/Early_Blossom_by_Dh0r.jpg</from>
+    <to>/usr/share/backgrounds/Delicate_Petals_by_lefthandgergo.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Darkening_Clockwork_by_Matt_Katzenberger.jpg</file>
+    <file>/usr/share/backgrounds/Delicate_Petals_by_lefthandgergo.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Darkening_Clockwork_by_Matt_Katzenberger.jpg</from>
-    <to>/usr/share/backgrounds/The_Grass_aint_Greener_by_fix_pena.jpg</to>
+    <from>/usr/share/backgrounds/Delicate_Petals_by_lefthandgergo.jpg</from>
+    <to>/usr/share/backgrounds/Golden_Bloom_by_Twinmama.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/The_Grass_aint_Greener_by_fix_pena.jpg</file>
+    <file>/usr/share/backgrounds/Golden_Bloom_by_Twinmama.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/The_Grass_aint_Greener_by_fix_pena.jpg</from>
-    <to>/usr/share/backgrounds/Langelinie_Allé_by_SirPecanGum.jpg</to>
+    <from>/usr/share/backgrounds/Golden_Bloom_by_Twinmama.jpg</from>
+    <to>/usr/share/backgrounds/Tie_My_Boat_by_Ray_García.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Langelinie_Allé_by_SirPecanGum.jpg</file>
+    <file>/usr/share/backgrounds/Tie_My_Boat_by_Ray_García.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Langelinie_Allé_by_SirPecanGum.jpg</from>
-    <to>/usr/share/backgrounds/Dybbølsbro_Station_by_SirPecanGum.jpg</to>
+    <from>/usr/share/backgrounds/Tie_My_Boat_by_Ray_García.jpg</from>
+    <to>/usr/share/backgrounds/Murales_by_Jan_Bencini.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Dybbølsbro_Station_by_SirPecanGum.jpg</file>
+    <file>/usr/share/backgrounds/Murales_by_Jan_Bencini.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Dybbølsbro_Station_by_SirPecanGum.jpg</from>
-    <to>/usr/share/backgrounds/PurpleDancers_by_Emilio_Merlino.jpg</to>
+    <from>/usr/share/backgrounds/Murales_by_Jan_Bencini.jpg</from>
+    <to>/usr/share/backgrounds/Flocking_by_noombox.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/PurpleDancers_by_Emilio_Merlino.jpg</file>
+    <file>/usr/share/backgrounds/Flocking_by_noombox.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/PurpleDancers_by_Emilio_Merlino.jpg</from>
-    <to>/usr/share/backgrounds/Power_of_Words_by_Antonio_Litterio.jpg</to>
+    <from>/usr/share/backgrounds/Flocking_by_noombox.jpg</from>
+    <to>/usr/share/backgrounds/London_Eye_From_Beneath_by_Fernando_García.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Power_of_Words_by_Antonio_Litterio.jpg</file>
+    <file>/usr/share/backgrounds/London_Eye_From_Beneath_by_Fernando_García.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Power_of_Words_by_Antonio_Litterio.jpg</from>
-    <to>/usr/share/backgrounds/Momiji_Dream_by_Deacon_MacMillan.jpg</to>
+    <from>/usr/share/backgrounds/London_Eye_From_Beneath_by_Fernando_García.jpg</from>
+    <to>/usr/share/backgrounds/Floorboards_by_Dawid_Huczyński.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Momiji_Dream_by_Deacon_MacMillan.jpg</file>
+    <file>/usr/share/backgrounds/Floorboards_by_Dawid_Huczyński.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Momiji_Dream_by_Deacon_MacMillan.jpg</from>
-    <to>/usr/share/backgrounds/Mount_Snowdon,_Wales_by_Adam_Vellender.jpg</to>
+    <from>/usr/share/backgrounds/Floorboards_by_Dawid_Huczyński.jpg</from>
+    <to>/usr/share/backgrounds/Speaker_Weave_by_Phil_Jackson.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Mount_Snowdon,_Wales_by_Adam_Vellender.jpg</file>
+    <file>/usr/share/backgrounds/Speaker_Weave_by_Phil_Jackson.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Mount_Snowdon,_Wales_by_Adam_Vellender.jpg</from>
-    <to>/usr/share/backgrounds/Stalking_Ocelot_by_Sayantan_Chaudhuri.jpg</to>
+    <from>/usr/share/backgrounds/Speaker_Weave_by_Phil_Jackson.jpg</from>
+    <to>/usr/share/backgrounds/Twilight_Frost_by_Phil_Jackson.jpg</to>
   </transition>
 </background>
