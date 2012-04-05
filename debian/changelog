@@ -1,3 +1,24 @@
+ubuntu-wallpapers (0.34.0) precise; urgency=low
+
+  [ Jeremy Bicha ]
+  * New packages containing community wallpapers from karmic to oneiric
+    (LP: #863509)
+  * Bump dh compat to 8 & Standards-Version to 3.9.3
+  * debian/control.in:
+    - Drop old gutsy conflicts
+    - Conflict/replace against older ubuntu-wallpapers versions
+  * Update AUTHORS, COPYING, & debian/copyright
+
+  [ Ken VanDine ]
+  * Added ubuntu-wallpapers-precise
+  * debian/rules
+    - Dropped the xsltproc stuff, we don't need to generate gconf defaults
+      anymore
+  * debian/copyright
+    - added license paragraphs
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Thu, 05 Apr 2012 11:08:18 -0400
+
 ubuntu-wallpapers (0.33.0) precise; urgency=low
 
   [Andrea Cimitan/Otto Greenslade/Xi Zhu]

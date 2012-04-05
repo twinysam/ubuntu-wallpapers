@@ -5,14 +5,5 @@ DEB_PYTHON2_MODULE_PACKAGES := ubuntu-wallpapers
 include /usr/share/cdbs/1/rules/debhelper.mk
 include /usr/share/cdbs/1/class/python-distutils.mk
 
-binary-post-install/ubuntu-wallpapers::
-	# Grab the values from ubuntu-wallpapers.xml
-	xsltproc --novalid -o debian/gconf-defaults debian/wallpapers2gconf.xsl ubuntu-wallpapers.xml.in
-	# desktop-base from Debian uses priority 15, override its settings
-	dh_gconf --priority=16
-
-clean ::
-	$(RM) debian/gconf-defaults
-
 install/ubuntu-wallpapers::
-	rm -r debian/$(cdbs_curpkg)/usr/lib/python*
+	rm -r debian/tmp/usr/lib/python*

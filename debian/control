@@ -3,17 +3,68 @@ Section: x11
 Priority: optional
 Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
-Build-Depends: debhelper (>= 5), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
+Build-Depends: debhelper (>= 8), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
 Build-Depends-Indep: python-distutils-extra, xsltproc
-X-Python-Version: >= 2.0
-Standards-Version: 3.9.2
+Standards-Version: 3.9.3
 
 Package: ubuntu-wallpapers
 Architecture: all
-Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
-Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
+         ubuntu-wallpapers-precise
+Suggests: ubuntu-wallpapers-oneiric,
+          ubuntu-wallpapers-natty,
+          ubuntu-wallpapers-maverick,
+          ubuntu-wallpapers-lucid,
+          ubuntu-wallpapers-karmic
 Description: Ubuntu Wallpapers
- The default Wallpapers for Ubuntu. At the moment the package contains:
-  * Simple Ubuntu
-  * "Warty" Final
+ The default Ubuntu wallpaper. This is also a meta-package depending on the 
+ other default wallpapers for the current Ubuntu release.
+
+Package: ubuntu-wallpapers-karmic
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 9.10 Wallpapers
+ Wallpapers from the Ubuntu 9.10 community contest
+
+Package: ubuntu-wallpapers-lucid
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 10.04 Wallpapers
+ Wallpapers from the Ubuntu 10.04 community contest
+
+Package: ubuntu-wallpapers-maverick
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 10.10 Wallpapers
+ Wallpapers from the Ubuntu 10.10 community contest
+
+Package: ubuntu-wallpapers-natty
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 11.04 Wallpapers
+ Wallpapers from the Ubuntu 11.04 community contest
+
+Package: ubuntu-wallpapers-oneiric
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 11.10 Wallpapers
+ Wallpapers from the Ubuntu 11.10 community contest
+
+Package: ubuntu-wallpapers-precise
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 12.04 Wallpapers
+ Wallpapers from the Ubuntu 12.04 community contest
+
