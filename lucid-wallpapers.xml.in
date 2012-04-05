@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu 10.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/contest/lucid.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <_name>Bosque TK</_name>
+    <filename>/usr/share/backgrounds/BosqueTK.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Busqueda Nocturna</_name>
+    <filename>/usr/share/backgrounds/BusquedaNocturna.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Cornered</_name>
+    <filename>/usr/share/backgrounds/Cornered.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#212703</pcolor>
+    <scolor>#212703</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Curls by Candy</_name>
+    <filename>/usr/share/backgrounds/CurlsbyCandy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#a09b90</pcolor>
+    <scolor>#a09b90</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Daisy</_name>
+    <filename>/usr/share/backgrounds/Daisy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#0055ff</pcolor>
+    <scolor>#0055ff</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Fall Drops, Ancient Light</_name>
+    <filename>/usr/share/backgrounds/FallDrops,AncientLight.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Fluffodome</_name>
+    <filename>/usr/share/backgrounds/Fluffodome.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#011b36</pcolor>
+    <scolor>#011b36</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Icy stones 2</_name>
+    <filename>/usr/share/backgrounds/Icystones2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#717285</pcolor>
+    <scolor>#717285</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>In the dark Redux</_name>
+    <filename>/usr/share/backgrounds/InthedarkRedux.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Maraetai before sunrise</_name>
+    <filename>/usr/share/backgrounds/Maraetaibeforesunrise.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#091d5c</pcolor>
+    <scolor>#091d5c</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Out of focus</_name>
+    <filename>/usr/share/backgrounds/Outoffocus.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#c93d45</pcolor>
+    <scolor>#c93d45</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Pointy</_name>
+    <filename>/usr/share/backgrounds/Pointy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#64676a</pcolor>
+    <scolor>#64676a</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Warmlights</_name>
+    <filename>/usr/share/backgrounds/Warmlights.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#37200f</pcolor>
+    <scolor>#37200f</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Yellowflower</_name>
+    <filename>/usr/share/backgrounds/Yellowflower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#93a6b5</pcolor>
+    <scolor>#93a6b5</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>SmoothMoment</_name>
+    <filename>/usr/share/backgrounds/SmoothMoment.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#bababa</pcolor>
+    <scolor>#bababa</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>
