@@ -4,11 +4,12 @@ Priority: optional
 Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
 Build-Depends: debhelper (>= 8), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
-Build-Depends-Indep: python-distutils-extra, xsltproc
+Build-Depends-Indep: python-distutils-extra
 Standards-Version: 3.9.3
 
 Package: ubuntu-wallpapers
 Architecture: all
+Section: metapackages
 Depends: ${misc:Depends},
          ubuntu-wallpapers-precise
 Suggests: ubuntu-wallpapers-oneiric,
@@ -21,12 +22,21 @@ Description: Ubuntu Wallpapers
  other default wallpapers for the current Ubuntu release.
 
 Package: ubuntu-wallpapers-karmic
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
+Conflicts: ubuntu-wallpapers (<< 0.34.0), ubuntu-wallpapers-extra (<< 0.34.1~)
+Replaces: ubuntu-wallpapers (<< 0.34.0), ubuntu-wallpapers-extra (<< 0.34.1~)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 9.10 Wallpapers
  Wallpapers from the Ubuntu 9.10 community contest
+
+Package: ubuntu-wallpapers-extra
+Depends: ubuntu-wallpapers-karmic, ${misc:Depends}
+Architecture: all
+Section: oldlibs
+Priority: extra
+Description: transitional dummy package for ubuntu-wallpapers-karmic
+ This package is a transitional package to facilitate upgrades from
+ ubuntu-wallpapers-extra to ubuntu-wallpapers-karmic. It can be safely removed.
 
 Package: ubuntu-wallpapers-lucid
 Conflicts: ubuntu-wallpapers (<< 0.34.0)
