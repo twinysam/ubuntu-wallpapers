@@ -1,3 +1,23 @@
+ubuntu-wallpapers (0.34.1) precise; urgency=low
+
+  [ Ken VanDine ]
+  * debian/control
+    - dropped build depends for xsltproc
+    - set priority for transitional package ubuntu-wallpapers-extra to extra
+
+  [ Iain Lane ]
+  * debian/control
+    - Provide transitional package for ubuntu-wallpapers-extra, an old package
+      which was providing the Karmic wallpapers and thus shared files with
+      ubuntu-wallpapers-karmic. (LP: #975778)
+     - Put ubuntu-wallpapers (the package) in Section: metapackages as
+       dependencies of packages in this section are considered "manual" by apt
+       and therefore will not be removed on upgrades. This means that users
+       will keep wallpapers from old releases when upgrading. Thanks to James
+       Westby for pointing this out to me. (LP: #863509)
+
+ -- Iain Lane <laney@ubuntu.com>  Sat, 07 Apr 2012 21:36:50 +0100
+
 ubuntu-wallpapers (0.34.0) precise; urgency=low
 
   [ Jeremy Bicha ]
