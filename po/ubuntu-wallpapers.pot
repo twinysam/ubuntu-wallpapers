@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-05 10:47-0400\n"
+"POT-Creation-Date: 2012-08-30 16:50-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -403,4 +403,52 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:1
+msgid "A Little Quetzal"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:2
+msgid "Below Clouds"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:3
+msgid "Blue Dandelion"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:4
+msgid "Cairn"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:5
+msgid "Early Morning"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:6
+msgid "Frozen"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:7
+msgid "Gran Canaria"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:8
+msgid "Green Plant"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:9
+msgid "H"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:10
+msgid "Pantano de Orellana"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:11
+msgid "Roof Tiles"
+msgstr ""
+
+#: ../quantal-wallpapers.xml.in.h:12
+msgid "Vanishing"
 msgstr ""
