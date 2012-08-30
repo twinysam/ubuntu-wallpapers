@@ -11,12 +11,13 @@ Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
-         ubuntu-wallpapers-precise
+         ubuntu-wallpapers-quantal,
 Suggests: ubuntu-wallpapers-oneiric,
           ubuntu-wallpapers-natty,
           ubuntu-wallpapers-maverick,
           ubuntu-wallpapers-lucid,
-          ubuntu-wallpapers-karmic
+          ubuntu-wallpapers-karmic,
+          ubuntu-wallpapers-precise,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the 
  other default wallpapers for the current Ubuntu release.
@@ -77,4 +78,12 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 12.04 Wallpapers
  Wallpapers from the Ubuntu 12.04 community contest
+
+Package: ubuntu-wallpapers-quantal
+Conflicts: ubuntu-wallpapers (<< 0.34.0)
+Replaces: ubuntu-wallpapers (<< 0.34.0)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 12.10 Wallpapers
+ Wallpapers from the Ubuntu 12.10 community contest
 

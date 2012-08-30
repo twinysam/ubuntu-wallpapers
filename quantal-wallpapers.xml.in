@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu 12.10 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/contest/quantal.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <_name>A Little Quetzal</_name>
+    <filename>/usr/share/backgrounds/A_Little_Quetzal_by_vgerasimov.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Below Clouds</_name>
+    <filename>/usr/share/backgrounds/Below_Clouds_by_kobinho.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Blue Dandelion</_name>
+    <filename>/usr/share/backgrounds/Blue_Dandelion_by_Jaorizabal.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Cairn</_name>
+    <filename>/usr/share/backgrounds/Cairn_by_Sylvain_Naudin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Early Morning</_name>
+    <filename>/usr/share/backgrounds/Early_Morning_by_Robert_Katzki.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Frozen</_name>
+    <filename>/usr/share/backgrounds/Frozen_by_fernando_garcila_redondo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Gran Canaria</_name>
+    <filename>/usr/share/backgrounds/Gran_Canaria_by_ALF.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Green Plant</_name>
+    <filename>/usr/share/backgrounds/Green_Plant_by_Simon_Schlegl.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>H</_name>
+    <filename>/usr/share/backgrounds/H_by_Manuel_Sagredo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Pantano de Orellana</_name>
+    <filename>/usr/share/backgrounds/Pantano_de_Orellana_by_mgarciaiz.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Roof Tiles</_name>
+    <filename>/usr/share/backgrounds/Roof_Tiles_by_Finn_Sturdy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Vanishing</_name>
+    <filename>/usr/share/backgrounds/Vanishing_by_James_Wilson.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>
