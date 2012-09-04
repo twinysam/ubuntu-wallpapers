@@ -23,14 +23,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <_name>Blue Dandelion</_name>
-    <filename>/usr/share/backgrounds/Blue_Dandelion_by_Jaorizabal.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <_name>Cairn</_name>
     <filename>/usr/share/backgrounds/Cairn_by_Sylvain_Naudin.jpg</filename>
     <options>zoom</options>
