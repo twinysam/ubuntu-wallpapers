@@ -413,10 +413,6 @@ msgstr ""
 msgid "Below Clouds"
 msgstr ""
 
-#: ../quantal-wallpapers.xml.in.h:3
-msgid "Blue Dandelion"
-msgstr ""
-
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Cairn"
 msgstr ""

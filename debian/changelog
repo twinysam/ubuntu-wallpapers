@@ -1,3 +1,10 @@
+ubuntu-wallpapers (0.35.1) quantal; urgency=low
+
+  * Removed Blue_Dandelion_by_Jaorizabal.jpg, it was submitted without the 
+    original creator's consent (LP: #1045841)
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Tue, 04 Sep 2012 15:08:41 -0400
+
 ubuntu-wallpapers (0.35.0) quantal; urgency=low
 
   * New contest wallpapers for quantal
