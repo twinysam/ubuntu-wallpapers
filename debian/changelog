@@ -1,3 +1,9 @@
+ubuntu-wallpapers (0.35.2) quantal; urgency=low
+
+  * Update default 12.10 wallpaper (LP: #1048976)
+
+ -- Didier Roche <didrocks@ubuntu.com>  Tue, 11 Sep 2012 15:25:33 +0200
+
 ubuntu-wallpapers (0.35.1) quantal; urgency=low
 
   * Removed Blue_Dandelion_by_Jaorizabal.jpg, it was submitted without the 
