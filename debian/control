@@ -2,10 +2,15 @@ Source: ubuntu-wallpapers
 Section: x11
 Priority: optional
 Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
-Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
-Build-Depends: debhelper (>= 8), cdbs (>= 0.4.90~), python (>= 2.6.6-3~)
+Build-Depends: debhelper (>= 9),
+               python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra
 Standards-Version: 3.9.3
+# If you aren't a member of ~ubuntu-art-pkg but need to upload
+# packaging changes, just go ahead. ~ubuntu-art-pkg will notice
+# and sync up the code again.
+Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
+Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu/files
 
 Package: ubuntu-wallpapers
 Architecture: all
@@ -23,65 +28,42 @@ Description: Ubuntu Wallpapers
  other default wallpapers for the current Ubuntu release.
 
 Package: ubuntu-wallpapers-karmic
-Conflicts: ubuntu-wallpapers (<< 0.34.0), ubuntu-wallpapers-extra (<< 0.34.1~)
-Replaces: ubuntu-wallpapers (<< 0.34.0), ubuntu-wallpapers-extra (<< 0.34.1~)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 9.10 Wallpapers
  Wallpapers from the Ubuntu 9.10 community contest
 
-Package: ubuntu-wallpapers-extra
-Depends: ubuntu-wallpapers-karmic, ${misc:Depends}
-Architecture: all
-Section: oldlibs
-Priority: extra
-Description: transitional dummy package for ubuntu-wallpapers-karmic
- This package is a transitional package to facilitate upgrades from
- ubuntu-wallpapers-extra to ubuntu-wallpapers-karmic. It can be safely removed.
-
 Package: ubuntu-wallpapers-lucid
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 10.04 Wallpapers
  Wallpapers from the Ubuntu 10.04 community contest
 
 Package: ubuntu-wallpapers-maverick
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 10.10 Wallpapers
  Wallpapers from the Ubuntu 10.10 community contest
 
 Package: ubuntu-wallpapers-natty
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 11.04 Wallpapers
  Wallpapers from the Ubuntu 11.04 community contest
 
 Package: ubuntu-wallpapers-oneiric
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 11.10 Wallpapers
  Wallpapers from the Ubuntu 11.10 community contest
 
 Package: ubuntu-wallpapers-precise
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 12.04 Wallpapers
  Wallpapers from the Ubuntu 12.04 community contest
 
 Package: ubuntu-wallpapers-quantal
-Conflicts: ubuntu-wallpapers (<< 0.34.0)
-Replaces: ubuntu-wallpapers (<< 0.34.0)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu 12.10 Wallpapers
