@@ -5,7 +5,7 @@ Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Build-Depends: debhelper (>= 9),
                python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra
-Standards-Version: 3.9.3
+Standards-Version: 3.9.4
 # If you aren't a member of ~ubuntu-art-pkg but need to upload
 # packaging changes, just go ahead. ~ubuntu-art-pkg will notice
 # and sync up the code again.
@@ -16,13 +16,14 @@ Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
-         ubuntu-wallpapers-quantal,
+         ubuntu-wallpapers-raring,
 Suggests: ubuntu-wallpapers-oneiric,
           ubuntu-wallpapers-natty,
           ubuntu-wallpapers-maverick,
           ubuntu-wallpapers-lucid,
           ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-precise,
+          ubuntu-wallpapers-quantal,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the 
  other default wallpapers for the current Ubuntu release.
@@ -69,3 +70,8 @@ Depends: ${misc:Depends}
 Description: Ubuntu 12.10 Wallpapers
  Wallpapers from the Ubuntu 12.10 community contest
 
+Package: ubuntu-wallpapers-raring
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu 13.04 Wallpapers
+ Wallpapers from the Ubuntu 13.04 community contest

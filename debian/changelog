@@ -1,3 +1,16 @@
+ubuntu-wallpapers (13.04.0daily13.03.20-0ubuntu1) raring; urgency=low
+
+  [ Didier Roche ]
+  * Bump standards-version
+  * debian/control, debian/*install:
+    - add the new raring wallpaper packages
+  * Community Wallpaper selection for 13.04 (LP: #1157151)
+
+  [ Ubuntu daily release ]
+  * Automatic snapshot from revision 96
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Wed, 20 Mar 2013 00:03:12 +0000
+
 ubuntu-wallpapers (13.04daily12.12.13.1-0ubuntu1) raring; urgency=low
 
   [ Didier Roche ]
