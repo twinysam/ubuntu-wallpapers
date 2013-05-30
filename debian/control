@@ -4,74 +4,75 @@ Priority: optional
 Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Build-Depends: debhelper (>= 9),
                python (>= 2.6.6-3~),
-Build-Depends-Indep: python-distutils-extra
+Build-Depends-Indep: python-distutils-extra,
 Standards-Version: 3.9.4
+Homepage: https://launchpad.net/ubuntu-wallpapers
 # If you aren't a member of ~ubuntu-art-pkg but need to upload
 # packaging changes, just go ahead. ~ubuntu-art-pkg will notice
 # and sync up the code again.
-Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
+Vcs-Bzr: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
 Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu/files
 
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ${misc:Depends},
-         ubuntu-wallpapers-raring,
-Suggests: ubuntu-wallpapers-oneiric,
-          ubuntu-wallpapers-natty,
-          ubuntu-wallpapers-maverick,
+Depends: ubuntu-wallpapers-raring,
+         ${misc:Depends},
+Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
-          ubuntu-wallpapers-karmic,
+          ubuntu-wallpapers-maverick,
+          ubuntu-wallpapers-natty,
+          ubuntu-wallpapers-oneiric,
           ubuntu-wallpapers-precise,
           ubuntu-wallpapers-quantal,
 Description: Ubuntu Wallpapers
- The default Ubuntu wallpaper. This is also a meta-package depending on the 
+ The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
 
 Package: ubuntu-wallpapers-karmic
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 9.10 Wallpapers
  Wallpapers from the Ubuntu 9.10 community contest
 
 Package: ubuntu-wallpapers-lucid
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 10.04 Wallpapers
  Wallpapers from the Ubuntu 10.04 community contest
 
 Package: ubuntu-wallpapers-maverick
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 10.10 Wallpapers
  Wallpapers from the Ubuntu 10.10 community contest
 
 Package: ubuntu-wallpapers-natty
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 11.04 Wallpapers
  Wallpapers from the Ubuntu 11.04 community contest
 
 Package: ubuntu-wallpapers-oneiric
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 11.10 Wallpapers
  Wallpapers from the Ubuntu 11.10 community contest
 
 Package: ubuntu-wallpapers-precise
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 12.04 Wallpapers
  Wallpapers from the Ubuntu 12.04 community contest
 
 Package: ubuntu-wallpapers-quantal
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 12.10 Wallpapers
  Wallpapers from the Ubuntu 12.10 community contest
 
 Package: ubuntu-wallpapers-raring
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Ubuntu 13.04 Wallpapers
  Wallpapers from the Ubuntu 13.04 community contest
