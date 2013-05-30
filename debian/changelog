@@ -1,3 +1,26 @@
+ubuntu-wallpapers (13.04.0daily13.05.30-0ubuntu1) saucy; urgency=low
+
+  * Automatic snapshot from revision 100
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Thu, 30 May 2013 00:25:07 +0000
+
+ubuntu-wallpapers (13.04.0daily13.05.29ubuntu.unity.next-0ubuntu1) saucy; urgency=low
+
+  * Automatic snapshot from revision 99 (ubuntu-unity/next)
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Wed, 29 May 2013 16:56:02 +0000
+
+ubuntu-wallpapers (13.04.0daily13.05.20ubuntu.unity.next-0ubuntu1) raring; urgency=low
+
+  [ Łukasz 'sil2100' Zemczak ]
+  * debian/control, debian/rules:
+    - Modifications related to compliance with our packaging standards
+
+  [ Ubuntu daily release ]
+  * Automatic snapshot from revision 98 (ubuntu-unity/next)
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Mon, 20 May 2013 00:02:40 +0000
+
 ubuntu-wallpapers (13.04.0daily13.03.20-0ubuntu1) raring; urgency=low
 
   [ Didier Roche ]
