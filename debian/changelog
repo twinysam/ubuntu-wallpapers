@@ -1,3 +1,13 @@
+ubuntu-wallpapers (13.04.0+13.10.20130710-0ubuntu1) saucy; urgency=low
+
+  [ Nicolas Delvaux ]
+  * Fix the Karmic slideshow (LP: #1177260)
+
+  [ Ubuntu daily release ]
+  * Automatic snapshot from revision 102
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Wed, 10 Jul 2013 06:19:18 +0000
+
 ubuntu-wallpapers (13.04.0daily13.05.30-0ubuntu1) saucy; urgency=low
 
   * Automatic snapshot from revision 100
