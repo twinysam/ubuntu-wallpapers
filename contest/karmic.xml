@@ -151,6 +151,7 @@
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Sunset.jpg</from>
     <to>/usr/share/backgrounds/TheRainbowisDead.jpg</to>
+  </transition>
   <static>
     <duration>1795.0</duration>
     <file>/usr/share/backgrounds/TheRainbowisDead.jpg</file>
