@@ -1,3 +1,20 @@
+ubuntu-wallpapers (13.04.0+13.10.20130823-0ubuntu1) saucy; urgency=low
+
+  [ Iain Lane ]
+  * AUTHORS: fix raring alignment
+  * Add raring-wallpapers to POTFILES.in
+  * Add Saucy contest wallpapers and packaging
+  * Copyright → 2013
+  * Add saucy-wallpapers.xml.in to POTFILES.in
+
+  [ Dmitrijs Ledkovs ]
+  * Update pot
+
+  [ Ubuntu daily release ]
+  * Automatic snapshot from revision 109
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Fri, 23 Aug 2013 18:06:53 +0000
+
 ubuntu-wallpapers (13.04.0+13.10.20130710-0ubuntu1) saucy; urgency=low
 
   [ Nicolas Delvaux ]
