@@ -1,4 +1,4 @@
-# Czech translation for ubuntu-wallpapers
+# Lojban translation for ubuntu-wallpapers
 # Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
 # This file is distributed under the same license as the ubuntu-wallpapers package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
@@ -8,567 +8,567 @@ msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2013-12-10 17:19+0000\n"
-"Last-Translator: Tadeáš Pařík <tadeas.parik@gmail.com>\n"
-"Language-Team: Czech <cs@li.org>\n"
+"PO-Revision-Date: 2013-11-26 17:45+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Lojban <jbo@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-12-11 05:13+0000\n"
-"X-Generator: Launchpad (build 16869)\n"
+"X-Launchpad-Export-Date: 2013-11-27 04:32+0000\n"
+"X-Generator: Launchpad (build 16845)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
-msgstr "Ubuntu"
+msgstr "lu ubuntus"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr "Bílá orchidej"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr "Padající kamínky"
+msgstr "lu renro be loi rokci"
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr "Východ slunce.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr "Lesklá hladina.jpg"
+msgstr "lu ka u'e jmive"
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr "Tráva.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr "Šplhání.jpg"
+msgstr "lu nuncpare"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr "Třešně.jpg"
+msgstr "lu rutrceraso"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr "Červená primulka"
+msgstr "lu xunre spatrprimula"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr "Motýl"
+msgstr "lu toldi"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
-msgstr "Duha je mrtvá"
+msgstr "lu tanbargu cu morsi"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr "Západ slunce"
+msgstr "lu solnuncanci"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
-msgstr "Staré boty"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr "Písek"
+msgstr "lu canre"
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
-msgstr "Palmová zahrada"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr "Naranja"
+msgstr "la'oi naranja"
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr "Tajemné ráno"
+msgstr "lu bumru cerni"
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr "Žába"
+msgstr "lu pipybanfi"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr "Lotus"
+msgstr "la'o sy flor de loto sy"
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr "Zátoka"
+msgstr "lu zbani"
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr "Les"
+msgstr "la'o sy bosque TK sy"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr "Noční hledání"
+msgstr "la'o sy Busqueda Nocturna"
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr "Hranatý"
+msgstr "lu ckaji lo ka kojna"
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
-msgstr "Sladké kudrliny"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr "Sedmikráska"
+msgstr "lu sparbeli"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
-msgstr "Padající kapky, Starobylé světlo"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr "Odkvetlá pampeliška"
+msgstr "la'o gy Fluffodome gy"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr "Ledové kameny 2"
+msgstr "remoi me lu bisli rokci"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
-msgstr "V temném Reduxu"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
-msgstr "Maraetai před východem slunce"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr "Rozostřený"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
-msgstr "Špičatý"
+msgstr "lu jipno co'e"
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr "Teplé světlo"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr "Žlutý květ"
+msgstr "lu sparxolokarpa"
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr "Hladký moment"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
-msgstr "Aeg"
+msgstr "la'oi Aeg"
 
 #: ../maverick-wallpapers.xml.in.h:2
 msgid "Blue box number 2"
-msgstr "Modrá krabice číslo 2"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:3
 msgid "Blue"
-msgstr "Modrá"
+msgstr "lu blanu"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr "Bubliny"
+msgstr "loi fomsle"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
-msgstr "Montbrécie"
+msgstr "la'oi Crocosmia"
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr "Pírko"
+msgstr "lu pimlu"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr "Kapradí"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr "Život"
+msgstr "lu ka jmive"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr "Tekuté sklo"
+msgstr "lu litki blaci"
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr "Upřený pohled"
+msgstr "la'o sy Mirada Perduda sy"
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
-msgstr "Ráno II"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
-msgstr "První východ slunce 2010"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:13
 msgid "Ropey Photo"
-msgstr "Provaz"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr "Čarovný klid"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
-msgstr "Úsměv"
+msgstr "lu cisma"
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr "Spirála"
+msgstr "lu sarlu"
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
-msgstr "Vodní provaz"
+msgstr "lu djacu linsi"
 
 #: ../natty-wallpapers.xml.in.h:2
 msgid "Arboreal ballet"
-msgstr "Stromový balet"
+msgstr "lu tricu nu dansrbaleto"
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr "Tmavofialové moře"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:4
 msgid "Berries"
-msgstr "Bobule"
+msgstr "lu loi jbari"
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr "Pták"
+msgstr "lu cipni"
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
-msgstr "Látka"
+msgstr "lu bukpu"
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
-msgstr "Zelená"
+msgstr "lu crino"
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
-msgstr "Šedý den"
+msgstr "lu grusi donri"
 
 #: ../natty-wallpapers.xml.in.h:9
 msgid "Holes"
-msgstr "Díry"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
-msgstr "Západ slunce"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:11
 msgid "Lá no alto"
-msgstr "Lá no alto"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:12
 msgid "Quandro"
-msgstr "Quandro"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
-msgstr "Ukazatel"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr "Malé světy"
+msgstr "lu loi cmatce munje"
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
-msgstr "Dotkni se světla"
+msgstr "lu ko pencu lo gusni"
 
 #: ../natty-wallpapers.xml.in.h:16
 msgid "Tri Narwhal"
-msgstr "Tri Narwhal"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:17
 msgid "Variations On Natty Narwhal 1"
-msgstr "Variace na elegantního narvala 1"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr "Bílé květy"
+msgstr "lu loi blabi xrula"
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
-msgstr "Buck Off!"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:2
 msgid "Darkening Clockwork"
-msgstr "Hodinový strojek"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
-msgstr "Nádraží Dybbølsbro"
+msgstr "lu le dijytcana be me'e zo'oi dybbølsbro"
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
-msgstr "Ladovská zima"
+msgstr "la'oi gy jardin polar gy"
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr "Dlouhá alej"
+msgstr "la'oi gy Langelinie Allé gy"
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
-msgstr "Podzimní snění"
+msgstr "lu me la momiji se senva"
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
-msgstr "Mount Snowdon, Wales"
+msgstr "lu cmana me'e zo snuvdon bu'u la ueils"
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr "Nebýt sám"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr "Síla slov"
+msgstr "lu kamvli loi valsi"
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr "Večerní ples"
+msgstr "lu zirpu dansu"
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr "Malé květiny"
+msgstr "lu loi cmalu xrula"
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
-msgstr "Číhající ocelot"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:13
 msgid "The Grass Ain't Greener"
-msgstr "Tráva není zelenější"
+msgstr "lu loi srasu na ri'ozma"
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr "Divoká pšenice"
+msgstr "lu cilce maxri"
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr "Jemné okvětní lístky"
+msgstr "lu ralji rulralpezli"
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr "časný květ"
+msgstr "lu clira nunxrula"
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
-msgstr "Vločkování"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:4
 msgid "Floorboards"
-msgstr "Prkenná podlaha"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr "Zlatý květ"
+msgstr "lu solji xrula"
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
-msgstr "Londýnské oko od Beneath"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr "Ranní rosa"
+msgstr "lu cerni ctejau"
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
-msgstr "Nástěnné malby"
+msgstr "lu bimxra"
 
 #: ../precise-wallpapers.xml.in.h:9
 msgid "Precise Pangolin"
-msgstr "Precizní luskoun"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:10
 msgid "Speaker Weave"
-msgstr "Reproduktor"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr "Zakázané město"
+msgstr "lu se tolcru tcadu"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr "Uvázaný člun"
+msgstr "lu ko ciljongau lo mi bloti"
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr "Ranní mráz"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr "Zimní ráno"
+msgstr "lu dunra cerni"
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr "Malý kvesal"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr "Pod mraky"
+msgstr "lu ni'a dilnu"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr "Mužik"
+msgstr "la'oi Cairn"
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr "Časně ráno"
+msgstr "lu clira cerni"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr "Zmrzlý"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr "Gran Canaria"
+msgstr "lu gran.kanarias"
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr "Zelená rostlina"
+msgstr "lu crino spati"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr "H"
+msgstr "lu y'ybu"
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
-msgstr "Bažina Orellana"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr "Střešní tašky"
+msgstr "lu drudi tapla"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr "Mizející"
+msgstr "lu canci"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr "Begónie"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr "Modrá námraza"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr "Psací stroj Brother"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
-msgstr "Cacomixtle Ubunteño"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr "Květy slivoně 24"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr "La Gomera"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
-msgstr "Přistání"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr "Poslední nádech"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr "Zbytek"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr "Ranní slunce na mrazem pokrytých listech"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr "Semafor"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
-msgstr "Osamělý tah"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr "Zimní mlha"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr "163"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
-msgstr "Cyklotron"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
-msgstr "Gota D'água"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr "Tráva"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
-msgstr "Jsem drzý mlok..."
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr "Hory"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr "Pan Tau a strom -"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr "Nylonová duha"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr "Dub"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr "Mlok"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr "Abstraktní drzý mlok"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr "Skvrna savany"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
-msgstr "Tis červený"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr "The City of Polen"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
-msgstr "Venku stojící"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
-msgstr "Thingvellir"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr "Bez názvu"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr "Lekníny"
+msgstr ""
