@@ -5,7 +5,7 @@ Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Build-Depends: debhelper (>= 9),
                python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra,
-Standards-Version: 3.9.4
+Standards-Version: 3.9.5
 Homepage: https://launchpad.net/ubuntu-wallpapers
 # If you aren't a member of ~ubuntu-art-pkg but need to upload
 # packaging changes, just go ahead. ~ubuntu-art-pkg will notice
@@ -16,9 +16,10 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-saucy,
+Depends: ubuntu-wallpapers-trusty,
          ${misc:Depends},
-Suggests: ubuntu-wallpapers-karmic,
+Suggests: ubuntu-wallpapers-saucy,
+          ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
           ubuntu-wallpapers-maverick,
           ubuntu-wallpapers-natty,
@@ -83,3 +84,9 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 13.10 Wallpapers
  Wallpapers from the Ubuntu 13.10 community contest
+
+Package: ubuntu-wallpapers-trusty
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 14.04 Wallpapers
+ Wallpapers from the Ubuntu 14.04 community contest
