@@ -1,3 +1,15 @@
+ubuntu-wallpapers (14.04.0-0ubuntu1) trusty; urgency=medium
+
+  [ Ken VanDine ]
+  * Upstream version bump 
+  * bumped standards version to 3.9.5
+  * Added ubuntu-wallpapers-trusty with the 14.04 contest winner (LP: #1275798)
+  * Updated default wallpaper for 14.04 (fixes the "Hey we've forgotten to
+    include the new default background in 14.04 which OMG!Ubuntu reported
+    about" LP: #1290917)
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 12 Mar 2014 14:48:03 +0000
+
 ubuntu-wallpapers (13.04.0+13.10.20130924.1-0ubuntu2) trusty; urgency=medium
 
   [ Ken VanDine ]  
