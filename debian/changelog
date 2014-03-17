@@ -1,3 +1,15 @@
+ubuntu-wallpapers (14.04.0.1-0ubuntu1) trusty; urgency=medium
+
+  [ Michal Izydorczyk ]
+  * Update wallpaper with better alignment (LP: #1291735)
+
+  [ Ken Vandine / Iain Farrell ]
+  * Replaced Water_web_by_Tom_Kijas.jpg with a new version and included a
+    new content wallpaper now that we've gotten permission to use it. (LP:
+    #1275798)
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Mon, 17 Mar 2014 10:17:47 +0000
+
 ubuntu-wallpapers (14.04.0-0ubuntu1) trusty; urgency=medium
 
   [ Ken VanDine ]

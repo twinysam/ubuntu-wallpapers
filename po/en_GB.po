@@ -8,114 +8,114 @@ msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2013-09-17 12:00+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-03-16 14:37+0000\n"
+"Last-Translator: Anthony Harrington <untaintableangel@ubuntu.com>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-09-19 04:37+0000\n"
-"X-Generator: Launchpad (build 16765)\n"
+"X-Launchpad-Export-Date: 2014-03-17 04:42+0000\n"
+"X-Generator: Launchpad (build 16963)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr ""
+msgstr "White Orchid"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr ""
+msgstr "Throwing Stones"
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr ""
+msgstr "Radioactive Sunrise.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr ""
+msgstr "O Life.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr ""
+msgstr "Grass in A.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr ""
+msgstr "Climbing.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr ""
+msgstr "Cherries.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr ""
+msgstr "Primula Red"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr ""
+msgstr "Butterfly"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
-msgstr ""
+msgstr "The Rainbow is Dead"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr ""
+msgstr "Sunset"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
-msgstr ""
+msgstr "Mi old, old Shoes"
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr ""
+msgstr "Sand"
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
-msgstr ""
+msgstr "Palmengarten"
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr ""
+msgstr "Naranja"
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr ""
+msgstr "Misty Morning"
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr ""
+msgstr "Frog"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr ""
+msgstr "Flor de Loto"
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr ""
+msgstr "Bay"
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr ""
+msgstr "Bosque TK"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr ""
+msgstr "Busqueda Nocturna"
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr ""
+msgstr "Cornered"
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
-msgstr ""
+msgstr "Curls by Candy"
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr ""
+msgstr "Daisy"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
@@ -123,15 +123,15 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr ""
+msgstr "Fluffodome"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr ""
+msgstr "Icy stones 2"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
-msgstr ""
+msgstr "In the dark Redux"
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
@@ -233,7 +233,7 @@ msgstr ""
 msgid "Aubergine Sea"
 msgstr ""
 
-#: ../natty-wallpapers.xml.in.h:4
+#: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
 msgstr ""
 
@@ -451,124 +451,124 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr ""
+msgstr "Begonia"
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr ""
+msgstr "Blue frost"
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr ""
+msgstr "Brother typewriter"
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
-msgstr ""
+msgstr "Cacomixtle Ubunteño"
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr ""
+msgstr "Fleurs de Prunus 24"
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr ""
+msgstr "La Gomera"
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
-msgstr ""
+msgstr "Landing"
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr ""
+msgstr "Last breath…"
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr ""
+msgstr "Leftover"
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr ""
+msgstr "Morning Sun on Frost-Covered Leaves"
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr ""
+msgstr "Stop the light"
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
-msgstr ""
+msgstr "Trazo solitario"
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr ""
+msgstr "Winter Fog"
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr ""
+msgstr "163"
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
-msgstr ""
+msgstr "Cyclotron"
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
-msgstr ""
+msgstr "Gota D'água"
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr ""
+msgstr "Grass"
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
-msgstr ""
+msgstr "I am a Saucy Salamander..."
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr ""
+msgstr "Mountains"
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr ""
+msgstr "Mr. Tau and The Tree -"
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr ""
+msgstr "Nylon Rainbow"
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr ""
+msgstr "Oak"
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr ""
+msgstr "Salamander"
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr ""
+msgstr "Saucy Salamander Abstract"
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr ""
+msgstr "Savannah Lilian Blot"
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
-msgstr ""
+msgstr "Taxus baccata"
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr ""
+msgstr "The City of Polen"
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
-msgstr ""
+msgstr "THE 'OUT' STANDING"
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
-msgstr ""
+msgstr "Thingvellir"
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr ""
+msgstr "Untitled"
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr ""
+msgstr "Water Lily"
