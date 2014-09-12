@@ -16,17 +16,18 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-trusty,
+Depends: ubuntu-wallpapers-utopic,
          ${misc:Depends},
-Suggests: ubuntu-wallpapers-saucy,
-          ubuntu-wallpapers-karmic,
+Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
           ubuntu-wallpapers-maverick,
           ubuntu-wallpapers-natty,
           ubuntu-wallpapers-oneiric,
           ubuntu-wallpapers-precise,
           ubuntu-wallpapers-quantal,
-          ubuntu-wallpapers-raring
+          ubuntu-wallpapers-raring,
+          ubuntu-wallpapers-saucy,
+          ubuntu-wallpapers-trusty,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -90,3 +91,9 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 14.04 Wallpapers
  Wallpapers from the Ubuntu 14.04 community contest
+
+Package: ubuntu-wallpapers-utopic
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 14.10 Wallpapers
+ Wallpapers from the Ubuntu 14.10 community contest

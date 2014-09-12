@@ -1,21 +1,21 @@
-# French translation for ubuntu-wallpapers
-# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# Azerbaijani translation for ubuntu-wallpapers
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
 # This file is distributed under the same license as the ubuntu-wallpapers package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2014-05-18 20:17+0000\n"
-"Last-Translator: François <francois.michonneau@gmail.com>\n"
-"Language-Team: French <fr@li.org>\n"
+"PO-Revision-Date: 2014-07-14 12:21+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Azerbaijani <az@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-05-19 05:29+0000\n"
-"X-Generator: Launchpad (build 17007)\n"
+"X-Launchpad-Export-Date: 2014-07-15 04:34+0000\n"
+"X-Generator: Launchpad (build 17111)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -23,47 +23,47 @@ msgstr "Ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr "Orchidée blanche"
+msgstr "Ağ Səhləb"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr "Lancé de cailloux"
+msgstr "Daş Atmaq"
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr ""
+msgstr "Radioaktiv Gün Doğuşu.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr ""
+msgstr "O, Həyat.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr ""
+msgstr "A-dakı Ot.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr ""
+msgstr "Dırmanış.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr ""
+msgstr "Albalılar.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr ""
+msgstr "Primula Qırmızısı"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr "Papillon"
+msgstr "Kəpənək"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
-msgstr "L'arc-en-ciel est mort"
+msgstr "Göy Qurşağı Öldü"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr "Coucher de soleil"
+msgstr "Qürub"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr "Sable"
+msgstr "Qum"
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
@@ -79,15 +79,15 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr "Orange"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr "Matin brumeux"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr "Grenouille"
+msgstr "Qurbağa"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr "Baie"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr "Busqueda Nocturna"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
@@ -115,11 +115,11 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr ""
+msgstr "Qızçiçəyi"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
-msgstr "Gouttes d'automne, lumière antique"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr "Pierres glacées 2"
+msgstr "Buzlu Daşlar 2"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
@@ -139,23 +139,23 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr "Flou"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
-msgstr ""
+msgstr "Nöqtəli"
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr "Lumières chaudes"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr "Fleur jaune"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr "Moment doux"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
@@ -163,15 +163,15 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:2
 msgid "Blue box number 2"
-msgstr "Boîte bleue n° 2"
+msgstr "2 nömrəli mavi qutu"
 
 #: ../maverick-wallpapers.xml.in.h:3
 msgid "Blue"
-msgstr "Bleu"
+msgstr "Mavi"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr "Bulles"
+msgstr "Şarlar"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
@@ -179,27 +179,27 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr ""
+msgstr "Tük"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr ""
+msgstr "Qıjı"
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr "Vie"
+msgstr "Həyat"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr "Pluie sur une vitre"
+msgstr "Şəffaf şüşə"
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr "Mirada Perduda"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
-msgstr ""
+msgstr "Səhər II"
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
@@ -211,15 +211,15 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr ""
+msgstr "Övsunlu Sükut"
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
-msgstr ""
+msgstr "Gülümsəmə"
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr "Spirale"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
@@ -231,15 +231,15 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr "Océan aubergine"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
-msgstr "Fruits sauvages"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr "L'oiseau"
+msgstr "Quş"
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
-msgstr "Vert"
+msgstr "Yaşıl"
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
@@ -307,11 +307,11 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
-msgstr "Jardin polaire"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr "Langelinie Allé"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
@@ -319,23 +319,23 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
-msgstr "Mont Snowdon, Pays de Gales"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr "Pas seul"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr "Puissance des mots"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr "Danceurs violets"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr "Petites fleurs"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
@@ -347,15 +347,15 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr "Blé sauvage"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr "Pétales délicats"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr "Fleur précoce"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
@@ -375,7 +375,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr "Rosée matinale"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
@@ -383,7 +383,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:9
 msgid "Precise Pangolin"
-msgstr "Precise Pangolin"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:10
 msgid "Speaker Weave"
@@ -391,184 +391,184 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr "La cité interdite"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr "Attacher mon bateau"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr "Gel au crépuscule"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr "Matin d'hiver"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr "Un petit quetzal"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr "Au-dessous des nuages"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr "Cairn"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr "Petit matin"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr "Gelées"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr "Grande Canarie"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr "Plante verte"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr "H"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
-msgstr "Pantano de Orellana"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr "Tuiles"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr "Fuyantes"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr "Bégonia"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr "Givre bleu"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr "Dactylographe"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
-msgstr "Cacomixtle Ubunteño"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr "Fleurs de Prunus 24"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr "La Gomera"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
-msgstr "Atterrissage"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr "Le dernier souffle..."
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr "Reliquat"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr "Soleil matinal sur feuilles givrées"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr "Arrêtez la lumière"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
-msgstr "Trazo solitario"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr "Brouillard d’hiver"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr "163"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
-msgstr "Cyclotron"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
-msgstr "Gota D'água"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr "Herbe"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
-msgstr "Je suis une Salamandre Délurée..."
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr "Montagnes"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr "M. Tau et l'arbre"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr "Arc-en-ciel tissé"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr "Chêne"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr "Salamandre"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr "Salamandre Délurée abstraite"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr "La savane par Lilian Blot"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
-msgstr "Taxus baccata"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr "La ville de pollen"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
-msgstr "L’« épi »curien"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
-msgstr "Thingvellir"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr "Sans titre"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr "Nénufar"
+msgstr ""
