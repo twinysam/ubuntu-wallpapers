@@ -3,8 +3,8 @@ Upstream-Name: ubuntu-wallpapers
 Source: https://launchpad.net/ubuntu-wallpapers
 
 Files: *
-Copyright: 2010-2013 Ubuntu community contributors
-License: CC-BY-SA 3.0
+Copyright: 2010-2014 Ubuntu community contributors
+License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
  http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
@@ -13,7 +13,7 @@ License: CC-BY-SA 3.0
 Files: warty-final-ubuntu.png
 Copyright: 2010 Kenneth Wimer <kwwii@ubuntu.com>
            2010-2012 Otto Greenslade <otto.greenslade@canonical.com>
-License: CC-BY-SA 3.0
+License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
  http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
@@ -22,7 +22,7 @@ License: CC-BY-SA 3.0
 Files: debian/*
 Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
-License: CC-BY-SA 3.0
+License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
  http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 

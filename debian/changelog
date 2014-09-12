@@ -1,3 +1,13 @@
+ubuntu-wallpapers (14.10.0) utopic; urgency=medium
+
+  * Make this a native package
+  * Import Utopic wallpapers and create package (LP: #1354341)
+  * Update copyright year to include 2014.
+  * Create scripts/ directory and put package maintenance scripts in there.
+  * Remove rebuild.sh script which is obsolete.
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 12 Sep 2014 17:42:39 +0100
+
 ubuntu-wallpapers (14.04.0.1-0ubuntu1) trusty; urgency=medium
 
   [ Michal Izydorczyk ]
