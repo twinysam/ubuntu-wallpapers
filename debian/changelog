@@ -1,3 +1,10 @@
+ubuntu-wallpapers (14.10.0-0ubuntu1) utopic; urgency=medium
+
+  * Actually it's better if this isn't native as the orig portion is pretty
+    huge.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 15 Sep 2014 09:51:48 +0100
+
 ubuntu-wallpapers (14.10.0) utopic; urgency=medium
 
   * Make this a native package
