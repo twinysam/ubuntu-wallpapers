@@ -9,4 +9,12 @@
     <scolor>#2c001e</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <_name>Ubuntu Greyscale</_name>
+    <filename>/usr/share/backgrounds/Suru_Wallpaper_Desktop_4096x2304_Gray.png</filename>
+    <options>zoom</options>
+    <pcolor>#ececec</pcolor>
+    <scolor>#ececec</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>

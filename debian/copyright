@@ -3,16 +3,15 @@ Upstream-Name: ubuntu-wallpapers
 Source: https://launchpad.net/ubuntu-wallpapers
 
 Files: *
-Copyright: 2010-2014 Ubuntu community contributors
+Copyright: 2010-2015 Ubuntu community contributors
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
  http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-Files: warty-final-ubuntu.png
-Copyright: 2010 Kenneth Wimer <kwwii@ubuntu.com>
-           2010-2012 Otto Greenslade <otto.greenslade@canonical.com>
+Files: warty-final-ubuntu.png, Suru_Wallpaper_Desktop_4096x2304_Gray.png
+Copyright: 2015 Canonical Ltd
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 

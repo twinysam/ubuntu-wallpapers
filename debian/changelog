@@ -1,3 +1,13 @@
+ubuntu-wallpapers (15.04.0-0ubuntu1) vivid; urgency=medium
+
+  * Remove +x from Water_web_by_Tom_Kijas (LP: #1405794)
+  * Import Vivid wallpapers and create package (LP: #1429011)
+  * Update default wallpaper, and add 'alternative' official wallpaper.
+  * Update copyright file to account for copyright of default wallpaper and
+    extend year to 2015.
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 11 Mar 2015 16:31:56 +0000
+
 ubuntu-wallpapers (14.10.0-0ubuntu1) utopic; urgency=medium
 
   * Actually it's better if this isn't native as the orig portion is pretty
