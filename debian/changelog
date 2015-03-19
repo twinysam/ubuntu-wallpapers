@@ -1,3 +1,10 @@
+ubuntu-wallpapers (15.04.1-0ubuntu1) vivid; urgency=medium
+
+  * Update with new version of default wallpaper, with higher quality and
+    better symmetry.
+
+ -- Iain Lane <iain@orangesquash.org.uk>  Thu, 19 Mar 2015 13:13:58 +0000
+
 ubuntu-wallpapers (15.04.0-0ubuntu1) vivid; urgency=medium
 
   * Remove +x from Water_web_by_Tom_Kijas (LP: #1405794)

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2014-09-14 00:52+0000\n"
-"Last-Translator: Adolfo Jayme <fitoschido@gmail.com>\n"
+"PO-Revision-Date: 2015-03-14 19:41+0000\n"
+"Last-Translator: Hairo R. Carela <Unknown>\n"
 "Language-Team: Spanish <es@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-09-16 05:57+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
+"X-Launchpad-Export-Date: 2015-03-15 05:09+0000\n"
+"X-Generator: Launchpad (build 17389)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -99,7 +99,7 @@ msgstr "Bahía"
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr ""
+msgstr "Bosque TK"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
@@ -395,7 +395,7 @@ msgstr "La ciudad prohibida"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr ""
+msgstr "Amarra mi bote"
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
