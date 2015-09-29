@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-10-16 04:33+0000\n"
-"X-Generator: Launchpad (build 16799)\n"
+"X-Launchpad-Export-Date: 2015-03-27 05:11+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -233,7 +233,7 @@ msgstr "Autant n'empòrta lo vent"
 msgid "Aubergine Sea"
 msgstr "Lo grand blau"
 
-#: ../natty-wallpapers.xml.in.h:4
+#: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
 msgstr "Los fruches de la passion"
 
@@ -451,11 +451,11 @@ msgstr "Fugissentas"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr ""
+msgstr "Begònia"
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr ""
+msgstr "Granhòta blava"
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
@@ -475,7 +475,7 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
-msgstr ""
+msgstr "Aterrissatge"
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
@@ -503,7 +503,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr ""
+msgstr "163"
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
@@ -515,7 +515,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr ""
+msgstr "Èrba"
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
@@ -523,7 +523,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr ""
+msgstr "Montanhas"
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
@@ -535,11 +535,11 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr ""
+msgstr "Garric"
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr ""
+msgstr "Salamandra"
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
@@ -567,7 +567,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr ""
+msgstr "Sens títol"
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"

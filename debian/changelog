@@ -1,3 +1,10 @@
+ubuntu-wallpapers (15.10.1-0ubuntu1) wily; urgency=medium
+
+  * Apply some lossless crushing using optipng.
+  * New default wallpapers for 15.10 (LP: #1497177)
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 29 Sep 2015 17:59:56 +0100
+
 ubuntu-wallpapers (15.04.1-0ubuntu1) vivid; urgency=medium
 
   * Update with new version of default wallpaper, with higher quality and
