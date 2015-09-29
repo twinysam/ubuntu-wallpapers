@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-09-19 04:36+0000\n"
-"X-Generator: Launchpad (build 16765)\n"
+"X-Launchpad-Export-Date: 2015-03-27 05:10+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -99,23 +99,23 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr ""
+msgstr "Bosque TK"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr ""
+msgstr "Busqueda Nocturna"
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr ""
+msgstr "Cornered"
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
-msgstr ""
+msgstr "Curls by Candy"
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr ""
+msgstr "Margaritë"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
@@ -167,27 +167,27 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:3
 msgid "Blue"
-msgstr ""
+msgstr "Blu"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr ""
+msgstr "Flluska"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
-msgstr ""
+msgstr "Crocosmia"
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr ""
+msgstr "Pendë"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr ""
+msgstr "Fern"
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr ""
+msgstr "Jetë"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr ""
+msgstr "Mirada Perduda"
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
@@ -203,7 +203,7 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
-msgstr ""
+msgstr "Primer Amanecer 2010"
 
 #: ../maverick-wallpapers.xml.in.h:13
 msgid "Ropey Photo"
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr ""
+msgstr "Spirale"
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
@@ -233,7 +233,7 @@ msgstr ""
 msgid "Aubergine Sea"
 msgstr ""
 
-#: ../natty-wallpapers.xml.in.h:4
+#: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
 msgstr ""
 
@@ -311,7 +311,7 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr ""
+msgstr "Langelinie Allé"
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
@@ -323,7 +323,7 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr ""
+msgstr "Jo Vetëm"
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
@@ -423,11 +423,11 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr ""
+msgstr "Ngrirë"
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr ""
+msgstr "Gran Canaria"
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
@@ -435,7 +435,7 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
@@ -447,7 +447,7 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr ""
+msgstr "Zhdukje"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"

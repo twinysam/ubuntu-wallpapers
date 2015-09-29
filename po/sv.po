@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-09-19 04:37+0000\n"
-"X-Generator: Launchpad (build 16765)\n"
+"X-Launchpad-Export-Date: 2015-03-27 05:11+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -233,7 +233,7 @@ msgstr ""
 msgid "Aubergine Sea"
 msgstr ""
 
-#: ../natty-wallpapers.xml.in.h:4
+#: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
 msgstr ""
 
@@ -407,63 +407,63 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr ""
+msgstr "Lite Quetzal"
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr ""
+msgstr "Nedan molnen"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr ""
+msgstr "Cairn"
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr ""
+msgstr "Arla morgonstund"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr ""
+msgstr "Frusen"
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr ""
+msgstr "Gran Canaria"
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr ""
+msgstr "Grön växt"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
-msgstr ""
+msgstr "Pantano de Orellana"
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr ""
+msgstr "Takpannor"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr ""
+msgstr "Försvinner"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr ""
+msgstr "Begonia"
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr ""
+msgstr "Blå frost"
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr ""
+msgstr "Skrivmaskin från Brother"
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
-msgstr ""
+msgstr "Cacomixtle Ubunteño"
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
@@ -471,7 +471,7 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr ""
+msgstr "La Gomera"
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
@@ -479,19 +479,19 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr ""
+msgstr "Sista sucken..."
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr ""
+msgstr "Kvarglömd"
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr ""
+msgstr "Morgonsol på frostbitna löv"
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr ""
+msgstr "Stoppa ljuset"
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
@@ -499,15 +499,15 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr ""
+msgstr "Vinterdis"
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr ""
+msgstr "163"
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
-msgstr ""
+msgstr "Cyklotron"
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
@@ -515,43 +515,43 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr ""
+msgstr "Gräs"
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
-msgstr ""
+msgstr "Jag är en Saucy Salamander..."
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr ""
+msgstr "Berg"
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr ""
+msgstr "Herr Tau och trädet -"
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr ""
+msgstr "Nylonregnbåge"
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr ""
+msgstr "Ek"
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr ""
+msgstr "Salamander"
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr ""
+msgstr "Saucy Salamander abstrakt"
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr ""
+msgstr "Savannah Lilian-plump"
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
-msgstr ""
+msgstr "Taxus baccata"
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
@@ -563,12 +563,12 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
-msgstr ""
+msgstr "Thingvellir"
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr ""
+msgstr "Namnlös"
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr ""
+msgstr "Vattenlilja"
