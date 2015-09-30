@@ -5,7 +5,7 @@ Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
 Build-Depends: debhelper (>= 9),
                python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra,
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: https://launchpad.net/ubuntu-wallpapers
 # If you aren't a member of ~ubuntu-art-pkg but need to upload
 # packaging changes, just go ahead. ~ubuntu-art-pkg will notice
@@ -16,7 +16,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-vivid,
+Depends: ubuntu-wallpapers-wily,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -29,6 +29,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-saucy,
           ubuntu-wallpapers-trusty,
           ubuntu-wallpapers-utopic,
+          ubuntu-wallpapers-vivid,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -104,3 +105,9 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 15.04 Wallpapers
  Wallpapers from the Ubuntu 15.04 community contest
+
+Package: ubuntu-wallpapers-wily
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 15.04 Wallpapers
+ Wallpapers from the Ubuntu 15.10 community contest
