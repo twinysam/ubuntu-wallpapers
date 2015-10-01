@@ -109,5 +109,5 @@ Description: Ubuntu 15.04 Wallpapers
 Package: ubuntu-wallpapers-wily
 Architecture: all
 Depends: ${misc:Depends},
-Description: Ubuntu 15.04 Wallpapers
+Description: Ubuntu 15.10 Wallpapers
  Wallpapers from the Ubuntu 15.10 community contest
