@@ -1,3 +1,9 @@
+ubuntu-wallpapers (15.10.3-0ubuntu1) wily; urgency=medium
+
+  * Renamed "P5160283" to "Light my fire evening sun" as per photographer.
+
+ -- Nathan Haines <nhaines@ubuntu.com>  Fri, 02 Oct 2015 01:31:52 -0700
+
 ubuntu-wallpapers (15.10.2-0ubuntu2) wily; urgency=medium
 
   * d/control: update the description of the wily package. Thanks Sébastien
