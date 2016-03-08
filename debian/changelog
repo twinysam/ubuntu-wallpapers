@@ -1,3 +1,9 @@
+ubuntu-wallpapers (16.04.0-0ubuntu1) xenial; urgency=medium
+
+  * New default wallpapers for 16.04 (LP: #1551208)
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 08 Mar 2016 13:56:23 +0000
+
 ubuntu-wallpapers (15.10.3-0ubuntu1) wily; urgency=medium
 
   * Renamed "P5160283" to "Light my fire evening sun" as per photographer.
