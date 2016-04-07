@@ -1,3 +1,12 @@
+ubuntu-wallpapers (16.04.1-0ubuntu1) xenial; urgency=medium
+
+  * Add winning entries from the Ubuntu 16.04 Free Culture Showcase.
+  * Update AUTHORS to include Ubuntu Free Culture Showcase winners for
+    trusty, utopic, vivid, wily, and xenial.
+  * Update copyright file for community wallpapers and extend year to 2016.
+
+ -- Nathan Haines <nhaines@ubuntu.com>  Wed, 06 Apr 2016 23:56:15 -0700
+
 ubuntu-wallpapers (16.04.0-0ubuntu1) xenial; urgency=medium
 
   * New default wallpapers for 16.04 (LP: #1551208)

@@ -8,22 +8,22 @@ msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2013-09-17 12:00+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-04-02 16:25+0000\n"
+"Last-Translator: Nikola Trifunović <Unknown>\n"
 "Language-Team: Serbian <sr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-07 05:19+0000\n"
-"X-Generator: Launchpad (build 17802)\n"
+"X-Launchpad-Export-Date: 2016-04-03 05:21+0000\n"
+"X-Generator: Launchpad (build 17972)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
-msgstr ""
+msgstr "Убунту"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr ""
+msgstr "Бела Орхидеја"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
@@ -39,15 +39,15 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr ""
+msgstr "Трава"
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr ""
+msgstr "Планинарење"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr ""
+msgstr "Трешње"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr ""
+msgstr "Лептир"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
