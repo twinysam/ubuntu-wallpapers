@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2015-10-07 05:19+0000\n"
-"X-Generator: Launchpad (build 17802)\n"
+"X-Launchpad-Export-Date: 2016-03-16 05:22+0000\n"
+"X-Generator: Launchpad (build 17947)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -167,11 +167,11 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:3
 msgid "Blue"
-msgstr ""
+msgstr "藍色"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr ""
+msgstr "氣泡"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr ""
+msgstr "羽毛"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr ""
+msgstr "生命"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"

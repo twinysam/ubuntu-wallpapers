@@ -2,38 +2,42 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ubuntu-wallpapers
 Source: https://launchpad.net/ubuntu-wallpapers
 
-Files: Tramonto_a_Scalea_by_Renatvs88.jpg
-       Tranquil_by_Pat_David.jpg
-       Light_my_fire_evening_sun_by_Dariusz_Duma.jpg
-       Sitting_Here,_Making_Fun_by_Philipp_Haegi.jpg
-       Moss_inflorescence_by_carmelo75.jpg
-       Breaker_by_Lyle_Nel.jpg
-       Hotel_by_sarcasmrules2011.jpg
-       Mediterranean_Sea_by_simosx.jpg
-       Abstract_Ubuntu_by_Marek_Koteluk.jpg
-Copyright: Pat David
-           Renatvs88
-           Dariusz Duma
-           Philipp Haegi
-           carmelo75
-           Lyle Nel
-           sarcasmrules2011
-           simosx
+Files: 160218-deux-two_by_Pierre_Cante.jpg
+       Black_hole_by_Marek_Koteluk.jpg
+       Cielo_estrellado_by_Eduardo_Diez_Viñuela.jpg
+       clock_by_Bernhard_Hanakam.jpg
+       Dans_ma_bulle_by_Christophe_Weibel.jpg
+       Flora_by_Marek_Koteluk.jpg
+       Icy_Grass_by_Raymond_Lavoie.jpg
+       Night_lights_by_Alberto_Salvia_Novella.jpg
+       passion_flower_by_Irene_Gr.jpg
+       TCP118v1_by_Tiziano_Consonni.jpg
+Copyright: Pierre Cante
            Marek Koteluk
+           Eduardo Diez Viñuela
+           Bernhard Hanakam
+           Christophe Weibel
+           Marek Koteluk
+           Raymond Lavoie
+           Alberto Salvia Novella
+           Irene Gr
+           Tiziano Consonni
 License: CC-BY-SA-2.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 2.0
- Unported License. To view a copy of this license, visit
- http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Generic License. To view a copy of this license, visit
+ https://creativecommons.org/licenses/by-sa/2.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-Files: Blue_by_dariuskws.jpg
-Copyright: dariuskws
-License: CC-0-1.0
- This work is licensed under the Creative Commons CC0 1.0 Universal
+Files: Spring_by_Peter_Apas.jpg
+       The_Land_of_Edonias_by_Γιωργος_Αργυροπουλος.jpg
+
+Copyright: Peter Apas
+           Γιωργος Αργυροπουλος
+License: CC-BY-2.0
+ This work is licensed under the Creative Commons Attribution 2.0 Generic
  License. To view a copy of this license, visit 
- https://creativecommons.org/publicdomain/zero/1.0/ or send a letter to 
- Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 
- 94041, USA.
+ https://creativecommons.org/licenses/by/2.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 Files: *
        debian/*
@@ -41,7 +45,7 @@ Files: *
        Suru_Wallpaper_Desktop_4096x2304_Gray.png
 Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
-           2010-2015 Ubuntu community contributors
+           2010-2016 Ubuntu community contributors
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
