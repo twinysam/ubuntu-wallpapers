@@ -1,3 +1,11 @@
+ubuntu-wallpapers (16.10.0-0ubuntu1) yakkety; urgency=medium
+
+  * New default wallpapers for 16.10 (LP: #1621413)
+  * Add a symlink to the default greyscale wallpaper, called
+    ubuntu-default-greyscale-wallpaper.png (LP: #1592870).
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 08 Sep 2016 18:56:57 +0100
+
 ubuntu-wallpapers (16.04.1-0ubuntu1) xenial; urgency=medium
 
   * Add winning entries from the Ubuntu 16.04 Free Culture Showcase.

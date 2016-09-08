@@ -8,22 +8,22 @@ msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2013-09-17 12:00+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-04-29 09:32+0000\n"
+"Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-03-16 05:21+0000\n"
-"X-Generator: Launchpad (build 17947)\n"
+"X-Launchpad-Export-Date: 2016-04-30 05:12+0000\n"
+"X-Generator: Launchpad (build 17995)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr ""
+msgstr "Белая орхидея"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr ""
+msgstr "Радиоактивный восход.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
@@ -43,19 +43,19 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr ""
+msgstr "Подъем.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr ""
+msgstr "Вишни.jpg"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr ""
+msgstr "Красная примула"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr ""
+msgstr "Бабочка"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
@@ -63,7 +63,7 @@ msgstr "Радужная трагедия"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr ""
+msgstr "Закат"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
@@ -71,11 +71,11 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr ""
+msgstr "Песок"
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
-msgstr ""
+msgstr "Пальмовый сад"
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
@@ -83,19 +83,19 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr ""
+msgstr "Туманное утро"
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr ""
+msgstr "Лягушка"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr ""
+msgstr "Цветок лотоса"
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr ""
+msgstr "Бухта"
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr ""
+msgstr "Пухоголовый"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
@@ -135,11 +135,11 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
-msgstr ""
+msgstr "Мараетай перед восходом"
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr ""
+msgstr "Вне фокуса"
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
@@ -147,11 +147,11 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr ""
+msgstr "Тёплые цвета"
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr ""
+msgstr "Жёлтый цветок"
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
@@ -171,27 +171,27 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr ""
+msgstr "Пузырьки"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
-msgstr ""
+msgstr "Крокосмия"
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr ""
+msgstr "Перо"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr ""
+msgstr "Папоротник"
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr ""
+msgstr "Жизнь"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr ""
+msgstr "Жидкое стекло"
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
-msgstr ""
+msgstr "Утро II"
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
@@ -211,15 +211,15 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr ""
+msgstr "Чарующее спокойствие"
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
-msgstr ""
+msgstr "Улыбка"
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr ""
+msgstr "Спираль"
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
@@ -235,15 +235,15 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
-msgstr ""
+msgstr "Ягоды"
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr ""
+msgstr "Птица"
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
-msgstr ""
+msgstr "Ткань"
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
@@ -251,15 +251,15 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
-msgstr ""
+msgstr "Серый день"
 
 #: ../natty-wallpapers.xml.in.h:9
 msgid "Holes"
-msgstr ""
+msgstr "Отверстия"
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
-msgstr ""
+msgstr "Закат в Аскайне"
 
 #: ../natty-wallpapers.xml.in.h:11
 msgid "Lá no alto"
@@ -271,11 +271,11 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
-msgstr ""
+msgstr "Указатель"
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr ""
+msgstr "Маленькие миры"
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
@@ -287,11 +287,11 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:17
 msgid "Variations On Natty Narwhal 1"
-msgstr ""
+msgstr "Вариации Natty Narwhal 1"
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr ""
+msgstr "Белые цветы"
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
@@ -299,7 +299,7 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:2
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Часовой механизм"
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
@@ -315,7 +315,7 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Кленовый сон"
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
@@ -327,19 +327,19 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr ""
+msgstr "Сила слов"
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Пурпурные танцоры"
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr ""
+msgstr "Небольшие цветочки"
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Оцелот преследует добычу"
 
 #: ../oneiric-wallpapers.xml.in.h:13
 msgid "The Grass Ain't Greener"
@@ -351,11 +351,11 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr ""
+msgstr "Нежные лепестки"
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr ""
+msgstr "Ранние цветы"
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
@@ -363,11 +363,11 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:4
 msgid "Floorboards"
-msgstr ""
+msgstr "Паркет"
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr ""
+msgstr "Золотой цветок"
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
@@ -375,7 +375,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr ""
+msgstr "Утренняя роса"
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
@@ -391,7 +391,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr ""
+msgstr "Запретный город"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
@@ -399,11 +399,11 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr ""
+msgstr "Морозные сумерки"
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr ""
+msgstr "Зимнее утро"
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
@@ -411,15 +411,15 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr ""
+msgstr "Под облаками"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr ""
+msgstr "Пирамида из камней"
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr ""
+msgstr "Раннее утро"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
@@ -427,11 +427,11 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr ""
+msgstr "Гран-Канария"
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr ""
+msgstr "Зелёное растение"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
@@ -443,11 +443,11 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr ""
+msgstr "Черепица"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr ""
+msgstr "Исчезновение"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"

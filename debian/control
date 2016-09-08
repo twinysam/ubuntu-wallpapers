@@ -17,6 +17,7 @@ Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ubuntu-wallpapers-xenial,
+         ubuntu-wallpapers-yakkety,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -116,5 +117,15 @@ Description: Ubuntu 15.10 Wallpapers
 Package: ubuntu-wallpapers-xenial
 Architecture: all
 Depends: ${misc:Depends},
+Replaces: ubuntu-wallpapers (<< 16.10.0)
+Breaks: ubuntu-wallpapers (<< 16.10.0)
 Description: Ubuntu 16.04 Wallpapers
- Wallpapers from the Ubuntu 16.04 community contest
+ Wallpapers from the Ubuntu 16.04 community contest and a Canonical-created
+ greyscale wallpaper.
+
+Package: ubuntu-wallpapers-yakkety
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 16.10 Wallpapers
+ Wallpapers from the Ubuntu 16.10 community contest and a Canonical-created
+ greyscale wallpaper.
