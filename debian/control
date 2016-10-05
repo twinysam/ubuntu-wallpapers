@@ -16,8 +16,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-xenial,
-         ubuntu-wallpapers-yakkety,
+Depends: ubuntu-wallpapers-yakkety,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -32,6 +31,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-utopic,
           ubuntu-wallpapers-vivid,
           ubuntu-wallpapers-wily,
+          ubuntu-wallpapers-xenial,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.

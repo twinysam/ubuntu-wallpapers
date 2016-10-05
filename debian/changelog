@@ -1,3 +1,11 @@
+ubuntu-wallpapers (16.10.1-0ubuntu1) yakkety; urgency=medium
+
+  * Add winning entries from the Ubuntu 16.10 Free Culture Showcase. (LP:
+    #1630457)
+  * AUTHORS: Re-add Iain Lane as a contributor.
+
+ -- Nathan Haines <nhaines@ubuntu.com>  Wed, 05 Oct 2016 16:09:08 +0100
+
 ubuntu-wallpapers (16.10.0-0ubuntu1) yakkety; urgency=medium
 
   * New default wallpapers for 16.10 (LP: #1621413)
