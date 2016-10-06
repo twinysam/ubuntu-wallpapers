@@ -3,7 +3,7 @@
 <wallpapers>
  <wallpaper deleted="false">
    <name>Ubuntu 16.10 Community Wallpapers</name>
-   <filename>/usr/share/backgrounds/contest/xenial.xml</filename>
+   <filename>/usr/share/backgrounds/contest/yakkety.xml</filename>
    <options>zoom</options>
  </wallpaper>
  <wallpaper>
@@ -73,6 +73,14 @@
  <wallpaper>
      <_name>P1310728</_name>
      <filename>/usr/share/backgrounds/P1310728_by_Ferran_Reyes.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>ubuntu16_10</_name>
+     <filename>/usr/share/backgrounds/ubuntu16_10_by_Khoir_Rudin.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>

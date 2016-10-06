@@ -1,3 +1,11 @@
+ubuntu-wallpapers (16.10.2-0ubuntu1) yakkety; urgency=medium
+
+  * Added missing reference for ubuntu16_10_by_Khair_Rudin.png reference
+    to wallpaper list.
+  * Updated rotation list filename for yakkety.
+
+ -- Nathan Haines <nhaines@ubuntu.com>  Thu, 06 Oct 2016 09:13:05 +0100
+
 ubuntu-wallpapers (16.10.1-0ubuntu1) yakkety; urgency=medium
 
   * Add winning entries from the Ubuntu 16.10 Free Culture Showcase. (LP:
