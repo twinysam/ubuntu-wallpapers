@@ -16,7 +16,8 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-yakkety,
+Depends: ubuntu-wallpapers-zesty,
+         ubuntu-wallpapers-yakkety,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -128,4 +129,11 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 16.10 Wallpapers
  Wallpapers from the Ubuntu 16.10 community contest and a Canonical-created
+ greyscale wallpaper.
+
+Package: ubuntu-wallpapers-zesty
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 17.04 Wallpapers
+ Wallpapers from the Ubuntu 17.04 community contest and a Canonical-created
  greyscale wallpaper.

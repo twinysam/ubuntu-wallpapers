@@ -1,3 +1,18 @@
+ubuntu-wallpapers (17.04.0-0ubuntu1) zesty; urgency=medium
+
+  * New default wallpapers for 17.04 (LP: #1671160)
+    + Contest wallpapers coming soon
+  * debian/copyright: *Grey* are (C) Canonical. Put the "*" block first, as
+    the spec says that the last block to match is the one which wins.
+  * Drop the old greyscale wallpapers from {xenial,yakkety}-wallpapers.xml.in.
+    It's not that cool to have several slightly differing wallpapers in the
+    chooser. Users that have selected them will continue to have them as their
+    background for as long as the package is installed, but if it's switched
+    away from it won't be available to re-select - only the current release's
+    one will.
+
+ -- Iain Lane <iain.lane@canonical.com>  Wed, 08 Mar 2017 22:38:31 +0000
+
 ubuntu-wallpapers (16.10.2-0ubuntu1) yakkety; urgency=medium
 
   * Added missing reference for ubuntu16_10_by_Khair_Rudin.png reference

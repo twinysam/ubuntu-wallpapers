@@ -2,6 +2,17 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ubuntu-wallpapers
 Source: https://launchpad.net/ubuntu-wallpapers
 
+Files: *
+       debian/*
+Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
+           2006, Daniel Holbach <daniel.holbach@ubuntu.com>
+           2010-2016 Ubuntu community contributors
+License: CC-BY-SA-3.0
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
+ Unported License. To view a copy of this license, visit 
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
 Files: 160218-deux-two_by_Pierre_Cante.jpg
        Black_hole_by_Marek_Koteluk.jpg
        Cielo_estrellado_by_Eduardo_Diez_Viñuela.jpg
@@ -64,17 +75,13 @@ License: CC0
  To the extent possible under law, the author(s) have dedicated all copyright
  and related and neighboring rights to this software to the public domain
  worldwide. This software is distributed without any warranty.
-
+ .
  You should have received a copy of the CC0 Public Domain Dedication along with
  this software. If not, see http://creativecommons.org/publicdomain/zero/1.0/
 
-Files: *
-       debian/*
-       warty-final-ubuntu.png
-       Suru_Wallpaper_Desktop_4096x2304_Gray.png
-Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
-           2006, Daniel Holbach <daniel.holbach@ubuntu.com>
-           2010-2016 Ubuntu community contributors
+Files: *Grey*.png
+       Zapus_Wallpaper_Grey_4096x2304.png
+Copyright: 2016-2017 Canonical Ltd
 License: CC-BY-SA-3.0
  This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
  Unported License. To view a copy of this license, visit 
