@@ -102,12 +102,4 @@
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
  </wallpaper>
- <wallpaper>
-   <_name>Ubuntu Greyscale (Xenial)</_name>
-   <filename>/usr/share/backgrounds/Xerus_Wallpaper_Grey_4096x2304.png</filename>
-   <options>zoom</options>
-   <pcolor>#ececec</pcolor>
-   <scolor>#ececec</scolor>
-   <shade_type>solid</shade_type>
- </wallpaper>
 </wallpapers>
