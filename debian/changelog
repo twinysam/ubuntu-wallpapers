@@ -1,3 +1,9 @@
+ubuntu-wallpapers (17.04.1-0ubuntu1) zesty; urgency=medium
+
+  * Add winning entries from the Ubuntu Free Culture Showcase. (LP: #1676133)
+
+ -- Nathan Haines <nhaines@ubuntu.com>  Sun, 26 Mar 2017 00:44:12 -0700
+
 ubuntu-wallpapers (17.04.0-0ubuntu1) zesty; urgency=medium
 
   * New default wallpapers for 17.04 (LP: #1671160)
