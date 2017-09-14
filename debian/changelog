@@ -1,3 +1,11 @@
+ubuntu-wallpapers (17.10.0-0ubuntu1) artful; urgency=medium
+
+  * Ubuntu Free Culture Showcase winners for 17.10 (LP: #1716885)
+  * New default colour wallpaper for 17.10 (LP: #1717308)
+  * Remove reference to Suru wallpaper which is not shipped any more.
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 14 Sep 2017 17:48:10 +0100
+
 ubuntu-wallpapers (17.04.1-0ubuntu1) zesty; urgency=medium
 
   * Add winning entries from the Ubuntu Free Culture Showcase. (LP: #1676133)
