@@ -10,11 +10,11 @@
 <!-- This animation will start at midnight. -->
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</file>
+    <file>/usr/share/backgrounds/Aardvark_Wallpaper_Grey_4096x2304.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</from>
+    <from>/usr/share/backgrounds/Aardvark_Wallpaper_Grey_4096x2304.png</from>
     <to>/usr/share/backgrounds/Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</to>
   </transition>
   <static>
@@ -124,5 +124,14 @@
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Grand_Canyon_North_Rim_by_Rihards_Vilks.jpg</from>
     <to>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</from>
+    <to>/usr/share/backgrounds/Aardvark_Wallpaper_Grey_4096x2304.png</to>
   </transition>
 </background>

@@ -1,3 +1,12 @@
+ubuntu-wallpapers (17.10.1-0ubuntu1) artful; urgency=medium
+
+  * Add the default greyscale wallpaper too.
+  * Fixed the wallpaper reference in contents/zesty.xml - it was referring to
+    the Yak wallpaper, not the Zapus.
+  * debian/copyright: Tighten the Grey glob.
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 15 Sep 2017 17:36:39 +0100
+
 ubuntu-wallpapers (17.10.0-0ubuntu1) artful; urgency=medium
 
   * Ubuntu Free Culture Showcase winners for 17.10 (LP: #1716885)

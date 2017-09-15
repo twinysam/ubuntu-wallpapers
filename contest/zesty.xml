@@ -10,11 +10,11 @@
 <!-- This animation will start at midnight. -->
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Yak_Wallpaper_Grey_4096x2304.png</file>
+    <file>/usr/share/backgrounds/Zapus_Wallpaper_Grey_4096x2304.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Yak_Wallpaper_Grey_4096x2304.png</from>
+    <from>/usr/share/backgrounds/Zapus_Wallpaper_Grey_4096x2304.png</from>
     <to>/usr/share/backgrounds/Passion_by_Vilia_Majere.jpg</to>
   </transition>
   <static>
@@ -132,6 +132,6 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/warty-final-ubuntu.png</from>
-    <to>/usr/share/backgrounds/Yak_Wallpaper_Grey_4096x2304.png</to>
+    <to>/usr/share/backgrounds/Zapus_Wallpaper_Grey_4096x2304.png</to>
   </transition>
 </background>
