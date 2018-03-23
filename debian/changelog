@@ -1,3 +1,28 @@
+ubuntu-wallpapers (18.04.0-0ubuntu1) bionic; urgency=medium
+
+  [ Martin Kaistra ]
+  * fix spelling of Bee_on_lavender_by_Martin.jpg (LP: #1717718)
+
+  [ Iain Lane ]
+  * New default wallpapers for 17.04 (LP: #1758089)
+    + Contest wallpapers coming soon
+  * Lintian fixes, with thanks:
+    + debian/copyright: Don't repeat license name
+    + debian/changelog: Clean up trailing whitespace
+    + debian/compat: Bump to 11
+      - Add versioned BD
+      - Remove `--parallel', now done by default
+    + debian/control: Update S-V to 4.1.3, no changes required (AFAICS)
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 23 Mar 2018 14:56:35 +0000
+
+ubuntu-wallpapers (17.10.1-0ubuntu2) UNRELEASED; urgency=medium
+
+  [ Martin Kaistra ]
+  * fix spelling of Bee_on_lavender_by_Martin.jpg (LP: #1717718)
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 23 Mar 2018 14:28:45 +0000
+
 ubuntu-wallpapers (17.10.1-0ubuntu1) artful; urgency=medium
 
   * Add the default greyscale wallpaper too.
@@ -84,7 +109,7 @@ ubuntu-wallpapers (15.10.3-0ubuntu1) wily; urgency=medium
 ubuntu-wallpapers (15.10.2-0ubuntu2) wily; urgency=medium
 
   * d/control: update the description of the wily package. Thanks Sébastien
-    for noticing the typo. 
+    for noticing the typo.
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 01 Oct 2015 16:49:50 +0200
 
@@ -150,7 +175,7 @@ ubuntu-wallpapers (14.04.0.1-0ubuntu1) trusty; urgency=medium
 ubuntu-wallpapers (14.04.0-0ubuntu1) trusty; urgency=medium
 
   [ Ken VanDine ]
-  * Upstream version bump 
+  * Upstream version bump
   * bumped standards version to 3.9.5
   * Added ubuntu-wallpapers-trusty with the 14.04 contest winner (LP: #1275798)
   * Updated default wallpaper for 14.04 (fixes the "Hey we've forgotten to
@@ -161,7 +186,7 @@ ubuntu-wallpapers (14.04.0-0ubuntu1) trusty; urgency=medium
 
 ubuntu-wallpapers (13.04.0+13.10.20130924.1-0ubuntu2) trusty; urgency=medium
 
-  [ Ken VanDine ]  
+  [ Ken VanDine ]
   * escape some quotes in the install file causing a FTBFS.
 
  -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 07 Mar 2014 23:01:56 +0000
@@ -264,7 +289,7 @@ ubuntu-wallpapers (0.35.2) quantal; urgency=low
 
 ubuntu-wallpapers (0.35.1) quantal; urgency=low
 
-  * Removed Blue_Dandelion_by_Jaorizabal.jpg, it was submitted without the 
+  * Removed Blue_Dandelion_by_Jaorizabal.jpg, it was submitted without the
     original creator's consent (LP: #1045841)
 
  -- Ken VanDine <ken.vandine@canonical.com>  Tue, 04 Sep 2012 15:08:41 -0400
@@ -386,7 +411,7 @@ ubuntu-wallpapers (0.31.6) maverick; urgency=low
   * Renamed Spiral_by_fiЯas.jpg to Spiral_by_firas.jpg (LP: #621287)
   * warty-final-ubuntu.png
     - Final default wallpaper for Maverick (LP: #625193)
-  * background wallpaper is smaller than gnome-panel causing empty 
+  * background wallpaper is smaller than gnome-panel causing empty
     space (LP: #625972)
 
  -- Ken VanDine <ken.vandine@canonical.com>  Fri, 03 Sep 2010 00:01:38 -0400
@@ -443,7 +468,7 @@ ubuntu-wallpapers (0.30ubuntu1) karmic; urgency=low
 ubuntu-wallpapers (0.30) karmic; urgency=low
 
   * Fixed file name error and associated names in ubuntu-wallpaper.xml.in.
-    LP: #436487 
+    LP: #436487
 
  -- Kenneth Wimer <kwwii@ubuntu.com>  Fri, 16 Oct 2009 13:25:10 +0200
 
@@ -473,7 +498,7 @@ ubuntu-wallpapers (0.28.4) jaunty; urgency=low
 
 ubuntu-wallpapers (0.28.3) jaunty; urgency=low
 
-  * updating simple-ubuntu.png to fix LP: #345523 
+  * updating simple-ubuntu.png to fix LP: #345523
 
  -- Kenneth Wimer <kwwii@ubuntu.com>  Mon, 23 Mar 2009 14:17:22 +0100
 
@@ -548,7 +573,7 @@ ubuntu-wallpapers (0.22) hardy; urgency=low
 ubuntu-wallpapers (0.21) hardy; urgency=low
 
   * Adding wallpaper candidate for testing, moving elephant to secondary
-    position 
+    position
 
  -- Kenneth Wimer <kwwii@ubuntu.com>  Wed, 13 Feb 2008 13:55:15 +0100
 
@@ -605,7 +630,7 @@ gutsy-wallpapers (0.15) gutsy; urgency=low
 gutsy-wallpapers (0.14) gutsy; urgency=low
 
   * updating default pic, adding elephant pic to replace smooth chocolate
-    which was removed earlier 
+    which was removed earlier
 
  -- Kenneth Wimer <kwwii@ubuntu.com>  Mon, 24 Sep 2007 17:44:11 +0200
 
@@ -617,7 +642,7 @@ gutsy-wallpapers (0.13) gutsy; urgency=low
 
 feisty-wallpapers (0.12) feisty; urgency=low
 
-  * set Maintainer and XS-Vcs-Bzr. 
+  * set Maintainer and XS-Vcs-Bzr.
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri,  9 Mar 2007 11:34:51 +0100
 
@@ -690,7 +715,7 @@ edgy-wallpapers (0.7-0ubuntu1) edgy; urgency=low
 edgy-wallpapers (0.6-0ubuntu1) edgy; urgency=low
 
   * New upstream release:
-    - fix redundant wallpaper. (Malone: #65897), thanks 
+    - fix redundant wallpaper. (Malone: #65897), thanks
       Johan Kiviniemi <launchpad.net@johan.kiviniemi.name> for working on
       this.
 
@@ -720,7 +745,7 @@ edgy-wallpapers (0.3-0ubuntu1) edgy; urgency=low
 edgy-wallpapers (0.2-0ubuntu1) edgy; urgency=low
 
   * New upstream release:
-    - Updated the artwork to Troy Sobotka's Wave wallpaper. Widescreen 
+    - Updated the artwork to Troy Sobotka's Wave wallpaper. Widescreen
       version to follow. (Frank Schoep)
 
  -- Frank Schoep <frank@ffnn.nl>  Wed,  6 Sep 2006 18:26:13 +0200
