@@ -2,10 +2,10 @@ Source: ubuntu-wallpapers
 Section: x11
 Priority: optional
 Maintainer: Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>
-Build-Depends: debhelper (>= 9),
+Build-Depends: debhelper (>= 11),
                python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra,
-Standards-Version: 3.9.6
+Standards-Version: 4.1.3
 Homepage: https://launchpad.net/ubuntu-wallpapers
 # If you aren't a member of ~ubuntu-art-pkg but need to upload
 # packaging changes, just go ahead. ~ubuntu-art-pkg will notice
@@ -16,7 +16,8 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-artful,
+Depends: ubuntu-wallpapers-bionic,
+         ubuntu-wallpapers-artful,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -144,3 +145,10 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 17.10 Wallpapers
  Wallpapers from the Ubuntu 17.10 community contest
+
+Package: ubuntu-wallpapers-bionic
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 18.04 Wallpapers
+ Wallpapers from the Ubuntu 18.04 community contest and a Canonical-created
+ greyscale wallpaper.
