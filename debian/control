@@ -7,9 +7,6 @@ Build-Depends: debhelper (>= 11),
 Build-Depends-Indep: python-distutils-extra,
 Standards-Version: 4.1.3
 Homepage: https://launchpad.net/ubuntu-wallpapers
-# If you aren't a member of ~ubuntu-art-pkg but need to upload
-# packaging changes, just go ahead. ~ubuntu-art-pkg will notice
-# and sync up the code again.
 Vcs-Bzr: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
 Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu/files
 
@@ -17,7 +14,6 @@ Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ubuntu-wallpapers-bionic,
-         ubuntu-wallpapers-artful,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -35,6 +31,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-xenial,
           ubuntu-wallpapers-yakkety,
           ubuntu-wallpapers-zesty,
+          ubuntu-wallpapers-artful,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.

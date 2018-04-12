@@ -6,20 +6,120 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-08-23 16:44+0100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-12 13:36+0100\n"
 "PO-Revision-Date: 2014-03-13 06:05+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-09-29 05:09+0000\n"
-"X-Generator: Launchpad (build 18471)\n"
+"X-Launchpad-Export-Date: 2018-04-12 05:21+0000\n"
+"X-Generator: Launchpad (build 18609)\n"
 
-#: ../ubuntu-wallpapers.xml.in.h:1
-msgid "Ubuntu"
-msgstr "Ubuntu"
+#: ../artful-wallpapers.xml.in.h:1
+msgid "Bee on lavender"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:2
+msgid "Bloom"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:3
+msgid "Grand Canyon North Rim"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:4
+#, fuzzy
+msgid "Green Island"
+msgstr "Молодило"
+
+#: ../artful-wallpapers.xml.in.h:5
+msgid "Headstock"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:6
+msgid "Lighthouse at sunrise"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:7
+msgid "Lily of the Valley"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:8
+#, fuzzy
+msgid "London Eye"
+msgstr "Лондонське оглядове колесо знизу"
+
+#: ../artful-wallpapers.xml.in.h:9
+msgid "More Kamikochi"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:10
+msgid "Planking is going against the grain"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:11
+msgid "Red delight"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:12
+msgid "Sunrise on the beach"
+msgstr ""
+
+#: ../artful-wallpapers.xml.in.h:13
+msgid "Voss"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:1
+msgid "Cathédrale Marie-Rheine-du-Monde"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:2
+msgid "Crocus Wallpaper"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:3
+msgid "Definitive Light Zen Orange"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:4
+msgid "El Haouaria"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:5
+#, fuzzy
+msgid "Halifax Sunset"
+msgstr "Захід сонця"
+
+#: ../bionic-wallpapers.xml.in.h:6
+msgid "Manhattan Sunset"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:7
+msgid "On top of the Rubihorn"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:8
+msgid "Raindrops On The Table"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:9
+msgid "Ross Jones Rockpool (Sydney)"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:10
+msgid "Spices in Athens"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:11
+msgid "This Is Bionic Beaver"
+msgstr ""
+
+#: ../bionic-wallpapers.xml.in.h:12
+msgid "Wall with door on Gozo"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
@@ -165,7 +265,7 @@ msgstr "Равлик"
 msgid "Blue box number 2"
 msgstr "Блакитна коробка 2"
 
-#: ../maverick-wallpapers.xml.in.h:3
+#: ../maverick-wallpapers.xml.in.h:3 ../wily-wallpapers.xml.in.h:7
 msgid "Blue"
 msgstr "Блакитний"
 
@@ -572,3 +672,330 @@ msgstr "Без назви"
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
 msgstr "Водяна лілія"
+
+#: ../trusty-wallpapers.xml.in.h:1
+msgid "Backyard Mushrooms"
+msgstr "Гриби на задвірках"
+
+#: ../trusty-wallpapers.xml.in.h:2
+msgid "Beach"
+msgstr "Пляж"
+
+#: ../trusty-wallpapers.xml.in.h:4
+msgid "Foggy Forest"
+msgstr "Туманний ранок"
+
+#: ../trusty-wallpapers.xml.in.h:5
+msgid "Ibanez Infinity"
+msgstr "Нескінченність гітари Ібаньєс"
+
+#: ../trusty-wallpapers.xml.in.h:6
+msgid "Jelly Fish"
+msgstr "Медуза"
+
+#: ../trusty-wallpapers.xml.in.h:7
+msgid "Mono Lake"
+msgstr "Озеро Моно"
+
+#: ../trusty-wallpapers.xml.in.h:8
+msgid "Partitura"
+msgstr "Партитура"
+
+#: ../trusty-wallpapers.xml.in.h:9
+msgid "Reflections"
+msgstr "Віддзеркалення"
+
+#: ../trusty-wallpapers.xml.in.h:10
+msgid "Sea Fury"
+msgstr "Морська фурія"
+
+#: ../trusty-wallpapers.xml.in.h:11
+msgid "Water web"
+msgstr "Водяна сітка"
+
+#: ../trusty-wallpapers.xml.in.h:12
+msgid "Forever"
+msgstr "Назавжди"
+
+#: ../ubuntu-wallpapers.xml.in.h:1
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ../ubuntu-wallpapers.xml.in.h:2
+msgid "Ubuntu Greyscale"
+msgstr "Відтінки сірого Ubuntu"
+
+#: ../utopic-wallpapers.xml.in.h:1
+msgid "Empty Space"
+msgstr "Без тла"
+
+#: ../utopic-wallpapers.xml.in.h:2
+msgid "Golden leaves"
+msgstr "Золоте листя"
+
+#: ../utopic-wallpapers.xml.in.h:3
+msgid "Horses on sand dunes"
+msgstr "Коні на піщаних дюнах"
+
+#: ../utopic-wallpapers.xml.in.h:4
+msgid "Kronach leuchtet 2014"
+msgstr "Вогні Кронаха 2014"
+
+#: ../utopic-wallpapers.xml.in.h:5
+msgid "Music"
+msgstr "Музика"
+
+#: ../utopic-wallpapers.xml.in.h:6
+msgid "Night Seascape"
+msgstr "Пейзаж нічного моря"
+
+#: ../utopic-wallpapers.xml.in.h:7
+msgid "Redes de hilo"
+msgstr "Дротові мережі"
+
+#: ../utopic-wallpapers.xml.in.h:8
+msgid "salcantayperu"
+msgstr "Салкантай Перу"
+
+#: ../utopic-wallpapers.xml.in.h:9
+msgid "Sunny Autumn"
+msgstr "Сонячна осінь"
+
+#: ../utopic-wallpapers.xml.in.h:10
+msgid "Utopic Unicorn"
+msgstr "Утопічний Єдиноріг"
+
+#: ../utopic-wallpapers.xml.in.h:11
+msgid "Warm grasses"
+msgstr "Теплі трави"
+
+#: ../utopic-wallpapers.xml.in.h:12
+msgid "xgu472hf2"
+msgstr "xgu472hf2"
+
+#: ../vivid-wallpapers.xml.in.h:1
+msgid "150305-cinqAA"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:2
+msgid "Cedar Wax Wing"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:3
+msgid "Christmas Lights"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:4
+msgid "Euphoria!"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:5
+msgid "Oyster Catcher in the Rocks"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:6
+msgid "Polka Dots and Moonbeams"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:7
+#, fuzzy
+msgid "Primavera"
+msgstr "Червоний Первоцвіт"
+
+#: ../vivid-wallpapers.xml.in.h:8
+msgid "Tenerife Roques de Anaga"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:9
+msgid "Tesla"
+msgstr ""
+
+#: ../vivid-wallpapers.xml.in.h:10
+msgid "Traviny"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:1
+msgid "Tramonto a Scalea"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:2
+msgid "Tranquil"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:3
+msgid "Light my fire evening sun"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:4
+msgid "Sitting Here, Making Fun"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:5
+msgid "Moss inflorescence"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:6
+msgid "Breaker"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:8
+msgid "Hotel"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:9
+msgid "Mediterranean Sea"
+msgstr ""
+
+#: ../wily-wallpapers.xml.in.h:10
+msgid "Abstract Ubuntu"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:1
+msgid "160218-deux-two"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:2
+msgid "Black hole"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:3
+msgid "Cielo estrellado"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:4
+#, fuzzy
+msgid "clock"
+msgstr "Небесні пушинки"
+
+#: ../xenial-wallpapers.xml.in.h:5
+msgid "Dans ma bulle"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:6
+msgid "Flora"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:7
+#, fuzzy
+msgid "Icy Grass"
+msgstr "Трава"
+
+#: ../xenial-wallpapers.xml.in.h:8
+msgid "Night lights"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:9
+msgid "passion flower"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:10
+msgid "Spring"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:11
+msgid "TCP118v1"
+msgstr ""
+
+#: ../xenial-wallpapers.xml.in.h:12
+msgid "The Land of Edonias"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:1
+msgid "Alien wing"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:2
+msgid "Classic Guitar Detail"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:3
+msgid "DSC3907"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:4
+msgid "Haukland Beach view"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:5
+msgid "IMG 0081"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:6
+msgid "IMG 7632"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:7
+msgid "larung gar by night"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:8
+msgid "P1310728"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:9
+msgid "ubuntu16_10"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:10
+msgid "ubuntu wallpaper 16 10 02"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:11
+msgid "Wanaka Tree"
+msgstr ""
+
+#: ../yakkety-wallpapers.xml.in.h:12
+#, fuzzy
+msgid "Yala mountain"
+msgstr "Гори"
+
+#: ../zesty-wallpapers.xml.in.h:1
+msgid "A star has fallen"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:2
+msgid "Candy"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:3
+msgid "Espaciolandia"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:4
+#, fuzzy
+msgid "Forest"
+msgstr "Туманний ранок"
+
+#: ../zesty-wallpapers.xml.in.h:5
+#, fuzzy
+msgid "Mushrooms 3"
+msgstr "Гриби на задвірках"
+
+#: ../zesty-wallpapers.xml.in.h:6
+msgid "Passion"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:7
+msgid "Pink and Blue"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:8
+#, fuzzy
+msgid "Purple Daisy"
+msgstr "Пурпурові танцівники"
+
+#: ../zesty-wallpapers.xml.in.h:9
+msgid "Road to Nowhere"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:10
+msgid "Seebrücke Graal-Müritz"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:11
+msgid "Some Light Reading"
+msgstr ""
+
+#: ../zesty-wallpapers.xml.in.h:12
+msgid "there is something human in that stuff"
+msgstr ""
