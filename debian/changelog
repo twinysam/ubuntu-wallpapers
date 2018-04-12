@@ -1,3 +1,15 @@
+ubuntu-wallpapers (18.04.1-0ubuntu1) bionic; urgency=medium
+
+  * debian/control: Remove daily-packaging / bileto comment; this is manually
+    uploaded.
+  * Ubuntu Free Culture Showcase winners for 17.10 (LP: #1762722)
+  * debian/rules: Use dh_missing --fail-missing - dh_install --fail-missing is
+    going to be removed in compat 12.
+  * po/POTFILES.in, po/ubuntu-wallpapers.pot: Update .pot file, forgotten for
+    several cycles!
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 12 Apr 2018 13:36:57 +0100
+
 ubuntu-wallpapers (18.04.0-0ubuntu1) bionic; urgency=medium
 
   [ Martin Kaistra ]
