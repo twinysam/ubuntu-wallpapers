@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers saucy\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-12 13:36+0100\n"
+"POT-Creation-Date: 2018-04-26 05:19+0000\n"
 "PO-Revision-Date: 2013-09-17 12:12+0000\n"
 "Last-Translator: Aron Xu <Unknown>\n"
 "Language-Team: none\n"
-"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-04-12 05:21+0000\n"
-"X-Generator: Launchpad (build 18609)\n"
+"X-Launchpad-Export-Date: 2018-04-27 05:21+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
+"Language: zh_CN\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
@@ -32,9 +32,8 @@ msgid "Grand Canyon North Rim"
 msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "Green Island"
-msgstr "绿色植物"
+msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:5
 msgid "Headstock"
@@ -49,9 +48,8 @@ msgid "Lily of the Valley"
 msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:8
-#, fuzzy
 msgid "London Eye"
-msgstr "拍自摩天轮下"
+msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:9
 msgid "More Kamikochi"
@@ -90,9 +88,8 @@ msgid "El Haouaria"
 msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:5
-#, fuzzy
 msgid "Halifax Sunset"
-msgstr "黄昏"
+msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:6
 msgid "Manhattan Sunset"
@@ -799,9 +796,8 @@ msgid "Polka Dots and Moonbeams"
 msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:7
-#, fuzzy
 msgid "Primavera"
-msgstr "红色报春花"
+msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:8
 msgid "Tenerife Roques de Anaga"
@@ -864,9 +860,8 @@ msgid "Cielo estrellado"
 msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "clock"
-msgstr "群集翱翔"
+msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:5
 msgid "Dans ma bulle"
@@ -877,9 +872,8 @@ msgid "Flora"
 msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:7
-#, fuzzy
 msgid "Icy Grass"
-msgstr "青草"
+msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:8
 msgid "Night lights"
@@ -946,9 +940,8 @@ msgid "Wanaka Tree"
 msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:12
-#, fuzzy
 msgid "Yala mountain"
-msgstr "山脉"
+msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:1
 msgid "A star has fallen"
@@ -979,9 +972,8 @@ msgid "Pink and Blue"
 msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:8
-#, fuzzy
 msgid "Purple Daisy"
-msgstr "紫色舞者"
+msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:9
 msgid "Road to Nowhere"
