@@ -1,8 +1,22 @@
+ubuntu-wallpapers (18.10.1-0ubuntu1) cosmic; urgency=medium
+
+  * Fix release number typp in previous changelog
+  * New default wallpapers for cosmic.
+    + This time the supplied PNG file for the wallpaper was very large, so we
+      have converted it to a JPG for inclusion on the ISO. Technical
+      limitations mean that we have to call it `warty-final-ubuntu.png'
+      despite this.
+    + There are no(t yet?) contest wallpapers, so no ubuntu-wallpapers-cosmic
+      package is being created. The greyscale wallpaper is being included in
+      ubuntu-wallpapers itself.
+
+ -- Iain Lane <iain.lane@canonical.com>  Tue, 25 Sep 2018 16:40:47 +0100
+
 ubuntu-wallpapers (18.04.1-0ubuntu1) bionic; urgency=medium
 
   * debian/control: Remove daily-packaging / bileto comment; this is manually
     uploaded.
-  * Ubuntu Free Culture Showcase winners for 17.10 (LP: #1762722)
+  * Ubuntu Free Culture Showcase winners for 18.04 (LP: #1762722)
   * debian/rules: Use dh_missing --fail-missing - dh_install --fail-missing is
     going to be removed in compat 12.
   * po/POTFILES.in, po/ubuntu-wallpapers.pot: Update .pot file, forgotten for

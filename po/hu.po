@@ -6,17 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-12 13:36+0100\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2018-04-26 05:19+0000\n"
 "PO-Revision-Date: 2013-09-17 12:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
-"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-04-12 05:21+0000\n"
-"X-Generator: Launchpad (build 18609)\n"
+"X-Launchpad-Export-Date: 2018-04-27 05:21+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
@@ -47,9 +46,8 @@ msgid "Lily of the Valley"
 msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:8
-#, fuzzy
 msgid "London Eye"
-msgstr "Alulról a London Eye"
+msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:9
 msgid "More Kamikochi"
@@ -872,9 +870,8 @@ msgid "Flora"
 msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:7
-#, fuzzy
 msgid "Icy Grass"
-msgstr "Fű"
+msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:8
 msgid "Night lights"
@@ -941,9 +938,8 @@ msgid "Wanaka Tree"
 msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:12
-#, fuzzy
 msgid "Yala mountain"
-msgstr "Hegyek"
+msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:1
 msgid "A star has fallen"
@@ -958,14 +954,12 @@ msgid "Espaciolandia"
 msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "Forest"
-msgstr "Ködös erdő"
+msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:5
-#, fuzzy
 msgid "Mushrooms 3"
-msgstr "Kerti gombák"
+msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:6
 msgid "Passion"
@@ -976,9 +970,8 @@ msgid "Pink and Blue"
 msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:8
-#, fuzzy
 msgid "Purple Daisy"
-msgstr "Lila táncosok"
+msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:9
 msgid "Road to Nowhere"
