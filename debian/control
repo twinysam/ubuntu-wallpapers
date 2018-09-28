@@ -13,7 +13,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-bionic,
+Depends: ubuntu-wallpapers-cosmic,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -32,6 +32,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-yakkety,
           ubuntu-wallpapers-zesty,
           ubuntu-wallpapers-artful,
+          ubuntu-wallpapers-bionic,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -148,4 +149,13 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 18.04 Wallpapers
  Wallpapers from the Ubuntu 18.04 community contest and a Canonical-created
+ greyscale wallpaper.
+
+Package: ubuntu-wallpapers-cosmic
+Architecture: all
+Depends: ${misc:Depends},
+Breaks: ubuntu-wallpapers (<= 18.10.2)
+Replaces: ubuntu-wallpapers (<= 18.10.2)
+Description: Ubuntu 18.10 Wallpapers
+ Wallpapers from the Ubuntu 18.10 community contest and a Canonical-created
  greyscale wallpaper.

@@ -1,3 +1,11 @@
+ubuntu-wallpapers (18.10.2-0ubuntu1) cosmic; urgency=medium
+
+  * Add Free Culture Showcase winners for 18.10 (LP: #1794967).
+  * Move the greyscale cuttlefish to ubuntu-wallpapers-cosmic (add B&R to
+    ubuntu-wallpapers for this file move).
+
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 28 Sep 2018 18:32:02 +0100
+
 ubuntu-wallpapers (18.10.1-0ubuntu1) cosmic; urgency=medium
 
   * Fix release number typp in previous changelog
