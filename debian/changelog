@@ -1,3 +1,14 @@
+ubuntu-wallpapers (19.04.1-0ubuntu1) disco; urgency=medium
+
+  * New default wallpapers for disco (LP: #1819744).
+    + Again the png is actually a jpg.
+    + Again there are not yet contest wallpapers, so no
+      ubuntu-wallpapers-disco package is being created at this point. The
+      greyscale wallpaper is being included in ubuntu-wallpapers itself for
+      now.
+
+ -- Iain Lane <iain.lane@canonical.com>  Thu, 14 Mar 2019 12:35:46 +0000
+
 ubuntu-wallpapers (18.10.2-0ubuntu1) cosmic; urgency=medium
 
   * Add Free Culture Showcase winners for 18.10 (LP: #1794967).
