@@ -1,3 +1,18 @@
+ubuntu-wallpapers (19.04.2-0ubuntu1) disco; urgency=medium
+
+  [ Olivier Tilloy ]
+  * Add Free Culture Showcase winners for 19.04 (LP: #1821900).
+  * Move the greyscale dingo to ubuntu-wallpapers-disco (add B&R to
+    ubuntu-wallpapers for this file move).
+  * Update scripts used to generate XML files, to include PNG as well as JPG
+    files (two of the Free Culture Showcase winners are PNG files this time).
+
+  [ Iain Lane ]
+  * Update with new and smaller images, and
+    80s_Disco_Dingo_Simulation_by_Abubakar_NK is now a jpg.
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Mon, 01 Apr 2019 17:09:29 +0100
+
 ubuntu-wallpapers (19.04.1-0ubuntu1) disco; urgency=medium
 
   * New default wallpapers for disco (LP: #1819744).
