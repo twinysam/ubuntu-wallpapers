@@ -1,3 +1,11 @@
+ubuntu-wallpapers (19.10.2-0ubuntu1) eoan; urgency=medium
+
+  * Add Free Culture Showcase winners for 19.10 (LP: #1845188).
+  * Move the greyscale ermine to ubuntu-wallpapers-eoan (add B&R to
+    ubuntu-wallpapers for this file move).
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Wed, 25 Sep 2019 10:19:29 +0200
+
 ubuntu-wallpapers (19.10.1-0ubuntu1) eoan; urgency=medium
 
   * New default wallpapers for disco (LP: #1843798).
@@ -6,8 +14,9 @@ ubuntu-wallpapers (19.10.1-0ubuntu1) eoan; urgency=medium
       ubuntu-wallpapers-eoan package is being created at this point. The
       greyscale wallpaper is being included in ubuntu-wallpapers itself for
       now and it'll move over later.
+  * debian/copyright: Bump year for default wallpapers to 2019.
 
- -- Iain Lane <iain.lane@canonical.com>  Fri, 13 Sep 2019 17:18:58 +0100
+ -- Iain Lane <iain.lane@canonical.com>  Fri, 13 Sep 2019 17:20:33 +0100
 
 ubuntu-wallpapers (19.04.2-0ubuntu1) disco; urgency=medium
 

@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2019-03-27 22:32+0100\n"
+"POT-Creation-Date: 2019-09-24 04:37+0000\n"
 "PO-Revision-Date: 2013-12-10 17:19+0000\n"
 "Last-Translator: Tadeáš Pařík <tadeas.parik@gmail.com>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-03-29 05:30+0000\n"
-"X-Generator: Launchpad (build 18910)\n"
+"X-Launchpad-Export-Date: 2019-09-25 05:49+0000\n"
+"X-Generator: Launchpad (build 19048)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:4
 msgid "Green Island"
-msgstr ""
+msgstr "Zelený ostrov"
 
 #: ../artful-wallpapers.xml.in.h:5
 msgid "Headstock"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:6
 msgid "Lighthouse at sunrise"
-msgstr ""
+msgstr "Maják za úsvitu"
 
 #: ../artful-wallpapers.xml.in.h:7
 msgid "Lily of the Valley"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:8
 msgid "London Eye"
-msgstr ""
+msgstr "Londýnské Oko"
 
 #: ../artful-wallpapers.xml.in.h:9
 msgid "More Kamikochi"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:12
 msgid "Sunrise on the beach"
-msgstr ""
+msgstr "Svítání na pláži"
 
 #: ../artful-wallpapers.xml.in.h:13
 msgid "Voss"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:8
 msgid "Raindrops On The Table"
-msgstr ""
+msgstr "Kapky deště na stole"
 
 #: ../bionic-wallpapers.xml.in.h:9
 msgid "Ross Jones Rockpool (Sydney)"
@@ -119,7 +119,7 @@ msgstr ""
 
 #: ../cosmic-wallpapers.xml.in.h:1
 msgid "Black Sand Beach"
-msgstr ""
+msgstr "Pláž s černým pískem"
 
 #: ../cosmic-wallpapers.xml.in.h:2
 msgid "Carriage Return"
@@ -143,15 +143,15 @@ msgstr ""
 
 #: ../cosmic-wallpapers.xml.in.h:7
 msgid "Milky Way Before The Dawn"
-msgstr ""
+msgstr "Mléčná dráha před svítáním"
 
 #: ../cosmic-wallpapers.xml.in.h:8
 msgid "Morning"
-msgstr ""
+msgstr "Ráno"
 
 #: ../cosmic-wallpapers.xml.in.h:9
 msgid "Spring Flowers"
-msgstr ""
+msgstr "Jarní květiny"
 
 #: ../cosmic-wallpapers.xml.in.h:10
 msgid "Tapiola Espoo Cultural Center"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../disco-wallpapers.xml.in.h:4
 msgid "On the harbour"
-msgstr ""
+msgstr "V přístavu"
 
 #: ../disco-wallpapers.xml.in.h:5
 msgid "Staniel Cay"
@@ -191,7 +191,7 @@ msgstr ""
 
 #: ../disco-wallpapers.xml.in.h:7
 msgid "Tennis ball"
-msgstr ""
+msgstr "Tenisový míček"
 
 #: ../disco-wallpapers.xml.in.h:8
 msgid "Water of Leith"
@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../disco-wallpapers.xml.in.h:9
 msgid "80s Disco Dingo Simulation"
-msgstr ""
+msgstr "Simulace disko koule z 80. let"
 
 #: ../disco-wallpapers.xml.in.h:10
 msgid "Disco Dingo Alt Default"
@@ -811,15 +811,15 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:1
 msgid "Empty Space"
-msgstr ""
+msgstr "Prázdný prostor"
 
 #: ../utopic-wallpapers.xml.in.h:2
 msgid "Golden leaves"
-msgstr ""
+msgstr "Zlaté lístky"
 
 #: ../utopic-wallpapers.xml.in.h:3
 msgid "Horses on sand dunes"
-msgstr ""
+msgstr "Koně na písečných dunách"
 
 #: ../utopic-wallpapers.xml.in.h:4
 msgid "Kronach leuchtet 2014"
@@ -827,7 +827,7 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:5
 msgid "Music"
-msgstr ""
+msgstr "Hudba"
 
 #: ../utopic-wallpapers.xml.in.h:6
 msgid "Night Seascape"
@@ -843,11 +843,11 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:9
 msgid "Sunny Autumn"
-msgstr ""
+msgstr "Slunečný podzim"
 
 #: ../utopic-wallpapers.xml.in.h:10
 msgid "Utopic Unicorn"
-msgstr ""
+msgstr "Utopický jednorožec"
 
 #: ../utopic-wallpapers.xml.in.h:11
 msgid "Warm grasses"
@@ -867,7 +867,7 @@ msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:3
 msgid "Christmas Lights"
-msgstr ""
+msgstr "Vánoční světélka"
 
 #: ../vivid-wallpapers.xml.in.h:4
 msgid "Euphoria!"
@@ -923,15 +923,15 @@ msgstr ""
 
 #: ../wily-wallpapers.xml.in.h:8
 msgid "Hotel"
-msgstr ""
+msgstr "Hotel"
 
 #: ../wily-wallpapers.xml.in.h:9
 msgid "Mediterranean Sea"
-msgstr ""
+msgstr "Středozemní moře"
 
 #: ../wily-wallpapers.xml.in.h:10
 msgid "Abstract Ubuntu"
-msgstr ""
+msgstr "Abstraktní Ubuntu"
 
 #: ../xenial-wallpapers.xml.in.h:1
 msgid "160218-deux-two"
@@ -939,7 +939,7 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:2
 msgid "Black hole"
-msgstr ""
+msgstr "Černá díra"
 
 #: ../xenial-wallpapers.xml.in.h:3
 msgid "Cielo estrellado"
@@ -947,7 +947,7 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:4
 msgid "clock"
-msgstr ""
+msgstr "hodiny"
 
 #: ../xenial-wallpapers.xml.in.h:5
 msgid "Dans ma bulle"
@@ -959,11 +959,11 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:7
 msgid "Icy Grass"
-msgstr ""
+msgstr "Ledová tráva"
 
 #: ../xenial-wallpapers.xml.in.h:8
 msgid "Night lights"
-msgstr ""
+msgstr "Noční světla"
 
 #: ../xenial-wallpapers.xml.in.h:9
 msgid "passion flower"
@@ -971,7 +971,7 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:10
 msgid "Spring"
-msgstr ""
+msgstr "Jaro"
 
 #: ../xenial-wallpapers.xml.in.h:11
 msgid "TCP118v1"
@@ -987,7 +987,7 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:2
 msgid "Classic Guitar Detail"
-msgstr ""
+msgstr "Detail akustické kytary"
 
 #: ../yakkety-wallpapers.xml.in.h:3
 msgid "DSC3907"
@@ -1031,11 +1031,11 @@ msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:1
 msgid "A star has fallen"
-msgstr ""
+msgstr "Padající hvězda"
 
 #: ../zesty-wallpapers.xml.in.h:2
 msgid "Candy"
-msgstr ""
+msgstr "Cukroví"
 
 #: ../zesty-wallpapers.xml.in.h:3
 msgid "Espaciolandia"
@@ -1043,11 +1043,11 @@ msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:4
 msgid "Forest"
-msgstr ""
+msgstr "Les"
 
 #: ../zesty-wallpapers.xml.in.h:5
 msgid "Mushrooms 3"
-msgstr ""
+msgstr "Houby 3"
 
 #: ../zesty-wallpapers.xml.in.h:6
 msgid "Passion"
@@ -1055,7 +1055,7 @@ msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:7
 msgid "Pink and Blue"
-msgstr ""
+msgstr "Růžová a modrá"
 
 #: ../zesty-wallpapers.xml.in.h:8
 msgid "Purple Daisy"
