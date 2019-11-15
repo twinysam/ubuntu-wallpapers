@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2019-09-24 04:37+0000\n"
+"POT-Creation-Date: 2019-11-13 05:48+0000\n"
 "PO-Revision-Date: 2013-09-17 12:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Galician <gl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-09-25 05:50+0000\n"
-"X-Generator: Launchpad (build 19048)\n"
+"X-Launchpad-Export-Date: 2019-11-14 05:47+0000\n"
+"X-Generator: Launchpad (build c597c3229eb023b1e626162d5947141bf7befb13)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
@@ -119,91 +119,127 @@ msgstr "Muro con porta en Gozo"
 
 #: ../cosmic-wallpapers.xml.in.h:1
 msgid "Black Sand Beach"
-msgstr ""
+msgstr "Praia de area negra"
 
 #: ../cosmic-wallpapers.xml.in.h:2
 msgid "Carriage Return"
-msgstr ""
+msgstr "Retorno de carro"
 
 #: ../cosmic-wallpapers.xml.in.h:3
 msgid "Cosmic Cuttlefish"
-msgstr ""
+msgstr "Choco Cósmico"
 
 #: ../cosmic-wallpapers.xml.in.h:4
 msgid "Encounter"
-msgstr ""
+msgstr "Encontro"
 
 #: ../cosmic-wallpapers.xml.in.h:5
 msgid "Fairground at Night"
-msgstr ""
+msgstr "Feira de noite"
 
 #: ../cosmic-wallpapers.xml.in.h:6
 msgid "Image of Mount Parnassus"
-msgstr ""
+msgstr "Imaxe do Monte Parnaso"
 
 #: ../cosmic-wallpapers.xml.in.h:7
 msgid "Milky Way Before The Dawn"
-msgstr ""
+msgstr "Vía Láctea antes do abrente"
 
 #: ../cosmic-wallpapers.xml.in.h:8
 msgid "Morning"
-msgstr ""
+msgstr "Mañá"
 
 #: ../cosmic-wallpapers.xml.in.h:9
 msgid "Spring Flowers"
-msgstr ""
+msgstr "Flores primaverais"
 
 #: ../cosmic-wallpapers.xml.in.h:10
 msgid "Tapiola Espoo Cultural Center"
-msgstr ""
+msgstr "Centro cultural Tapiola Espoo"
 
 #: ../cosmic-wallpapers.xml.in.h:11
 msgid "touch de vert"
-msgstr ""
+msgstr "toque de verde"
 
 #: ../cosmic-wallpapers.xml.in.h:12
 msgid "Ubuntu Party de Paris"
-msgstr ""
+msgstr "Festa de Ubuntu de París"
 
 #: ../disco-wallpapers.xml.in.h:1
 msgid "Capucijnengang"
-msgstr ""
+msgstr "Capucijnengang"
 
 #: ../disco-wallpapers.xml.in.h:2
 msgid "Cramond Island"
-msgstr ""
+msgstr "Illa de Cramond"
 
 #: ../disco-wallpapers.xml.in.h:3
 msgid "Flower Gate Bridge"
-msgstr ""
+msgstr "Ponte das Flores"
 
 #: ../disco-wallpapers.xml.in.h:4
 msgid "On the harbour"
-msgstr ""
+msgstr "No porto"
 
 #: ../disco-wallpapers.xml.in.h:5
 msgid "Staniel Cay"
-msgstr ""
+msgstr "Staniel Cay"
 
 #: ../disco-wallpapers.xml.in.h:6
 msgid "Sunset of Peloponnesus"
-msgstr ""
+msgstr "Solpor no Peloponeso"
 
 #: ../disco-wallpapers.xml.in.h:7
 msgid "Tennis ball"
-msgstr ""
+msgstr "Bóla de ténis"
 
 #: ../disco-wallpapers.xml.in.h:8
 msgid "Water of Leith"
-msgstr ""
+msgstr "Water of Leith"
 
 #: ../disco-wallpapers.xml.in.h:9
 msgid "80s Disco Dingo Simulation"
-msgstr ""
+msgstr "Simulación de Disco Dingo dos 89"
 
 #: ../disco-wallpapers.xml.in.h:10
 msgid "Disco Dingo Alt Default"
-msgstr ""
+msgstr "Disco Dingo Alt Predeterminado"
+
+#: ../eoan-wallpapers.xml.in.h:1
+msgid "Beijling park burial path"
+msgstr "Ruta fúnebre do parque de Bijling"
+
+#: ../eoan-wallpapers.xml.in.h:2
+msgid "Frozen sunset on the lake"
+msgstr "Solpor xeado no lado"
+
+#: ../eoan-wallpapers.xml.in.h:3
+msgid "Origin of nature"
+msgstr "Orixe da naturez"
+
+#: ../eoan-wallpapers.xml.in.h:4
+msgid "Sky Sparkles"
+msgstr "Faíscas de ceo"
+
+#: ../eoan-wallpapers.xml.in.h:5
+msgid "Stargazing"
+msgstr "Contemplando as estrelas"
+
+#: ../eoan-wallpapers.xml.in.h:6
+msgid "Ubuntu 80s glitch"
+msgstr "Ubuntu con falliño dos 80"
+
+#: ../eoan-wallpapers.xml.in.h:7
+msgid "Ubuntu gel"
+msgstr "Xel Ubuntu"
+
+#: ../eoan-wallpapers.xml.in.h:8
+msgid "Ermine lines"
+msgstr "Liñas de doniña"
+
+#: ../eoan-wallpapers.xml.in.h:9
+msgid "Flight dive"
+msgstr "Mergullo aéreo"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
