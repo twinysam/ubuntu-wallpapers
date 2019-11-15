@@ -1,3 +1,9 @@
+ubuntu-wallpapers (19.10.3-0ubuntu2) focal; urgency=medium
+
+  * Add missing build-dependency on dh-python.
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 14 Nov 2019 22:10:31 -0800
+
 ubuntu-wallpapers (19.10.3-0ubuntu1) focal; urgency=medium
 
   * Include translation updates.
