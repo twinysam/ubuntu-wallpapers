@@ -1,3 +1,11 @@
+ubuntu-wallpapers (20.04.2-0ubuntu1) focal; urgency=medium
+
+  * Add World Cup of Wallpapers winner and "focal" photos.
+  * Move the greyscale fossa to ubuntu-wallpapers-focal (add B&R to
+    ubuntu-wallpapers for this file move).
+
+ -- Martin Wimpress <martin.wimpress@ubuntu.com>  Thu, 02 Apr 2020 14:24:36 +0100
+
 ubuntu-wallpapers (20.04.1-0ubuntu1) focal; urgency=medium
 
   * New default wallpapers for focal.

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 20.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/focal.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Stone Mountain</_name>
+     <filename>/usr/share/backgrounds/brad-huchteman-stone-mountain.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Something Yellow</_name>
+     <filename>/usr/share/backgrounds/joshua-coleman-something-yellow.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>2nd Avenue</_name>
+     <filename>/usr/share/backgrounds/matt-mcnulty-nyc-2nd-ave.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Skykomish River</_name>
+     <filename>/usr/share/backgrounds/ryan-stone-skykomish-river.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Hardy Heron (Remaster)</_name>
+     <filename>/usr/share/backgrounds/hardy_wallpaper_uhd.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
