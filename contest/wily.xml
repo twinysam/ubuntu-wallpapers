@@ -24,15 +24,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Tranquil_by_Pat_David.jpg</from>
-    <to>/usr/share/backgrounds/P5160283_by_Dariusz_Duma.jpg</to>
+    <to>/usr/share/backgrounds/Light_my_fire_evening_sun_by_Dariusz_Duma.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/P5160283_by_Dariusz_Duma.jpg</file>
+    <file>/usr/share/backgrounds/Light_my_fire_evening_sun_by_Dariusz_Duma.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/P5160283_by_Dariusz_Duma.jpg</from>
+    <from>/usr/share/backgrounds/Light_my_fire_evening_sun_by_Dariusz_Duma.jpg</from>
     <to>/usr/share/backgrounds/Sitting_Here,_Making_Fun_by_Philipp_Haegi.jpg</to>
   </transition>
   <static>
