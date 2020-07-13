@@ -8,242 +8,242 @@ msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2013-09-17 12:00+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-10-15 16:49+0000\n"
+"Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-09-19 04:37+0000\n"
-"X-Generator: Launchpad (build 16765)\n"
+"X-Launchpad-Export-Date: 2013-10-16 04:33+0000\n"
+"X-Generator: Launchpad (build 16799)\n"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
-msgstr ""
+msgstr "Ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr ""
+msgstr "Orquidèa blanca"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr ""
+msgstr "Projeccion de gravièrs"
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr ""
+msgstr "Auròra incandescenta"
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr ""
+msgstr "Lutz aqüatica"
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr ""
+msgstr "Pelenc anglés"
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr ""
+msgstr "Escalaire a contrajorn"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr ""
+msgstr "Cerièras"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr ""
+msgstr "Primavera roja"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr ""
+msgstr "Parpalhòl"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
-msgstr ""
+msgstr "Lo talhièr del pintre"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr ""
+msgstr "Solelh colc"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
-msgstr ""
+msgstr "Sabatas tustant lo pavat"
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr ""
+msgstr "Sabla"
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
-msgstr ""
+msgstr "Fuèlha de palma"
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr ""
+msgstr "Irange"
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr ""
+msgstr "Matin brumós"
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr ""
+msgstr "Granhòta"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr ""
+msgstr "Flor de Lotus"
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr ""
+msgstr "Baia"
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr ""
+msgstr "Bosque TK"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr ""
+msgstr "Busqueda Nocturna"
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr ""
+msgstr "Cunhat"
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
-msgstr ""
+msgstr "Boclas per Candy"
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr ""
+msgstr "Daisy"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
-msgstr ""
+msgstr "Gotas de davalada, lum antic"
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr ""
+msgstr "Pissaenlièch"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr ""
+msgstr "Pèiras torradas 2"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
-msgstr ""
+msgstr "Dins l'obscuretat - Redux"
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
-msgstr ""
+msgstr "Maraetai abans l'auba"
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr ""
+msgstr "Fosc"
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
-msgstr ""
+msgstr "Ponchut"
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr ""
+msgstr "Lums cauds"
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr ""
+msgstr "Flor jauna"
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr ""
+msgstr "Moment doç"
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
-msgstr ""
+msgstr "TGV"
 
 #: ../maverick-wallpapers.xml.in.h:2
 msgid "Blue box number 2"
-msgstr ""
+msgstr "Sarralha blava"
 
 #: ../maverick-wallpapers.xml.in.h:3
 msgid "Blue"
-msgstr ""
+msgstr "Blau"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr ""
+msgstr "Bullas"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
-msgstr ""
+msgstr "Crocosmia"
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr ""
+msgstr "Pluma"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr ""
+msgstr "Falguièra"
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr ""
+msgstr "Camp de blat"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr ""
+msgstr "Pluèja sus un carrèu"
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr ""
+msgstr "Mirada Perduda"
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
-msgstr ""
+msgstr "Flor de l'auba"
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
-msgstr ""
+msgstr "Primièra auròra 2010"
 
 #: ../maverick-wallpapers.xml.in.h:13
 msgid "Ropey Photo"
-msgstr ""
+msgstr "Cordatges"
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr ""
+msgstr "Patz e voluptat"
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
-msgstr ""
+msgstr "Sorire especiat"
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr ""
+msgstr "Espirala"
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
-msgstr ""
+msgstr "Fugida en cadena"
 
 #: ../natty-wallpapers.xml.in.h:2
 msgid "Arboreal ballet"
-msgstr ""
+msgstr "Autant n'empòrta lo vent"
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr ""
+msgstr "Lo grand blau"
 
 #: ../natty-wallpapers.xml.in.h:4
 msgid "Berries"
-msgstr ""
+msgstr "Los fruches de la passion"
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr ""
+msgstr "L'ausèl"
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
-msgstr ""
+msgstr "Teissut"
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
@@ -251,23 +251,23 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
-msgstr ""
+msgstr "La vila es tranquilla"
 
 #: ../natty-wallpapers.xml.in.h:9
 msgid "Holes"
-msgstr ""
+msgstr "De traucs dins lo cap"
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
-msgstr ""
+msgstr "Entre can e lop"
 
 #: ../natty-wallpapers.xml.in.h:11
 msgid "Lá no alto"
-msgstr ""
+msgstr "Lo cèl pòt esperar"
 
 #: ../natty-wallpapers.xml.in.h:12
 msgid "Quandro"
-msgstr ""
+msgstr "Lo blat en èrba"
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
@@ -275,155 +275,155 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr ""
+msgstr "La vida es una gota penjada"
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
-msgstr ""
+msgstr "La lutz de las estelas mòrtas"
 
 #: ../natty-wallpapers.xml.in.h:16
 msgid "Tri Narwhal"
-msgstr ""
+msgstr "Lo secret de la licòrna"
 
 #: ../natty-wallpapers.xml.in.h:17
 msgid "Variations On Natty Narwhal 1"
-msgstr ""
+msgstr "Lo mistèri de la licòrna"
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr ""
+msgstr "Prima precòça"
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
-msgstr ""
+msgstr "Buck Off!"
 
 #: ../oneiric-wallpapers.xml.in.h:2
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Darkening Clockwork"
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Gara de Dybbølsbro"
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Jardin polar"
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr ""
+msgstr "Langelinie Allé"
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Momiji Dream"
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
-msgstr ""
+msgstr "Mont Snowdon, País de Galas"
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr ""
+msgstr "Not Alone"
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr ""
+msgstr "Poténcia dels Mots"
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Dançaires Violets"
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr ""
+msgstr "Floretas"
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Stalking Ocelot"
 
 #: ../oneiric-wallpapers.xml.in.h:13
 msgid "The Grass Ain't Greener"
-msgstr ""
+msgstr "The Grass Ain't Greener"
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr ""
+msgstr "Blat Salvatge"
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr ""
+msgstr "Petals delicats"
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr ""
+msgstr "Flor precòça"
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
-msgstr ""
+msgstr "Flocatge"
 
 #: ../precise-wallpapers.xml.in.h:4
 msgid "Floorboards"
-msgstr ""
+msgstr "Ponde"
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr ""
+msgstr "Florason daurada"
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
-msgstr ""
+msgstr "London Eye dempuèi lo sòl"
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr ""
+msgstr "Rosada matinala"
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
-msgstr ""
+msgstr "Pintruras muralas"
 
 #: ../precise-wallpapers.xml.in.h:9
 msgid "Precise Pangolin"
-msgstr ""
+msgstr "Precise Pangolin"
 
 #: ../precise-wallpapers.xml.in.h:10
 msgid "Speaker Weave"
-msgstr ""
+msgstr "Teissatge de nautparlaire"
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr ""
+msgstr "La Ciutat Interdicha"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr ""
+msgstr "Estacatz mon vaissèl"
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr ""
+msgstr "Tòr a solelh colc"
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr ""
+msgstr "Matin d'Ivèrn"
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr ""
+msgstr "Un pichon quetzal"
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr ""
+msgstr "En dejós de las nívols"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr ""
+msgstr "Cairn"
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr ""
+msgstr "Aubeta"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr ""
+msgstr "Torrat"
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
@@ -431,23 +431,23 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr ""
+msgstr "Planta verda"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr ""
+msgstr "T"
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
-msgstr ""
+msgstr "Pantano de Orellana"
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr ""
+msgstr "Tèules"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr ""
+msgstr "Fugissentas"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
