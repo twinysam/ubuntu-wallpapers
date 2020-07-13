@@ -9,4 +9,12 @@
     <scolor>#2c001e</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <_name>Ubuntu Greyscale</_name>
+    <filename>/usr/share/backgrounds/ubuntu-default-greyscale-wallpaper.png</filename>
+    <options>zoom</options>
+    <pcolor>#333333</pcolor>
+    <scolor>#333333</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
