@@ -31,7 +31,7 @@ FOOTER = """</background>
 PATH='/usr/share/backgrounds/'
 
 def main():
-    images = glob.glob('*.jpg')
+    images = glob.glob('*.jpg') + glob.glob('*.png')
     m = len(images)
 
     output = ''
