@@ -6,120 +6,116 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-12 13:36+0100\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2018-04-26 05:19+0000\n"
 "PO-Revision-Date: 2014-03-23 21:34+0000\n"
 "Last-Translator: Andi Chandler <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-04-12 05:21+0000\n"
-"X-Generator: Launchpad (build 18609)\n"
+"X-Launchpad-Export-Date: 2018-04-27 05:21+0000\n"
+"X-Generator: Launchpad (build 18623)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
-msgstr ""
+msgstr "Bee on lavender"
 
 #: ../artful-wallpapers.xml.in.h:2
 msgid "Bloom"
-msgstr ""
+msgstr "Bloom"
 
 #: ../artful-wallpapers.xml.in.h:3
 msgid "Grand Canyon North Rim"
-msgstr ""
+msgstr "Grand Canyon North Rim"
 
 #: ../artful-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "Green Island"
-msgstr "Green Plant"
+msgstr "Green Island"
 
 #: ../artful-wallpapers.xml.in.h:5
 msgid "Headstock"
-msgstr ""
+msgstr "Headstock"
 
 #: ../artful-wallpapers.xml.in.h:6
 msgid "Lighthouse at sunrise"
-msgstr ""
+msgstr "Lighthouse at sunrise"
 
 #: ../artful-wallpapers.xml.in.h:7
 msgid "Lily of the Valley"
-msgstr ""
+msgstr "Lily of the Valley"
 
 #: ../artful-wallpapers.xml.in.h:8
-#, fuzzy
 msgid "London Eye"
-msgstr "London Eye From Beneath"
+msgstr "London Eye"
 
 #: ../artful-wallpapers.xml.in.h:9
 msgid "More Kamikochi"
-msgstr ""
+msgstr "More Kamikochi"
 
 #: ../artful-wallpapers.xml.in.h:10
 msgid "Planking is going against the grain"
-msgstr ""
+msgstr "Planking is going against the grain"
 
 #: ../artful-wallpapers.xml.in.h:11
 msgid "Red delight"
-msgstr ""
+msgstr "Red delight"
 
 #: ../artful-wallpapers.xml.in.h:12
 msgid "Sunrise on the beach"
-msgstr ""
+msgstr "Sunrise on the beach"
 
 #: ../artful-wallpapers.xml.in.h:13
 msgid "Voss"
-msgstr ""
+msgstr "Voss"
 
 #: ../bionic-wallpapers.xml.in.h:1
 msgid "Cathédrale Marie-Rheine-du-Monde"
-msgstr ""
+msgstr "Cathédrale Marie-Rheine-du-Monde"
 
 #: ../bionic-wallpapers.xml.in.h:2
 msgid "Crocus Wallpaper"
-msgstr ""
+msgstr "Crocus Wallpaper"
 
 #: ../bionic-wallpapers.xml.in.h:3
 msgid "Definitive Light Zen Orange"
-msgstr ""
+msgstr "Definitive Light Zen Orange"
 
 #: ../bionic-wallpapers.xml.in.h:4
 msgid "El Haouaria"
-msgstr ""
+msgstr "El Haouaria"
 
 #: ../bionic-wallpapers.xml.in.h:5
-#, fuzzy
 msgid "Halifax Sunset"
-msgstr "Sunset"
+msgstr "Halifax Sunset"
 
 #: ../bionic-wallpapers.xml.in.h:6
 msgid "Manhattan Sunset"
-msgstr ""
+msgstr "Manhattan Sunset"
 
 #: ../bionic-wallpapers.xml.in.h:7
 msgid "On top of the Rubihorn"
-msgstr ""
+msgstr "On top of the Rubihorn"
 
 #: ../bionic-wallpapers.xml.in.h:8
 msgid "Raindrops On The Table"
-msgstr ""
+msgstr "Raindrops On The Table"
 
 #: ../bionic-wallpapers.xml.in.h:9
 msgid "Ross Jones Rockpool (Sydney)"
-msgstr ""
+msgstr "Ross Jones Rockpool (Sydney)"
 
 #: ../bionic-wallpapers.xml.in.h:10
 msgid "Spices in Athens"
-msgstr ""
+msgstr "Spices in Athens"
 
 #: ../bionic-wallpapers.xml.in.h:11
 msgid "This Is Bionic Beaver"
-msgstr ""
+msgstr "This Is Bionic Beaver"
 
 #: ../bionic-wallpapers.xml.in.h:12
 msgid "Wall with door on Gozo"
-msgstr ""
+msgstr "Wall with door on Gozo"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
@@ -775,227 +771,220 @@ msgstr "xgu472hf2"
 
 #: ../vivid-wallpapers.xml.in.h:1
 msgid "150305-cinqAA"
-msgstr ""
+msgstr "150305-cinqAA"
 
 #: ../vivid-wallpapers.xml.in.h:2
 msgid "Cedar Wax Wing"
-msgstr ""
+msgstr "Cedar Wax Wing"
 
 #: ../vivid-wallpapers.xml.in.h:3
 msgid "Christmas Lights"
-msgstr ""
+msgstr "Christmas Lights"
 
 #: ../vivid-wallpapers.xml.in.h:4
 msgid "Euphoria!"
-msgstr ""
+msgstr "Euphoria!"
 
 #: ../vivid-wallpapers.xml.in.h:5
 msgid "Oyster Catcher in the Rocks"
-msgstr ""
+msgstr "Oyster Catcher in the Rocks"
 
 #: ../vivid-wallpapers.xml.in.h:6
 msgid "Polka Dots and Moonbeams"
-msgstr ""
+msgstr "Polka Dots and Moonbeams"
 
 #: ../vivid-wallpapers.xml.in.h:7
-#, fuzzy
 msgid "Primavera"
-msgstr "Primula Red"
+msgstr "Primavera"
 
 #: ../vivid-wallpapers.xml.in.h:8
 msgid "Tenerife Roques de Anaga"
-msgstr ""
+msgstr "Tenerife Roques de Anaga"
 
 #: ../vivid-wallpapers.xml.in.h:9
 msgid "Tesla"
-msgstr ""
+msgstr "Tesla"
 
 #: ../vivid-wallpapers.xml.in.h:10
 msgid "Traviny"
-msgstr ""
+msgstr "Traviny"
 
 #: ../wily-wallpapers.xml.in.h:1
 msgid "Tramonto a Scalea"
-msgstr ""
+msgstr "Tramonto a Scalea"
 
 #: ../wily-wallpapers.xml.in.h:2
 msgid "Tranquil"
-msgstr ""
+msgstr "Tranquil"
 
 #: ../wily-wallpapers.xml.in.h:3
 msgid "Light my fire evening sun"
-msgstr ""
+msgstr "Light my fire evening sun"
 
 #: ../wily-wallpapers.xml.in.h:4
 msgid "Sitting Here, Making Fun"
-msgstr ""
+msgstr "Sitting Here, Making Fun"
 
 #: ../wily-wallpapers.xml.in.h:5
 msgid "Moss inflorescence"
-msgstr ""
+msgstr "Moss inflorescence"
 
 #: ../wily-wallpapers.xml.in.h:6
 msgid "Breaker"
-msgstr ""
+msgstr "Breaker"
 
 #: ../wily-wallpapers.xml.in.h:8
 msgid "Hotel"
-msgstr ""
+msgstr "Hotel"
 
 #: ../wily-wallpapers.xml.in.h:9
 msgid "Mediterranean Sea"
-msgstr ""
+msgstr "Mediterranean Sea"
 
 #: ../wily-wallpapers.xml.in.h:10
 msgid "Abstract Ubuntu"
-msgstr ""
+msgstr "Abstract Ubuntu"
 
 #: ../xenial-wallpapers.xml.in.h:1
 msgid "160218-deux-two"
-msgstr ""
+msgstr "160218-deux-two"
 
 #: ../xenial-wallpapers.xml.in.h:2
 msgid "Black hole"
-msgstr ""
+msgstr "Black hole"
 
 #: ../xenial-wallpapers.xml.in.h:3
 msgid "Cielo estrellado"
-msgstr ""
+msgstr "Cielo estrellado"
 
 #: ../xenial-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "clock"
-msgstr "Flocking"
+msgstr "clock"
 
 #: ../xenial-wallpapers.xml.in.h:5
 msgid "Dans ma bulle"
-msgstr ""
+msgstr "Dans ma bulle"
 
 #: ../xenial-wallpapers.xml.in.h:6
 msgid "Flora"
-msgstr ""
+msgstr "Flora"
 
 #: ../xenial-wallpapers.xml.in.h:7
-#, fuzzy
 msgid "Icy Grass"
-msgstr "Grass"
+msgstr "Icy Grass"
 
 #: ../xenial-wallpapers.xml.in.h:8
 msgid "Night lights"
-msgstr ""
+msgstr "Night lights"
 
 #: ../xenial-wallpapers.xml.in.h:9
 msgid "passion flower"
-msgstr ""
+msgstr "passion flower"
 
 #: ../xenial-wallpapers.xml.in.h:10
 msgid "Spring"
-msgstr ""
+msgstr "Spring"
 
 #: ../xenial-wallpapers.xml.in.h:11
 msgid "TCP118v1"
-msgstr ""
+msgstr "TCP118v1"
 
 #: ../xenial-wallpapers.xml.in.h:12
 msgid "The Land of Edonias"
-msgstr ""
+msgstr "The Land of Edonias"
 
 #: ../yakkety-wallpapers.xml.in.h:1
 msgid "Alien wing"
-msgstr ""
+msgstr "Alien wing"
 
 #: ../yakkety-wallpapers.xml.in.h:2
 msgid "Classic Guitar Detail"
-msgstr ""
+msgstr "Classic Guitar Detail"
 
 #: ../yakkety-wallpapers.xml.in.h:3
 msgid "DSC3907"
-msgstr ""
+msgstr "DSC3907"
 
 #: ../yakkety-wallpapers.xml.in.h:4
 msgid "Haukland Beach view"
-msgstr ""
+msgstr "Haukland Beach view"
 
 #: ../yakkety-wallpapers.xml.in.h:5
 msgid "IMG 0081"
-msgstr ""
+msgstr "IMG 0081"
 
 #: ../yakkety-wallpapers.xml.in.h:6
 msgid "IMG 7632"
-msgstr ""
+msgstr "IMG 7632"
 
 #: ../yakkety-wallpapers.xml.in.h:7
 msgid "larung gar by night"
-msgstr ""
+msgstr "larung gar by night"
 
 #: ../yakkety-wallpapers.xml.in.h:8
 msgid "P1310728"
-msgstr ""
+msgstr "P1310728"
 
 #: ../yakkety-wallpapers.xml.in.h:9
 msgid "ubuntu16_10"
-msgstr ""
+msgstr "ubuntu16_10"
 
 #: ../yakkety-wallpapers.xml.in.h:10
 msgid "ubuntu wallpaper 16 10 02"
-msgstr ""
+msgstr "ubuntu wallpaper 16 10 02"
 
 #: ../yakkety-wallpapers.xml.in.h:11
 msgid "Wanaka Tree"
-msgstr ""
+msgstr "Wanaka Tree"
 
 #: ../yakkety-wallpapers.xml.in.h:12
-#, fuzzy
 msgid "Yala mountain"
-msgstr "Mountains"
+msgstr "Yala mountain"
 
 #: ../zesty-wallpapers.xml.in.h:1
 msgid "A star has fallen"
-msgstr ""
+msgstr "A star has fallen"
 
 #: ../zesty-wallpapers.xml.in.h:2
 msgid "Candy"
-msgstr ""
+msgstr "Candy"
 
 #: ../zesty-wallpapers.xml.in.h:3
 msgid "Espaciolandia"
-msgstr ""
+msgstr "Espaciolandia"
 
 #: ../zesty-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "Forest"
-msgstr "Foggy Forest"
+msgstr "Forest"
 
 #: ../zesty-wallpapers.xml.in.h:5
-#, fuzzy
 msgid "Mushrooms 3"
-msgstr "Backyard Mushrooms"
+msgstr "Mushrooms 3"
 
 #: ../zesty-wallpapers.xml.in.h:6
 msgid "Passion"
-msgstr ""
+msgstr "Passion"
 
 #: ../zesty-wallpapers.xml.in.h:7
 msgid "Pink and Blue"
-msgstr ""
+msgstr "Pink and Blue"
 
 #: ../zesty-wallpapers.xml.in.h:8
-#, fuzzy
 msgid "Purple Daisy"
-msgstr "Purple Dancers"
+msgstr "Purple Daisy"
 
 #: ../zesty-wallpapers.xml.in.h:9
 msgid "Road to Nowhere"
-msgstr ""
+msgstr "Road to Nowhere"
 
 #: ../zesty-wallpapers.xml.in.h:10
 msgid "Seebrücke Graal-Müritz"
-msgstr ""
+msgstr "Seebrücke Graal-Müritz"
 
 #: ../zesty-wallpapers.xml.in.h:11
 msgid "Some Light Reading"
-msgstr ""
+msgstr "Some Light Reading"
 
 #: ../zesty-wallpapers.xml.in.h:12
 msgid "there is something human in that stuff"
-msgstr ""
+msgstr "there is something human in that stuff"
