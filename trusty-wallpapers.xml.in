@@ -94,4 +94,12 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+    <_name>Forever</_name>
+    <filename>/usr/share/backgrounds/Forever_by_Shady_S.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
  </wallpapers>
