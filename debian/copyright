@@ -203,6 +203,14 @@ Files: *Wallpaper_Grey*.png
 Copyright: 2016-2020 Canonical Ltd
 License: CC-BY-SA-4.0
 
+
+Files: Abstract_Painting_Photo_by_Pierre Châtel-Innocenti.jpg
+       Camera_Film_by_Markus_Spiske.jpg
+       Colored_Pencils_by_Jess_Bailey.jpg
+       Landscape_Photography_Of_Mountains_by_Simon_Berger.jpg
+       Silver_Back_Gorilla_by_Mike_Arney.jpg
+License: Unsplash
+
 License: CC0
  The laws of most jurisdictions throughout the world automatically
  confer exclusive Copyright and Related Rights (defined below) upon the
@@ -1889,3 +1897,11 @@ License: CC-BY-SA-4.0
  licenses.
  .
  Creative Commons may be contacted at creativecommons.org.
+
+License: Unsplash
+ Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license
+ to download, copy, modify, distribute, perform, and use photos from Unsplash
+ for free, including for commercial purposes, without permission from or
+ attributing the photographer or Unsplash. This license does not include
+ the right to compile photos from Unsplash to replicate a similar or competing
+ service.

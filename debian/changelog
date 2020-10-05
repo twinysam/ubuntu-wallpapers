@@ -1,3 +1,11 @@
+ubuntu-wallpapers (20.10.1-0ubuntu1) groovy; urgency=medium
+
+  * Add Groovy's wallpapers, both default and the "groovy" additional ones.
+  * Install The_Land_of_Edonias_by_Γιωργος_Αργυροπουλος.jpg by wildcard rather
+    than exact match, since it started failing, see Debian bug #971362.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 05 Oct 2020 14:45:26 +0100
+
 ubuntu-wallpapers (20.04.2-0ubuntu1) focal; urgency=medium
 
   * Add World Cup of Wallpapers winner and "focal" photos.

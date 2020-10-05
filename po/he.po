@@ -7,67 +7,67 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2020-04-01 06:07+0000\n"
+"POT-Creation-Date: 2020-10-04 06:27+0000\n"
 "PO-Revision-Date: 2013-09-17 12:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2020-04-02 05:50+0000\n"
-"X-Generator: Launchpad (build a296f04231dee355be5db73cc878b9e21689a253)\n"
+"X-Launchpad-Export-Date: 2020-10-05 05:53+0000\n"
+"X-Generator: Launchpad (build d50d1e75c500726862802414f880ee3e3bb759bf)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
-msgstr ""
+msgstr "דבורה על לבנדר"
 
 #: ../artful-wallpapers.xml.in.h:2
 msgid "Bloom"
-msgstr ""
+msgstr "פריחה"
 
 #: ../artful-wallpapers.xml.in.h:3
 msgid "Grand Canyon North Rim"
-msgstr ""
+msgstr "העיטור החיצוני הצפוני של הגרנד קניון"
 
 #: ../artful-wallpapers.xml.in.h:4
 msgid "Green Island"
-msgstr ""
+msgstr "אי ירוק"
 
 #: ../artful-wallpapers.xml.in.h:5
 msgid "Headstock"
-msgstr ""
+msgstr "ראש של גיטרה"
 
 #: ../artful-wallpapers.xml.in.h:6
 msgid "Lighthouse at sunrise"
-msgstr ""
+msgstr "מגדלור בזריחה"
 
 #: ../artful-wallpapers.xml.in.h:7
 msgid "Lily of the Valley"
-msgstr ""
+msgstr "שושן העמק"
 
 #: ../artful-wallpapers.xml.in.h:8
 msgid "London Eye"
-msgstr ""
+msgstr "העין של לונדון"
 
 #: ../artful-wallpapers.xml.in.h:9
 msgid "More Kamikochi"
-msgstr ""
+msgstr "עוד משמורת קמיקוצ׳י"
 
 #: ../artful-wallpapers.xml.in.h:10
 msgid "Planking is going against the grain"
-msgstr ""
+msgstr "קרשים זה לא עניין של מה בכך"
 
 #: ../artful-wallpapers.xml.in.h:11
 msgid "Red delight"
-msgstr ""
+msgstr "תענוג אדום"
 
 #: ../artful-wallpapers.xml.in.h:12
 msgid "Sunrise on the beach"
-msgstr ""
+msgstr "זריחה על החוף"
 
 #: ../artful-wallpapers.xml.in.h:13
 msgid "Voss"
-msgstr ""
+msgstr "ווֹס"
 
 #: ../bionic-wallpapers.xml.in.h:1
 msgid "Cathédrale Marie-Rheine-du-Monde"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:2
 msgid "Crocus Wallpaper"
-msgstr ""
+msgstr "טפט כרכום"
 
 #: ../bionic-wallpapers.xml.in.h:3
 msgid "Definitive Light Zen Orange"
@@ -83,23 +83,23 @@ msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:4
 msgid "El Haouaria"
-msgstr ""
+msgstr "אל הואריה"
 
 #: ../bionic-wallpapers.xml.in.h:5
 msgid "Halifax Sunset"
-msgstr ""
+msgstr "שקיעה בהליפקס"
 
 #: ../bionic-wallpapers.xml.in.h:6
 msgid "Manhattan Sunset"
-msgstr ""
+msgstr "שקיעה במנהטן"
 
 #: ../bionic-wallpapers.xml.in.h:7
 msgid "On top of the Rubihorn"
-msgstr ""
+msgstr "על פסגת הרוביהורן"
 
 #: ../bionic-wallpapers.xml.in.h:8
 msgid "Raindrops On The Table"
-msgstr ""
+msgstr "טיפות על השולחן"
 
 #: ../bionic-wallpapers.xml.in.h:9
 msgid "Ross Jones Rockpool (Sydney)"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:10
 msgid "Spices in Athens"
-msgstr ""
+msgstr "תבלינים באתונה"
 
 #: ../bionic-wallpapers.xml.in.h:11
 msgid "This Is Bionic Beaver"
@@ -115,11 +115,11 @@ msgstr ""
 
 #: ../bionic-wallpapers.xml.in.h:12
 msgid "Wall with door on Gozo"
-msgstr ""
+msgstr "קיר עם דלת בגוזו"
 
 #: ../cosmic-wallpapers.xml.in.h:1
 msgid "Black Sand Beach"
-msgstr ""
+msgstr "חוף חול שחור"
 
 #: ../cosmic-wallpapers.xml.in.h:2
 msgid "Carriage Return"
@@ -131,31 +131,31 @@ msgstr ""
 
 #: ../cosmic-wallpapers.xml.in.h:4
 msgid "Encounter"
-msgstr ""
+msgstr "מפגש"
 
 #: ../cosmic-wallpapers.xml.in.h:5
 msgid "Fairground at Night"
-msgstr ""
+msgstr "יריד בלילה"
 
 #: ../cosmic-wallpapers.xml.in.h:6
 msgid "Image of Mount Parnassus"
-msgstr ""
+msgstr "תמונה של הר פרנסוס"
 
 #: ../cosmic-wallpapers.xml.in.h:7
 msgid "Milky Way Before The Dawn"
-msgstr ""
+msgstr "שביל החלב לפני הזריחה"
 
 #: ../cosmic-wallpapers.xml.in.h:8
 msgid "Morning"
-msgstr ""
+msgstr "בוקר"
 
 #: ../cosmic-wallpapers.xml.in.h:9
 msgid "Spring Flowers"
-msgstr ""
+msgstr "פרחי אביב"
 
 #: ../cosmic-wallpapers.xml.in.h:10
 msgid "Tapiola Espoo Cultural Center"
-msgstr ""
+msgstr "המרכז הקהילתי של טפיולה שבאספו"
 
 #: ../cosmic-wallpapers.xml.in.h:11
 msgid "touch de vert"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../cosmic-wallpapers.xml.in.h:12
 msgid "Ubuntu Party de Paris"
-msgstr ""
+msgstr "מסיבת אובונטו בפריז"
 
 #: ../disco-wallpapers.xml.in.h:1
 msgid "Capucijnengang"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../disco-wallpapers.xml.in.h:4
 msgid "On the harbour"
-msgstr ""
+msgstr "על המזח"
 
 #: ../disco-wallpapers.xml.in.h:5
 msgid "Staniel Cay"
@@ -187,11 +187,11 @@ msgstr ""
 
 #: ../disco-wallpapers.xml.in.h:6
 msgid "Sunset of Peloponnesus"
-msgstr ""
+msgstr "זריחה בפלופונסוס"
 
 #: ../disco-wallpapers.xml.in.h:7
 msgid "Tennis ball"
-msgstr ""
+msgstr "כדור טניס"
 
 #: ../disco-wallpapers.xml.in.h:8
 msgid "Water of Leith"
@@ -211,15 +211,15 @@ msgstr ""
 
 #: ../eoan-wallpapers.xml.in.h:2
 msgid "Frozen sunset on the lake"
-msgstr ""
+msgstr "שקיעה קפואה על האגם"
 
 #: ../eoan-wallpapers.xml.in.h:3
 msgid "Origin of nature"
-msgstr ""
+msgstr "מקור הטבע"
 
 #: ../eoan-wallpapers.xml.in.h:4
 msgid "Sky Sparkles"
-msgstr ""
+msgstr "ניצוצות בשמיים"
 
 #: ../eoan-wallpapers.xml.in.h:5
 msgid "Stargazing"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../eoan-wallpapers.xml.in.h:7
 msgid "Ubuntu gel"
-msgstr ""
+msgstr "ג׳ל אובונטו"
 
 #: ../eoan-wallpapers.xml.in.h:8
 msgid "Ermine lines"
@@ -239,6 +239,26 @@ msgstr ""
 
 #: ../eoan-wallpapers.xml.in.h:9
 msgid "Flight dive"
+msgstr ""
+
+#: ../focal-wallpapers.xml.in.h:1
+msgid "Stone Mountain"
+msgstr ""
+
+#: ../focal-wallpapers.xml.in.h:2
+msgid "Something Yellow"
+msgstr "משהו צהוב"
+
+#: ../focal-wallpapers.xml.in.h:3
+msgid "2nd Avenue"
+msgstr "השדרה השנייה"
+
+#: ../focal-wallpapers.xml.in.h:4
+msgid "Skykomish River"
+msgstr ""
+
+#: ../focal-wallpapers.xml.in.h:5
+msgid "Hardy Heron (Remaster)"
 msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:1
@@ -343,11 +363,11 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr ""
+msgstr "כיפת הרוך"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr ""
+msgstr "אבנים וקרח 2"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
@@ -359,7 +379,7 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr ""
+msgstr "לא ממוקד"
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
@@ -371,11 +391,11 @@ msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr ""
+msgstr "פרח צהוב"
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr ""
+msgstr "רגע חלק"
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
@@ -451,31 +471,31 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr ""
+msgstr "ים החצילים"
 
 #: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
-msgstr ""
+msgstr "פירות יער"
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr ""
+msgstr "ציפור"
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
-msgstr ""
+msgstr "בד"
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
-msgstr ""
+msgstr "ירוק"
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
-msgstr ""
+msgstr "יום אפור"
 
 #: ../natty-wallpapers.xml.in.h:9
 msgid "Holes"
-msgstr ""
+msgstr "חורים"
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
@@ -491,15 +511,15 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
-msgstr ""
+msgstr "חץ הכוונה"
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr ""
+msgstr "עולמות פצפונים"
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
-msgstr ""
+msgstr "לגעת באור"
 
 #: ../natty-wallpapers.xml.in.h:16
 msgid "Tri Narwhal"
@@ -511,7 +531,7 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr ""
+msgstr "פרחים לבנים"
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
@@ -523,7 +543,7 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "תחנת Dybbølsbro"
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
@@ -543,19 +563,19 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr ""
+msgstr "לא לבד"
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr ""
+msgstr "כוחן של מילים"
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr ""
+msgstr "רקדניות סגולות"
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr ""
+msgstr "פרחים קטנים"
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
@@ -567,7 +587,7 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr ""
+msgstr "חיטה פראית"
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
@@ -575,7 +595,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr ""
+msgstr "לבלול מוקדם"
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
@@ -587,7 +607,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr ""
+msgstr "פריחה זהובה"
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
@@ -595,7 +615,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr ""
+msgstr "טל בוקר"
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
@@ -611,7 +631,7 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr ""
+msgstr "העיר האסורה"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
@@ -619,11 +639,11 @@ msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr ""
+msgstr "קיפאון דמדומים"
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr ""
+msgstr "בוקר חורפי"
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
@@ -631,7 +651,7 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr ""
+msgstr "מתחת לעננים"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
@@ -639,11 +659,11 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr ""
+msgstr "השכם בבוקר"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr ""
+msgstr "קפוא"
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
@@ -651,7 +671,7 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr ""
+msgstr "עולם ירוק"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
@@ -663,7 +683,7 @@ msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr ""
+msgstr "אריחי גג"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
@@ -671,15 +691,15 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr ""
+msgstr "ביגוניה"
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr ""
+msgstr "קיפאון כחול"
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr ""
+msgstr "מכונת כתיבה של Brother"
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
@@ -699,11 +719,11 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr ""
+msgstr "נשימה אחרונה…"
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr ""
+msgstr "שאריות"
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
@@ -719,11 +739,11 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr ""
+msgstr "ערפילית חורף"
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr ""
+msgstr "163"
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
@@ -743,7 +763,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr ""
+msgstr "הרים"
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
@@ -751,15 +771,15 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr ""
+msgstr "קשת ניילון"
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr ""
+msgstr "אלון"
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr ""
+msgstr "סלמנדרה"
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
@@ -787,23 +807,23 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr ""
+msgstr "ללא כותרת"
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr ""
+msgstr "נופר"
 
 #: ../trusty-wallpapers.xml.in.h:1
 msgid "Backyard Mushrooms"
-msgstr ""
+msgstr "פטריות בחצר האחורית"
 
 #: ../trusty-wallpapers.xml.in.h:2
 msgid "Beach"
-msgstr ""
+msgstr "חוף"
 
 #: ../trusty-wallpapers.xml.in.h:4
 msgid "Foggy Forest"
-msgstr ""
+msgstr "יער בערפל"
 
 #: ../trusty-wallpapers.xml.in.h:5
 msgid "Ibanez Infinity"
@@ -811,7 +831,7 @@ msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:6
 msgid "Jelly Fish"
-msgstr ""
+msgstr "מדוזה"
 
 #: ../trusty-wallpapers.xml.in.h:7
 msgid "Mono Lake"
@@ -823,7 +843,7 @@ msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:9
 msgid "Reflections"
-msgstr ""
+msgstr "השתקפויות"
 
 #: ../trusty-wallpapers.xml.in.h:10
 msgid "Sea Fury"
@@ -835,7 +855,7 @@ msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:12
 msgid "Forever"
-msgstr ""
+msgstr "לנצח"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -851,11 +871,11 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:2
 msgid "Golden leaves"
-msgstr ""
+msgstr "עלי זהב"
 
 #: ../utopic-wallpapers.xml.in.h:3
 msgid "Horses on sand dunes"
-msgstr ""
+msgstr "סוסים וחוליות"
 
 #: ../utopic-wallpapers.xml.in.h:4
 msgid "Kronach leuchtet 2014"
@@ -863,7 +883,7 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:5
 msgid "Music"
-msgstr ""
+msgstr "מוזיקה"
 
 #: ../utopic-wallpapers.xml.in.h:6
 msgid "Night Seascape"
@@ -879,7 +899,7 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:9
 msgid "Sunny Autumn"
-msgstr ""
+msgstr "סתיו שמשי"
 
 #: ../utopic-wallpapers.xml.in.h:10
 msgid "Utopic Unicorn"
@@ -887,7 +907,7 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:11
 msgid "Warm grasses"
-msgstr ""
+msgstr "עשבים מתחממים"
 
 #: ../utopic-wallpapers.xml.in.h:12
 msgid "xgu472hf2"
@@ -903,11 +923,11 @@ msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:3
 msgid "Christmas Lights"
-msgstr ""
+msgstr "אורות חג המולד"
 
 #: ../vivid-wallpapers.xml.in.h:4
 msgid "Euphoria!"
-msgstr ""
+msgstr "אופוריה!"
 
 #: ../vivid-wallpapers.xml.in.h:5
 msgid "Oyster Catcher in the Rocks"
@@ -923,11 +943,11 @@ msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:8
 msgid "Tenerife Roques de Anaga"
-msgstr ""
+msgstr "רוקס דה אנאגה"
 
 #: ../vivid-wallpapers.xml.in.h:9
 msgid "Tesla"
-msgstr ""
+msgstr "טסלה"
 
 #: ../vivid-wallpapers.xml.in.h:10
 msgid "Traviny"
@@ -939,7 +959,7 @@ msgstr ""
 
 #: ../wily-wallpapers.xml.in.h:2
 msgid "Tranquil"
-msgstr ""
+msgstr "רוגע"
 
 #: ../wily-wallpapers.xml.in.h:3
 msgid "Light my fire evening sun"
@@ -959,15 +979,15 @@ msgstr ""
 
 #: ../wily-wallpapers.xml.in.h:8
 msgid "Hotel"
-msgstr ""
+msgstr "מלון"
 
 #: ../wily-wallpapers.xml.in.h:9
 msgid "Mediterranean Sea"
-msgstr ""
+msgstr "הים התיכון"
 
 #: ../wily-wallpapers.xml.in.h:10
 msgid "Abstract Ubuntu"
-msgstr ""
+msgstr "אובונטו מופשט"
 
 #: ../xenial-wallpapers.xml.in.h:1
 msgid "160218-deux-two"
@@ -975,7 +995,7 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:2
 msgid "Black hole"
-msgstr ""
+msgstr "חור שחור"
 
 #: ../xenial-wallpapers.xml.in.h:3
 msgid "Cielo estrellado"
@@ -983,7 +1003,7 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:4
 msgid "clock"
-msgstr ""
+msgstr "שעון"
 
 #: ../xenial-wallpapers.xml.in.h:5
 msgid "Dans ma bulle"
@@ -995,11 +1015,11 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:7
 msgid "Icy Grass"
-msgstr ""
+msgstr "דשא קפוא"
 
 #: ../xenial-wallpapers.xml.in.h:8
 msgid "Night lights"
-msgstr ""
+msgstr "אורות הלילה"
 
 #: ../xenial-wallpapers.xml.in.h:9
 msgid "passion flower"
@@ -1007,11 +1027,11 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:10
 msgid "Spring"
-msgstr ""
+msgstr "אביב"
 
 #: ../xenial-wallpapers.xml.in.h:11
 msgid "TCP118v1"
-msgstr ""
+msgstr "TCP118v1"
 
 #: ../xenial-wallpapers.xml.in.h:12
 msgid "The Land of Edonias"
@@ -1019,15 +1039,15 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:1
 msgid "Alien wing"
-msgstr ""
+msgstr "כנף של חייזר"
 
 #: ../yakkety-wallpapers.xml.in.h:2
 msgid "Classic Guitar Detail"
-msgstr ""
+msgstr "גיטרה קלסית מקרוב"
 
 #: ../yakkety-wallpapers.xml.in.h:3
 msgid "DSC3907"
-msgstr ""
+msgstr "DSC3907"
 
 #: ../yakkety-wallpapers.xml.in.h:4
 msgid "Haukland Beach view"
@@ -1035,11 +1055,11 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:5
 msgid "IMG 0081"
-msgstr ""
+msgstr "תמונה 0081"
 
 #: ../yakkety-wallpapers.xml.in.h:6
 msgid "IMG 7632"
-msgstr ""
+msgstr "תמונה 7632"
 
 #: ../yakkety-wallpapers.xml.in.h:7
 msgid "larung gar by night"
@@ -1059,56 +1079,56 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:11
 msgid "Wanaka Tree"
-msgstr ""
+msgstr "עץ ואנקה"
 
 #: ../yakkety-wallpapers.xml.in.h:12
 msgid "Yala mountain"
-msgstr ""
+msgstr "הר יאלה"
 
 #: ../zesty-wallpapers.xml.in.h:1
 msgid "A star has fallen"
-msgstr ""
+msgstr "כוכב נופל"
 
 #: ../zesty-wallpapers.xml.in.h:2
 msgid "Candy"
-msgstr ""
+msgstr "ממתק"
 
 #: ../zesty-wallpapers.xml.in.h:3
 msgid "Espaciolandia"
-msgstr ""
+msgstr "מרחבים"
 
 #: ../zesty-wallpapers.xml.in.h:4
 msgid "Forest"
-msgstr ""
+msgstr "יער"
 
 #: ../zesty-wallpapers.xml.in.h:5
 msgid "Mushrooms 3"
-msgstr ""
+msgstr "פטריות 3"
 
 #: ../zesty-wallpapers.xml.in.h:6
 msgid "Passion"
-msgstr ""
+msgstr "תשוקה"
 
 #: ../zesty-wallpapers.xml.in.h:7
 msgid "Pink and Blue"
-msgstr ""
+msgstr "ורוד וכחול"
 
 #: ../zesty-wallpapers.xml.in.h:8
 msgid "Purple Daisy"
-msgstr ""
+msgstr "חיננית סגולה"
 
 #: ../zesty-wallpapers.xml.in.h:9
 msgid "Road to Nowhere"
-msgstr ""
+msgstr "הדרך לאף מקום"
 
 #: ../zesty-wallpapers.xml.in.h:10
 msgid "Seebrücke Graal-Müritz"
-msgstr ""
+msgstr "גשר הים גראל מיוריץ"
 
 #: ../zesty-wallpapers.xml.in.h:11
 msgid "Some Light Reading"
-msgstr ""
+msgstr "רפרוף"
 
 #: ../zesty-wallpapers.xml.in.h:12
 msgid "there is something human in that stuff"
-msgstr ""
+msgstr "יש בזה משהו אנושי"
