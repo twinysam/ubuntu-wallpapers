@@ -1,16 +1,16 @@
-# Malay translation for ubuntu-wallpapers
-# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# Tajik translation for ubuntu-wallpapers
+# Copyright (c) 2020 Rosetta Contributors and Canonical Ltd 2020
 # This file is distributed under the same license as the ubuntu-wallpapers package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2020-10-04 06:27+0000\n"
-"PO-Revision-Date: 2014-03-27 11:39+0000\n"
-"Last-Translator: abuyop <Unknown>\n"
-"Language-Team: Malay <ms@li.org>\n"
+"PO-Revision-Date: 2020-07-23 06:14+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <tg@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -263,655 +263,655 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr "Orkid Putih"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr "Batu yang Dilontar"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr "Radioactive Sunrise.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr "O Life.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr "Grass in A.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr "Climbing.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr "Cherries.jpg"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr "Merah Primula"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr "Rama-Rama"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
-msgstr "Pelangi Sudah Hilang"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr "Matahari Terbenam"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
-msgstr "Kasut Buruk Saya"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr "Pasir"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
-msgstr "Palmengarten"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr "Naranja"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr "Pagi Berkabus"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr "Katak"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr "Flor de Loto"
+msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr "Teluk"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr "Bosque TK"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr "Busqueda Nocturna"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr "Bucu"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
-msgstr "Lingkaran Gula- Gula"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr "Bunga Daisy"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
-msgstr "Fall Drops, Ancient Light"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr "Fluffodome"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr "Batu berais 2"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
-msgstr "Dalam Redux gelap"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
-msgstr "Maraetai sebelum matahari terbit"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr "Diluar fokus"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
-msgstr "Tajam"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr "Cahaya"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr "Bunga Kuning"
+msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr "Saat Ketenangan"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
-msgstr "Aeg"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:2
 msgid "Blue box number 2"
-msgstr "Kotak biru bernombor 2"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:3 ../wily-wallpapers.xml.in.h:7
 msgid "Blue"
-msgstr "Biru"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr "Buih"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
-msgstr "Crocosmia"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr "Bulu Pelepah"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr "Paku-Pakis"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr "Hayat"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr "Kaca cecair"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr "Mirada Perduda"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
-msgstr "Pagi II"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
-msgstr "Primer Amanecer 2010"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:13
 msgid "Ropey Photo"
-msgstr "Foto Tali"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr "Ketenangan"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
-msgstr "Senyum"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr "Pilin"
+msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
-msgstr "Rantaian Air"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:2
 msgid "Arboreal ballet"
-msgstr "Ballet arboreal"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr "Laut Aubergine"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
-msgstr "Beri"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr "Burung"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
-msgstr "Fabrik"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
-msgstr "Hijau"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
-msgstr "Hari yang kelabu"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:9
 msgid "Holes"
-msgstr "Lubang"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
-msgstr "Ilunabarra Azkainetik"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:11
 msgid "Lá no alto"
-msgstr "Lá no alto"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:12
 msgid "Quandro"
-msgstr "Quandro"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
-msgstr "Tiang Tanda"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr "Dunia Kecil"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
-msgstr "Sentuh cahaya"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:16
 msgid "Tri Narwhal"
-msgstr "Tiga Narwhal"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:17
 msgid "Variations On Natty Narwhal 1"
-msgstr "Variasi Pada Natty Narwhal 1"
+msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr "Bunga Putih"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
-msgstr "Lambung!"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:2
 msgid "Darkening Clockwork"
-msgstr "Sawat Jam yang Gelap"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
-msgstr "Stesen Dybbølsbro"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
-msgstr "Jardin Polar"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr "Langelinie Allé"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
-msgstr "Mimpi Momiji"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
-msgstr "Gunung Snowdon, Wales"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr "Tidak Sendirian"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr "Kuasa Perkataan"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr "Penari Ungu"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr "Bunga kecil"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
-msgstr "Ocelot yang Menghendap"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:13
 msgid "The Grass Ain't Greener"
-msgstr "Rumput Tidak Menghijau"
+msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr "Gandum Liar"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr "Ranggi Lembut"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr "Menguntum Awal"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
-msgstr "Sekelompok"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:4
 msgid "Floorboards"
-msgstr "Papan Lantai"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr "Mekar Keemasan"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
-msgstr "London Eye Dari Bawah"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr "Embun Pagi"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
-msgstr "Mural"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:9
 msgid "Precise Pangolin"
-msgstr "Tenggiling"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:10
 msgid "Speaker Weave"
-msgstr "Speaker Weave"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr "Bandar Larangan"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr "Ikat Bot Saya"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr "Fros Ditengah Malam"
+msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr "Pagi Musim Sejuk"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr "Si Kecil Quetzal"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr "Dibawah Awan"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr "Batu Tanda"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr "Awal Pagi"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr "Beku"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr "Gran Canaria"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr "Tumbuhan Hijau"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr "H"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
-msgstr "Pantano de Orellana"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr "Jubin Bumbung"
+msgstr ""
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr "Menghilang"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr "Asam batu"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr "Ibun biru"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr "Mesin taip Brother"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
-msgstr "Cacomixtle Ubunteño"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr "Fleurs de Prunus 24"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr "La Gomera"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
-msgstr "Pendaratan"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr "Nafas terakhir..."
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr "Sisa"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr "Matahari Pagi pada Daun yang Dilitupi-Ibun"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr "Hentikan cahaya"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
-msgstr "Trazo solitario"
+msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr "Kabus Musim Sejuk"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr "163"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
-msgstr "Siklotron"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
-msgstr "Gota D'água"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr "Rumput"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
-msgstr "Saya seekor Salamander Saucy..."
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr "Gunung"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr "En. Tau dan Pokok -"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr "Pelangi Nilon"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr "Pokok Oak"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr "Salamander"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr "Abstrak Salamander Saucy"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr "Savannah Lilian Blot"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
-msgstr "Taxus baccata"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr "Bandar Polen"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
-msgstr "THE 'OUT' STANDING"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
-msgstr "Thingvellir"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr "Tidak Bertajuk"
+msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr "Teratai"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:1
 msgid "Backyard Mushrooms"
-msgstr "Cendawan Belakang Rumah"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:2
 msgid "Beach"
-msgstr "Pantai"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:4
 msgid "Foggy Forest"
-msgstr "Hutan Berkabus"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:5
 msgid "Ibanez Infinity"
-msgstr "Ibanez Tak Terhingga"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:6
 msgid "Jelly Fish"
-msgstr "Obor-obor"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:7
 msgid "Mono Lake"
-msgstr "Tasik Mono"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:8
 msgid "Partitura"
-msgstr "Partitura"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:9
 msgid "Reflections"
-msgstr "Pantulan"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:10
 msgid "Sea Fury"
-msgstr "Kemarahan Laut"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:11
 msgid "Water web"
-msgstr "Sesawang air"
+msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:12
 msgid "Forever"
-msgstr "Selamanya"
+msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
-msgstr "Ubuntu"
+msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:2
 msgid "Ubuntu Greyscale"
-msgstr "Ubuntu Skala-Kelabu"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:1
 msgid "Empty Space"
-msgstr "Ruang Kosong"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:2
 msgid "Golden leaves"
-msgstr "Daun keemasan"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:3
 msgid "Horses on sand dunes"
-msgstr "Kuda di padang pasir"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:4
 msgid "Kronach leuchtet 2014"
-msgstr "Kronach leuchtet 2014"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:5
 msgid "Music"
-msgstr "Muzik"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:6
 msgid "Night Seascape"
-msgstr "Pemandangan Laut Waktu Malam"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:7
 msgid "Redes de hilo"
-msgstr "Redes de hilo"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:8
 msgid "salcantayperu"
-msgstr "salcantayperu"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:9
 msgid "Sunny Autumn"
-msgstr "Musim Luruh yang Cerah"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:10
 msgid "Utopic Unicorn"
-msgstr "Utopic Unicorn"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:11
 msgid "Warm grasses"
-msgstr "Rumput"
+msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:12
 msgid "xgu472hf2"
-msgstr "xgu472hf2"
+msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:1
 msgid "150305-cinqAA"

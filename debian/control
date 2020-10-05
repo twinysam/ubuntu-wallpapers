@@ -14,7 +14,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-focal,
+Depends: ubuntu-wallpapers-groovy,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -37,6 +37,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-cosmic,
           ubuntu-wallpapers-disco,
           ubuntu-wallpapers-eoan,
+          ubuntu-wallpapers-focal,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -190,3 +191,10 @@ Replaces: ubuntu-wallpapers (<= 20.04.2)
 Description: Ubuntu 20.04 Wallpapers
  Wallpapers from the Ubuntu 20.04 community contest and a Canonical-created
  greyscale wallpaper.
+
+Package: ubuntu-wallpapers-groovy
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 20.10 Wallpapers
+ Alternative wallpapers for Ubuntu 20.10 and a Canonical-created greyscale
+ wallpaper.
