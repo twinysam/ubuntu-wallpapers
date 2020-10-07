@@ -198,3 +198,9 @@ Depends: ${misc:Depends},
 Description: Ubuntu 20.10 Wallpapers
  Alternative wallpapers for Ubuntu 20.10 and a Canonical-created greyscale
  wallpaper.
+
+Package: ubuntu-wallpapers-groovy-raspi
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 20.10 Wallpapers - Raspberry Pi
+ A special default wallpaper for the Raspberry Pi edition of Ubuntu.
