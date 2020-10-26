@@ -1,3 +1,10 @@
+ubuntu-wallpapers (20.10.3-0ubuntu0.20.10.1) groovy; urgency=medium
+
+  * Backport to groovy.
+  * Update Vcs-* fields.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 26 Oct 2020 10:57:48 +0000
+
 ubuntu-wallpapers (20.10.3-0ubuntu1) hirsute; urgency=medium
 
   * Make two of the wallpapers show up in the chooser:
