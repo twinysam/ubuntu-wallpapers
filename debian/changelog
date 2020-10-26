@@ -1,3 +1,14 @@
+ubuntu-wallpapers (20.10.3-0ubuntu1) hirsute; urgency=medium
+
+  * Make two of the wallpapers show up in the chooser:
+    - Fix the symlink for the greyscale default wallpaper. (LP: #1901353)
+    - Fix a typo in the name of
+      Abstract_Painting_Photo_by_Pierre_Châtel-Innocenti.jpg. There was a
+      space instead of an underscore. (LP: #1901367)
+  * Add Groovy's default coloured wallpaper to d/copyright
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 26 Oct 2020 10:30:11 +0000
+
 ubuntu-wallpapers (20.10.2-0ubuntu1) groovy; urgency=medium
 
   * Add a super special new wallpaper to be used for the Raspberry Pi edition

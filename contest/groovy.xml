@@ -42,15 +42,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Colored_Pencils_by_Jess_Bailey.jpg</from>
-    <to>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre Châtel-Innocenti.jpg</to>
+    <to>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre_Châtel-Innocenti.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre Châtel-Innocenti.jpg</file>
+    <file>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre_Châtel-Innocenti.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre Châtel-Innocenti.jpg</from>
+    <from>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre_Châtel-Innocenti.jpg</from>
     <to>/usr/share/backgrounds/Gorilla_Wallpaper_Grey_4096x2304.png</to>
   </transition>
   <static>
