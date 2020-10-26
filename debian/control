@@ -8,8 +8,8 @@ Build-Depends: debhelper (>= 11),
 Build-Depends-Indep: python3-distutils-extra,
 Standards-Version: 4.1.3
 Homepage: https://launchpad.net/ubuntu-wallpapers
-Vcs-Bzr: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu
-Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu/files
+Vcs-Bzr: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu-groovy
+Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubuntu-groovy/files
 
 Package: ubuntu-wallpapers
 Architecture: all
