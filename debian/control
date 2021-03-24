@@ -14,7 +14,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-groovy,
+Depends: ubuntu-wallpapers-hirsute,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -38,6 +38,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-disco,
           ubuntu-wallpapers-eoan,
           ubuntu-wallpapers-focal,
+          ubuntu-wallpapers-groovy,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -204,3 +205,10 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 20.10 Wallpapers - Raspberry Pi
  A special default wallpaper for the Raspberry Pi edition of Ubuntu.
+
+Package: ubuntu-wallpapers-hirsute
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 21.04 Wallpapers
+ Alternative wallpapers for Ubuntu 21.04 and a Canonical-created greyscale
+ wallpaper.
