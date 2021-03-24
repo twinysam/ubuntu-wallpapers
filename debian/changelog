@@ -1,3 +1,13 @@
+ubuntu-wallpapers (21.04.1-0ubuntu1) hirsute; urgency=medium
+
+  * Add Hirsute's wallpapers, both default and the additional ones
+    (LP: #1921139)
+  * Add missing reference to the groovy wallpapers in po/POTFILES.in,
+    and update the translation template accordingly
+  * Port scripts/update-background.py to Python 3
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Wed, 24 Mar 2021 23:09:00 +0100
+
 ubuntu-wallpapers (20.10.3-0ubuntu1) hirsute; urgency=medium
 
   * Make two of the wallpapers show up in the chooser:
