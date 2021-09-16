@@ -1,3 +1,13 @@
+ubuntu-wallpapers (21.10.1-0ubuntu1) impish; urgency=medium
+
+  * Add Impish's wallpapers, both default and the first two winners
+    of the community contest (LP: #1942437)
+  * Update the AUTHORS file, adding missing entries for all community
+    wallpapers since artful
+  * Update the README.md instructions to include the AUTHORS file
+
+ -- Olivier Tilloy <olivier.tilloy@canonical.com>  Thu, 16 Sep 2021 18:32:49 +0200
+
 ubuntu-wallpapers (21.04.1-0ubuntu1) hirsute; urgency=medium
 
   * Add Hirsute's wallpapers, both default and the additional ones
