@@ -7,19 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2021-09-19 04:36+0000\n"
+"POT-Creation-Date: 2022-02-08 04:35+0000\n"
 "PO-Revision-Date: 2013-09-17 12:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Korean <ko@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-09-20 04:33+0000\n"
-"X-Generator: Launchpad (build 1ebe1b0e212bc611a219cd41410c4d5143daacf0)\n"
+"X-Launchpad-Export-Date: 2022-02-09 04:34+0000\n"
+"X-Generator: Launchpad (build 5cca8e573979320a68d31841c31d0ffbd940515e)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
-msgstr ""
+msgstr "라벤더 위의 벌"
 
 #: ../artful-wallpapers.xml.in.h:2
 msgid "Bloom"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:4
 msgid "Green Island"
-msgstr ""
+msgstr "그린 아일랜드"
 
 #: ../artful-wallpapers.xml.in.h:5
 msgid "Headstock"
@@ -39,15 +39,15 @@ msgstr ""
 
 #: ../artful-wallpapers.xml.in.h:6
 msgid "Lighthouse at sunrise"
-msgstr ""
+msgstr "일출의 등대"
 
 #: ../artful-wallpapers.xml.in.h:7
 msgid "Lily of the Valley"
-msgstr ""
+msgstr "은방울꽃"
 
 #: ../artful-wallpapers.xml.in.h:8
 msgid "London Eye"
-msgstr ""
+msgstr "런던 아이"
 
 #: ../artful-wallpapers.xml.in.h:9
 msgid "More Kamikochi"
