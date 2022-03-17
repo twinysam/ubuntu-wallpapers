@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 18.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/bionic.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Cathédrale Marie-Rheine-du-Monde</_name>
+     <filename>/usr/share/backgrounds/Cathédrale_Marie-Rheine-du-Monde_by_Thierry_Pon.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Crocus Wallpaper</_name>
+     <filename>/usr/share/backgrounds/Crocus_Wallpaper_by_Roy_Tanck.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Definitive Light Zen Orange</_name>
+     <filename>/usr/share/backgrounds/Definitive_Light_Zen_Orange_by_Pierre_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>El Haouaria</_name>
+     <filename>/usr/share/backgrounds/El_Haouaria_by_Nusi_Nusi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Halifax Sunset</_name>
+     <filename>/usr/share/backgrounds/Halifax_Sunset_by_Vlad_Drobinin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Manhattan Sunset</_name>
+     <filename>/usr/share/backgrounds/Manhattan_Sunset_by_Giacomo_Ferroni.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>On top of the Rubihorn</_name>
+     <filename>/usr/share/backgrounds/On_top_of_the_Rubihorn_by_Matthias_Niess.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Raindrops On The Table</_name>
+     <filename>/usr/share/backgrounds/Raindrops_On_The_Table_by_Alex_Fazit.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Ross Jones Rockpool (Sydney)</_name>
+     <filename>/usr/share/backgrounds/Ross_Jones_Rockpool_(Sydney)_by_Chris_Carignan.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Spices in Athens</_name>
+     <filename>/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>This Is Bionic Beaver</_name>
+     <filename>/usr/share/backgrounds/This_Is_Bionic_Beaver_by_Pierre_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Wall with door on Gozo</_name>
+     <filename>/usr/share/backgrounds/Wall_with_door_on_Gozo_by_Matthias_Niess.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

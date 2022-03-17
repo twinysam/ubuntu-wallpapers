@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 17.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/zesty.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>A star has fallen</_name>
+     <filename>/usr/share/backgrounds/A_star_has_fallen_by_Juan_Pablo_Lauriente.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Candy</_name>
+     <filename>/usr/share/backgrounds/Candy_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Espaciolandia</_name>
+     <filename>/usr/share/backgrounds/Espaciolandia_by_Nando_uy.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Forest</_name>
+     <filename>/usr/share/backgrounds/Forest_by_Moritz_Reisinger.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Mushrooms 3</_name>
+     <filename>/usr/share/backgrounds/Mushrooms_3_by_moritzmhmk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Passion</_name>
+     <filename>/usr/share/backgrounds/Passion_by_Vilia_Majere.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Pink and Blue</_name>
+     <filename>/usr/share/backgrounds/Pink_and_Blue_by_Ashwin_Deshpande.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Purple Daisy</_name>
+     <filename>/usr/share/backgrounds/Purple_Daisy_by_Maria_Scotto.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Road to Nowhere</_name>
+     <filename>/usr/share/backgrounds/Road_to_Nowhere_by_Matt_Bailey.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Seebrücke Graal-Müritz</_name>
+     <filename>/usr/share/backgrounds/Seebrücke_Graal-Müritz_by_Oliver_hb.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Some Light Reading</_name>
+     <filename>/usr/share/backgrounds/Some_Light_Reading_by_Brandilyn_Carpenter.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>there is something human in that stuff</_name>
+     <filename>/usr/share/backgrounds/there_is_something_human_in_that_stuff_by_Pierre_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

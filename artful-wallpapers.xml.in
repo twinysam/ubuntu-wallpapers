@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 17.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/artful.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Bee on lavender</_name>
+     <filename>/usr/share/backgrounds/Bee_on_lavender_by_Martin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Bloom</_name>
+     <filename>/usr/share/backgrounds/Bloom_by_Victor_Madru.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Grand Canyon North Rim</_name>
+     <filename>/usr/share/backgrounds/Grand_Canyon_North_Rim_by_Rihards_Vilks.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Green Island</_name>
+     <filename>/usr/share/backgrounds/Green_Island_by_Radu_Galan.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Headstock</_name>
+     <filename>/usr/share/backgrounds/Headstock_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Lighthouse at sunrise</_name>
+     <filename>/usr/share/backgrounds/Lighthouse_at_sunrise_by_Frenchie_Smalls.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Lily of the Valley</_name>
+     <filename>/usr/share/backgrounds/Lily_of_the_Valley_by_Robert_Slotte.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>London Eye</_name>
+     <filename>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>More Kamikochi</_name>
+     <filename>/usr/share/backgrounds/More_Kamikochi_by_mendhak.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Planking is going against the grain</_name>
+     <filename>/usr/share/backgrounds/Planking_is_going_against_the_grain_by_mendhak.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Red delight</_name>
+     <filename>/usr/share/backgrounds/Red_delight_by_Rishikesh_Gawade.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Sunrise on the beach</_name>
+     <filename>/usr/share/backgrounds/Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Voss</_name>
+     <filename>/usr/share/backgrounds/Voss_by_fortuneblues.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

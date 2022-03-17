@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 15.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/wily.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Tramonto a Scalea</_name>
+     <filename>/usr/share/backgrounds/Tramonto_a_Scalea_by_Renatvs88.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Tranquil</_name>
+     <filename>/usr/share/backgrounds/Tranquil_by_Pat_David.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Light my fire evening sun</_name>
+     <filename>/usr/share/backgrounds/Light_my_fire_evening_sun_by_Dariusz_Duma.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Sitting Here, Making Fun</_name>
+     <filename>/usr/share/backgrounds/Sitting_Here,_Making_Fun_by_Philipp_Haegi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Moss inflorescence</_name>
+     <filename>/usr/share/backgrounds/Moss_inflorescence_by_carmelo75.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Breaker</_name>
+     <filename>/usr/share/backgrounds/Breaker_by_Lyle_Nel.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Blue</_name>
+     <filename>/usr/share/backgrounds/Blue_by_dariuskws.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Hotel</_name>
+     <filename>/usr/share/backgrounds/Hotel_by_sarcasmrules2011.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Mediterranean Sea</_name>
+     <filename>/usr/share/backgrounds/Mediterranean_Sea_by_simosx.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Abstract Ubuntu</_name>
+     <filename>/usr/share/backgrounds/Abstract_Ubuntu_by_Marek_Koteluk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
