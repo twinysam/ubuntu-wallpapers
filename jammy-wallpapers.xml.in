@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 22.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/jammy.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Blue flower</_name>
+     <filename>/usr/share/backgrounds/Blue_flower_by_Elena_Stravoravdi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>jj dark</_name>
+     <filename>/usr/share/backgrounds/jj_dark_by_Hiking93.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>jj light</_name>
+     <filename>/usr/share/backgrounds/jj_light_by_Hiking93.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Optical Fibers in Dark</_name>
+     <filename>/usr/share/backgrounds/Optical_Fibers_in_Dark_by_Elena_Stravoravdi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
