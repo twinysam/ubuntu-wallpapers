@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 21.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/impish.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Milky Way</_name>
+     <filename>/usr/share/backgrounds/Milky_Way_by_Paulo_José_Oliveira_Amaro.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Way</_name>
+     <filename>/usr/share/backgrounds/Way_by_Kacper_Ślusarczyk.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

@@ -1,0 +1,38 @@
+<background>
+  <starttime>
+    <year>2009</year>
+    <month>08</month>
+    <day>04</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<!-- This animation will start at midnight. -->
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Way_by_Kacper_Ślusarczyk.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Way_by_Kacper_Ślusarczyk.jpg</from>
+    <to>/usr/share/backgrounds/Milky_Way_by_Paulo_José_Oliveira_Amaro.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Milky_Way_by_Paulo_José_Oliveira_Amaro.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Milky_Way_by_Paulo_José_Oliveira_Amaro.jpg</from>
+    <to>/usr/share/backgrounds/Impish-Indri_WP_4096x2304_Grey.png</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Impish-Indri_WP_4096x2304_Grey.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Impish-Indri_WP_4096x2304_Grey.png</from>
+    <to>/usr/share/backgrounds/Way_by_Kacper_Ślusarczyk.jpg</to>
+  </transition>
+</background>
