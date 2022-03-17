@@ -1,3 +1,10 @@
+ubuntu-wallpapers (22.04.1-0ubuntu1) jammy; urgency=medium
+
+  * Add Jammy's wallpapers, default and community contest winners
+    (lp: #1965168)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 17 Mar 2022 16:19:03 +0100
+
 ubuntu-wallpapers (21.10.1-0ubuntu1) impish; urgency=medium
 
   * Add Impish's wallpapers, both default and the first two winners
