@@ -1,3 +1,10 @@
+ubuntu-wallpapers (22.04.4-0ubuntu1) jammy; urgency=medium
+
+  * Minor adjustments to the Jammy mascot wallpapers (LP: #1969148)
+  * Include translation updates
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Thu, 14 Apr 2022 14:35:49 -0400
+
 ubuntu-wallpapers (22.04.3-0ubuntu1) jammy; urgency=medium
 
   * Include the finalists of the wallpaper competition (lp: #1966105)
