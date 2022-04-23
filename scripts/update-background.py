@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import glob
 
@@ -31,15 +31,15 @@ FOOTER = """</background>
 PATH='/usr/share/backgrounds/'
 
 def main():
-    images = glob.glob('*.jpg')
+    images = glob.glob('*.jpg') + glob.glob('*.png')
     m = len(images)
 
     output = ''
     output += PREAMBLE 
-    for i in xrange(m):
+    for i in range(m):
         output += ENTRY % {'a': PATH + images[i], 'b': PATH + images[(i+1) % m]}
     output += FOOTER
-    print output,
+    print(output, end='')
 
 if __name__ == '__main__':
     main()

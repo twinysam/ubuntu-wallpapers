@@ -42,15 +42,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Lily_of_the_Valley_by_Robert_Slotte.jpg</from>
-    <to>/usr/share/backgrounds/Bee_on_lavendar_by_Martin.jpg</to>
+    <to>/usr/share/backgrounds/Bee_on_lavender_by_Martin.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Bee_on_lavendar_by_Martin.jpg</file>
+    <file>/usr/share/backgrounds/Bee_on_lavender_by_Martin.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Bee_on_lavendar_by_Martin.jpg</from>
+    <from>/usr/share/backgrounds/Bee_on_lavender_by_Martin.jpg</from>
     <to>/usr/share/backgrounds/Green_Island_by_Radu_Galan.jpg</to>
   </transition>
   <static>

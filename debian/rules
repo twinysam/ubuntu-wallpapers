@@ -6,8 +6,11 @@
 export DPKG_GENSYMBOLS_CHECK_LEVEL=4
 
 %:
-	dh $@ --with python2 --parallel
+	dh $@ --with python3 --buildsystem pybuild
 
 override_dh_install:
 	rm -r debian/tmp/usr/lib/python*
-	dh_install --fail-missing
+	dh_install
+
+override_dh_missing:
+	dh_missing --fail-missing

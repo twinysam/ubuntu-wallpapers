@@ -1,0 +1,38 @@
+<background>
+  <starttime>
+    <year>2009</year>
+    <month>08</month>
+    <day>04</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<!-- This animation will start at midnight. -->
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Macro_Shot_of_Black_Animal_by_Gene_Taylor.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Macro_Shot_of_Black_Animal_by_Gene_Taylor.jpg</from>
+    <to>/usr/share/backgrounds/Hippopotamus_Swimming_Photo_by_Francesco_Ungaro.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Hippopotamus_Swimming_Photo_by_Francesco_Ungaro.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Hippopotamus_Swimming_Photo_by_Francesco_Ungaro.jpg</from>
+    <to>/usr/share/backgrounds/Hirsute-Hippo_WP_4096x2304_Grey.png</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/Hirsute-Hippo_WP_4096x2304_Grey.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/Hirsute-Hippo_WP_4096x2304_Grey.png</from>
+    <to>/usr/share/backgrounds/Macro_Shot_of_Black_Animal_by_Gene_Taylor.jpg</to>
+  </transition>
+</background>

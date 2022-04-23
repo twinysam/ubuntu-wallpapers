@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 19.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/eoan.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Beijling park burial path</_name>
+     <filename>/usr/share/backgrounds/Beijling_park_burial_path_by_Mattias_Andersson.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Frozen sunset on the lake</_name>
+     <filename>/usr/share/backgrounds/Frozen_sunset_on_the_lake_by_Manuel_Arslanyan.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Origin of nature</_name>
+     <filename>/usr/share/backgrounds/Origin_of_nature_by_Julian_Tomasini.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Sky Sparkles</_name>
+     <filename>/usr/share/backgrounds/Sky_Sparkles_by_Joe_Thompson.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Stargazing</_name>
+     <filename>/usr/share/backgrounds/Stargazing_by_Marcel_Kächele.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Ubuntu 80s glitch</_name>
+     <filename>/usr/share/backgrounds/Ubuntu_80s_glitch_by_Abubakar_NK.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Ubuntu gel</_name>
+     <filename>/usr/share/backgrounds/Ubuntu_gel_by_Midge_Mantissa_Sinnaeve.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Ermine lines</_name>
+     <filename>/usr/share/backgrounds/Ermine_lines_by_Gustavo_Brenner.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Flight dive</_name>
+     <filename>/usr/share/backgrounds/Flight_dive_by_Nicolas_Silva.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

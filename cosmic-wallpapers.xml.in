@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 18.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/cosmic.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Black Sand Beach</_name>
+     <filename>/usr/share/backgrounds/Black_sand_beach_by_Mads_Rosendahl.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Carriage Return</_name>
+     <filename>/usr/share/backgrounds/Carriage_Return_by_mendhak.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Cosmic Cuttlefish</_name>
+     <filename>/usr/share/backgrounds/Cosmic_Cuttlefish_by_Jim_Coleman.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Encounter</_name>
+     <filename>/usr/share/backgrounds/Encounter_by_Lazardjin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Fairground at Night</_name>
+     <filename>/usr/share/backgrounds/Fairground_at_Night_by_martin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Image of Mount Parnassus</_name>
+     <filename>/usr/share/backgrounds/Image_of_Mount_Parnassus_by_simosx.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Milky Way Before The Dawn</_name>
+     <filename>/usr/share/backgrounds/Milky_Way_before_the_dawn_by_Tomas_Sobek.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Morning</_name>
+     <filename>/usr/share/backgrounds/Morning_by_Bernhard_Hanakam.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Spring Flowers</_name>
+     <filename>/usr/share/backgrounds/Spring_Flowers_by_MK4-MI01.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Tapiola Espoo Cultural Center</_name>
+     <filename>/usr/share/backgrounds/Tapiola_Espoo_Cultural_Center_by_Agostino_Faedda.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>touch de vert</_name>
+     <filename>/usr/share/backgrounds/touch_de_vert_by_François_Cante.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Ubuntu Party de Paris</_name>
+     <filename>/usr/share/backgrounds/Ubuntu_Party_de_Paris_by_Marcos_Costales.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
