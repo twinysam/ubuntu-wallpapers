@@ -1,3 +1,11 @@
+ubuntu-wallpapers (22.10.1-0ubuntu1) kinetic; urgency=medium
+
+  * Add Kinetic's wallpapers, the default and community contest winners.
+    We didn't receive the high resolution variant of some of the images yet 
+    so we will do another upload later to update those (LP: #1942437)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Fri, 23 Sep 2022 13:36:30 +0200
+
 ubuntu-wallpapers (22.04.4-0ubuntu1) jammy; urgency=medium
 
   * Minor adjustments to the Jammy mascot wallpapers (LP: #1969148)

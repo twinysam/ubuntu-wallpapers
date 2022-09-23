@@ -14,7 +14,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-jammy,
+Depends: ubuntu-wallpapers-kinetic,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -41,6 +41,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-groovy,
           ubuntu-wallpapers-hirsute,
           ubuntu-wallpapers-impish,
+          ubuntu-wallpapers-jammy,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -227,4 +228,11 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 22.04 Wallpapers
  Alternative wallpapers for Ubuntu 22.04 and a Canonical-created greyscale
+ wallpaper.
+ 
+Package: ubuntu-wallpapers-kinetic
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 22.10 Wallpapers
+ Alternative wallpapers for Ubuntu 22.10 and a Canonical-created greyscale
  wallpaper.
