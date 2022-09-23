@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2022-04-13 04:35+0000\n"
+"POT-Creation-Date: 2022-09-22 04:35+0000\n"
 "PO-Revision-Date: 2013-10-15 16:49+0000\n"
 "Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
 "Language-Team: Occitan (post 1500) <oc@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-04-14 04:32+0000\n"
-"X-Generator: Launchpad (build 560baff2f814495c0c140fb3d6c66875f2312c96)\n"
+"X-Launchpad-Export-Date: 2022-09-23 04:33+0000\n"
+"X-Generator: Launchpad (build 388d06654c3c3f3788c5a419a36375768978fe66)\n"
 
 #: ../artful-wallpapers.xml.in.h:1
 msgid "Bee on lavender"
@@ -159,11 +159,11 @@ msgstr ""
 
 #: ../cosmic-wallpapers.xml.in.h:11
 msgid "touch de vert"
-msgstr ""
+msgstr "tòca de verd"
 
 #: ../cosmic-wallpapers.xml.in.h:12
 msgid "Ubuntu Party de Paris"
-msgstr ""
+msgstr "Ubuntu Party a París"
 
 #: ../disco-wallpapers.xml.in.h:1
 msgid "Capucijnengang"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: ../disco-wallpapers.xml.in.h:4
 msgid "On the harbour"
-msgstr ""
+msgstr "Al pòrt"
 
 #: ../disco-wallpapers.xml.in.h:5
 msgid "Staniel Cay"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../eoan-wallpapers.xml.in.h:7
 msgid "Ubuntu gel"
-msgstr ""
+msgstr "Gèl ubuntu"
 
 #: ../eoan-wallpapers.xml.in.h:8
 msgid "Ermine lines"
@@ -243,11 +243,11 @@ msgstr ""
 
 #: ../focal-wallpapers.xml.in.h:1
 msgid "Stone Mountain"
-msgstr ""
+msgstr "Montanha de ròca"
 
 #: ../focal-wallpapers.xml.in.h:2
 msgid "Something Yellow"
-msgstr ""
+msgstr "Quicòm jaune"
 
 #: ../focal-wallpapers.xml.in.h:3
 msgid "2nd Avenue"
@@ -291,15 +291,15 @@ msgstr ""
 
 #: ../impish-wallpapers.xml.in.h:1
 msgid "Milky Way"
-msgstr ""
+msgstr "Via Lactèa"
 
 #: ../impish-wallpapers.xml.in.h:2
 msgid "Way"
-msgstr ""
+msgstr "Via"
 
 #: ../jammy-wallpapers.xml.in.h:1
 msgid "Blue flower"
-msgstr ""
+msgstr "Flor blava"
 
 #: ../jammy-wallpapers.xml.in.h:2
 msgid "canvas"
@@ -315,15 +315,15 @@ msgstr ""
 
 #: ../jammy-wallpapers.xml.in.h:5
 msgid "jj dark"
-msgstr ""
+msgstr "jj escur"
 
 #: ../jammy-wallpapers.xml.in.h:6
 msgid "jj light"
-msgstr ""
+msgstr "jj clar"
 
 #: ../jammy-wallpapers.xml.in.h:7
 msgid "Mirror"
-msgstr ""
+msgstr "Miralh"
 
 #: ../jammy-wallpapers.xml.in.h:8
 msgid "Optical Fibers in Dark"
@@ -331,11 +331,11 @@ msgstr ""
 
 #: ../jammy-wallpapers.xml.in.h:9
 msgid "ubuntu2"
-msgstr ""
+msgstr "ubuntu2"
 
 #: ../jammy-wallpapers.xml.in.h:10
 msgid "ubuntu"
-msgstr ""
+msgstr "ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
@@ -783,11 +783,11 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr ""
+msgstr "Flors de Prunus 24"
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr ""
+msgstr "La Gomera"
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
@@ -807,7 +807,7 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr ""
+msgstr "Arrestar la lutz"
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
@@ -815,7 +815,7 @@ msgstr ""
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr ""
+msgstr "Bruma d’ivèrn"
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
@@ -827,7 +827,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
-msgstr ""
+msgstr "Gota d’aiga"
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
@@ -847,7 +847,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr ""
+msgstr "Arcolan de nilon"
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
@@ -871,7 +871,7 @@ msgstr ""
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr ""
+msgstr "La vila de Polen"
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
@@ -891,15 +891,15 @@ msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:1
 msgid "Backyard Mushrooms"
-msgstr ""
+msgstr "Mossairon de pati"
 
 #: ../trusty-wallpapers.xml.in.h:2
 msgid "Beach"
-msgstr ""
+msgstr "Plaja"
 
 #: ../trusty-wallpapers.xml.in.h:4
 msgid "Foggy Forest"
-msgstr ""
+msgstr "Bòsc brumós"
 
 #: ../trusty-wallpapers.xml.in.h:5
 msgid "Ibanez Infinity"
@@ -919,11 +919,11 @@ msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:9
 msgid "Reflections"
-msgstr ""
+msgstr "Reflexions"
 
 #: ../trusty-wallpapers.xml.in.h:10
 msgid "Sea Fury"
-msgstr ""
+msgstr "Ràbia de la mar"
 
 #: ../trusty-wallpapers.xml.in.h:11
 msgid "Water web"
@@ -931,7 +931,7 @@ msgstr ""
 
 #: ../trusty-wallpapers.xml.in.h:12
 msgid "Forever"
-msgstr ""
+msgstr "Totjorn"
 
 #: ../ubuntu-wallpapers.xml.in.h:1
 msgid "Ubuntu"
@@ -939,15 +939,15 @@ msgstr "Ubuntu"
 
 #: ../ubuntu-wallpapers.xml.in.h:2
 msgid "Ubuntu Greyscale"
-msgstr ""
+msgstr "Escala de gris d’Ubuntu"
 
 #: ../utopic-wallpapers.xml.in.h:1
 msgid "Empty Space"
-msgstr ""
+msgstr "Espaci void"
 
 #: ../utopic-wallpapers.xml.in.h:2
 msgid "Golden leaves"
-msgstr ""
+msgstr "Fuèlhas d’aur"
 
 #: ../utopic-wallpapers.xml.in.h:3
 msgid "Horses on sand dunes"
@@ -959,7 +959,7 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:5
 msgid "Music"
-msgstr ""
+msgstr "Musica"
 
 #: ../utopic-wallpapers.xml.in.h:6
 msgid "Night Seascape"
@@ -983,7 +983,7 @@ msgstr ""
 
 #: ../utopic-wallpapers.xml.in.h:11
 msgid "Warm grasses"
-msgstr ""
+msgstr "Èrbas caudas"
 
 #: ../utopic-wallpapers.xml.in.h:12
 msgid "xgu472hf2"
@@ -999,11 +999,11 @@ msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:3
 msgid "Christmas Lights"
-msgstr ""
+msgstr "Lums nadalencs"
 
 #: ../vivid-wallpapers.xml.in.h:4
 msgid "Euphoria!"
-msgstr ""
+msgstr "Euforia !"
 
 #: ../vivid-wallpapers.xml.in.h:5
 msgid "Oyster Catcher in the Rocks"
@@ -1015,11 +1015,11 @@ msgstr ""
 
 #: ../vivid-wallpapers.xml.in.h:7
 msgid "Primavera"
-msgstr ""
+msgstr "Primtemps"
 
 #: ../vivid-wallpapers.xml.in.h:8
 msgid "Tenerife Roques de Anaga"
-msgstr ""
+msgstr "Ròcs de Tenerife d’Anaga"
 
 #: ../vivid-wallpapers.xml.in.h:9
 msgid "Tesla"
@@ -1055,11 +1055,11 @@ msgstr ""
 
 #: ../wily-wallpapers.xml.in.h:8
 msgid "Hotel"
-msgstr ""
+msgstr "Ostalariá"
 
 #: ../wily-wallpapers.xml.in.h:9
 msgid "Mediterranean Sea"
-msgstr ""
+msgstr "La mar Mediterranèa"
 
 #: ../wily-wallpapers.xml.in.h:10
 msgid "Abstract Ubuntu"
@@ -1071,31 +1071,31 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:2
 msgid "Black hole"
-msgstr ""
+msgstr "Trauc negre"
 
 #: ../xenial-wallpapers.xml.in.h:3
 msgid "Cielo estrellado"
-msgstr ""
+msgstr "Cèl estelat"
 
 #: ../xenial-wallpapers.xml.in.h:4
 msgid "clock"
-msgstr ""
+msgstr "relòtge"
 
 #: ../xenial-wallpapers.xml.in.h:5
 msgid "Dans ma bulle"
-msgstr ""
+msgstr "Dins ma tuta"
 
 #: ../xenial-wallpapers.xml.in.h:6
 msgid "Flora"
-msgstr ""
+msgstr "Flora"
 
 #: ../xenial-wallpapers.xml.in.h:7
 msgid "Icy Grass"
-msgstr ""
+msgstr "Èrba glaçada"
 
 #: ../xenial-wallpapers.xml.in.h:8
 msgid "Night lights"
-msgstr ""
+msgstr "Lum nocturns"
 
 #: ../xenial-wallpapers.xml.in.h:9
 msgid "passion flower"
@@ -1103,15 +1103,15 @@ msgstr ""
 
 #: ../xenial-wallpapers.xml.in.h:10
 msgid "Spring"
-msgstr ""
+msgstr "Prima"
 
 #: ../xenial-wallpapers.xml.in.h:11
 msgid "TCP118v1"
-msgstr ""
+msgstr "TCP118v1"
 
 #: ../xenial-wallpapers.xml.in.h:12
 msgid "The Land of Edonias"
-msgstr ""
+msgstr "Païsatge d’Edonias"
 
 #: ../yakkety-wallpapers.xml.in.h:1
 msgid "Alien wing"
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:3
 msgid "DSC3907"
-msgstr ""
+msgstr "DSC3907"
 
 #: ../yakkety-wallpapers.xml.in.h:4
 msgid "Haukland Beach view"
@@ -1131,11 +1131,11 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:5
 msgid "IMG 0081"
-msgstr ""
+msgstr "IMG 0081"
 
 #: ../yakkety-wallpapers.xml.in.h:6
 msgid "IMG 7632"
-msgstr ""
+msgstr "IMG 7632"
 
 #: ../yakkety-wallpapers.xml.in.h:7
 msgid "larung gar by night"
@@ -1143,27 +1143,27 @@ msgstr ""
 
 #: ../yakkety-wallpapers.xml.in.h:8
 msgid "P1310728"
-msgstr ""
+msgstr "P1310728"
 
 #: ../yakkety-wallpapers.xml.in.h:9
 msgid "ubuntu16_10"
-msgstr ""
+msgstr "ubuntu16_10"
 
 #: ../yakkety-wallpapers.xml.in.h:10
 msgid "ubuntu wallpaper 16 10 02"
-msgstr ""
+msgstr "ubuntu wallpaper 16 10 02"
 
 #: ../yakkety-wallpapers.xml.in.h:11
 msgid "Wanaka Tree"
-msgstr ""
+msgstr "Arbre Wanaka"
 
 #: ../yakkety-wallpapers.xml.in.h:12
 msgid "Yala mountain"
-msgstr ""
+msgstr "Montanha Yala"
 
 #: ../zesty-wallpapers.xml.in.h:1
 msgid "A star has fallen"
-msgstr ""
+msgstr "Una estela tombèt"
 
 #: ../zesty-wallpapers.xml.in.h:2
 msgid "Candy"
@@ -1175,19 +1175,19 @@ msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:4
 msgid "Forest"
-msgstr ""
+msgstr "Bòsc"
 
 #: ../zesty-wallpapers.xml.in.h:5
 msgid "Mushrooms 3"
-msgstr ""
+msgstr "Mossairon 3"
 
 #: ../zesty-wallpapers.xml.in.h:6
 msgid "Passion"
-msgstr ""
+msgstr "Passion"
 
 #: ../zesty-wallpapers.xml.in.h:7
 msgid "Pink and Blue"
-msgstr ""
+msgstr "Ròse e blau"
 
 #: ../zesty-wallpapers.xml.in.h:8
 msgid "Purple Daisy"
@@ -1195,11 +1195,11 @@ msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:9
 msgid "Road to Nowhere"
-msgstr ""
+msgstr "Rota cap a enlòc"
 
 #: ../zesty-wallpapers.xml.in.h:10
 msgid "Seebrücke Graal-Müritz"
-msgstr ""
+msgstr "Seebrücke Graal-Müritz"
 
 #: ../zesty-wallpapers.xml.in.h:11
 msgid "Some Light Reading"
@@ -1207,4 +1207,4 @@ msgstr ""
 
 #: ../zesty-wallpapers.xml.in.h:12
 msgid "there is something human in that stuff"
-msgstr ""
+msgstr "i a d’umans aquí dedins"

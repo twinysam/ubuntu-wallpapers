@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-25 21:16+0100\n"
+"POT-Creation-Date: 2022-09-23 13:13+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -330,11 +330,11 @@ msgid "Optical Fibers in Dark"
 msgstr ""
 
 #: ../jammy-wallpapers.xml.in.h:9
-msgid "ubuntu"
+msgid "ubuntu2"
 msgstr ""
 
 #: ../jammy-wallpapers.xml.in.h:10
-msgid "ubuntu2"
+msgid "ubuntu"
 msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:1
@@ -411,6 +411,30 @@ msgstr ""
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
+msgstr ""
+
+#: ../kinetic-wallpapers.xml.in.h:1
+msgid "Kinetic Kudu"
+msgstr ""
+
+#: ../kinetic-wallpapers.xml.in.h:2
+msgid "Obersee"
+msgstr ""
+
+#: ../kinetic-wallpapers.xml.in.h:3
+msgid "Sunset Over Lake Lugano"
+msgstr ""
+
+#: ../kinetic-wallpapers.xml.in.h:4
+msgid "Twisted Gradients"
+msgstr ""
+
+#: ../kinetic-wallpapers.xml.in.h:5
+msgid "Reflection"
+msgstr ""
+
+#: ../kinetic-wallpapers.xml.in.h:6
+msgid "Saffron"
 msgstr ""
 
 #: ../lucid-wallpapers.xml.in.h:1
