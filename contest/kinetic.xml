@@ -42,15 +42,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Sunset_Over_Lake_Lugano_by_Alexey_Kulik.jpg</from>
-    <to>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.jpg</to>
+    <to>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.png</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.jpg</file>
+    <file>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.jpg</from>
+    <from>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.png</from>
     <to>/usr/share/backgrounds/Reflection_by_Juliette_Taka.png</to>
   </transition>
   <static>

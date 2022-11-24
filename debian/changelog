@@ -1,3 +1,11 @@
+ubuntu-wallpapers (22.10.3-0ubuntu1) lunar; urgency=medium
+
+  * The Twisted_Gradients_by_Gustavo_Brenner image was converted to a png
+    but not renamed in the xml for the slideshow, fix that now
+    (lp: #1993992)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 24 Nov 2022 10:31:23 +0100
+
 ubuntu-wallpapers (22.10.2-0ubuntu1) kinetic; urgency=medium
 
   * Replaced the low resolution wallpapers by their highres version
