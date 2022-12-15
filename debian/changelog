@@ -1,3 +1,11 @@
+ubuntu-wallpapers (22.12.1-0ubuntu1) lunar; urgency=medium
+
+  * warty-final-ubuntu.png:
+    - Lunar Lobster wallpaper for use during the development cycle
+      thanks to Simon Butcher
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 15 Dec 2022 22:20:30 +0100
+
 ubuntu-wallpapers (22.10.3-0ubuntu1) lunar; urgency=medium
 
   * The Twisted_Gradients_by_Gustavo_Brenner image was converted to a png
