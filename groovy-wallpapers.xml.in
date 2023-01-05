@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 20.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/groovy.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Abstract Painting Photo</_name>
+     <filename>/usr/share/backgrounds/Abstract_Painting_Photo_by_Pierre_Châtel-Innocenti.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Camera Film</_name>
+     <filename>/usr/share/backgrounds/Camera_Film_by_Markus_Spiske.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Colored Pencils</_name>
+     <filename>/usr/share/backgrounds/Colored_Pencils_by_Jess_Bailey.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Landscape Photography Of Mountains</_name>
+     <filename>/usr/share/backgrounds/Landscape_Photography_Of_Mountains_by_Simon_Berger.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Silver Back Gorilla</_name>
+     <filename>/usr/share/backgrounds/Silver_Back_Gorilla_by_Mike_Arney.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

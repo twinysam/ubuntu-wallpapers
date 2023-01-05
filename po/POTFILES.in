@@ -1,6 +1,16 @@
 [encoding: UTF-8]
-ubuntu-wallpapers.xml.in
+artful-wallpapers.xml.in
+bionic-wallpapers.xml.in
+cosmic-wallpapers.xml.in
+disco-wallpapers.xml.in
+eoan-wallpapers.xml.in
+focal-wallpapers.xml.in
+groovy-wallpapers.xml.in
+hirsute-wallpapers.xml.in
+impish-wallpapers.xml.in
+jammy-wallpapers.xml.in
 karmic-wallpapers.xml.in
+kinetic-wallpapers.xml.in
 lucid-wallpapers.xml.in
 maverick-wallpapers.xml.in
 natty-wallpapers.xml.in
@@ -10,4 +20,10 @@ quantal-wallpapers.xml.in
 raring-wallpapers.xml.in
 saucy-wallpapers.xml.in
 trusty-wallpapers.xml.in
+ubuntu-wallpapers.xml.in
 utopic-wallpapers.xml.in
+vivid-wallpapers.xml.in
+wily-wallpapers.xml.in
+xenial-wallpapers.xml.in
+yakkety-wallpapers.xml.in
+zesty-wallpapers.xml.in

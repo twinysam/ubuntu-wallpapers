@@ -7,19 +7,335 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-08-23 16:44+0100\n"
+"POT-Creation-Date: 2022-12-14 04:34+0000\n"
 "PO-Revision-Date: 2013-09-17 12:00+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-09-15 05:12+0000\n"
-"X-Generator: Launchpad (build 18449)\n"
+"X-Launchpad-Export-Date: 2022-12-15 06:11+0000\n"
+"X-Generator: Launchpad (build c3f9a3a8c5fffd8b8763824e1f305083a4e9705e)\n"
 
-#: ../ubuntu-wallpapers.xml.in.h:1
-msgid "Ubuntu"
-msgstr ""
+#: ../artful-wallpapers.xml.in.h:1
+msgid "Bee on lavender"
+msgstr "Pčela na lavandi"
+
+#: ../artful-wallpapers.xml.in.h:2
+msgid "Bloom"
+msgstr "Cvijet"
+
+#: ../artful-wallpapers.xml.in.h:3
+msgid "Grand Canyon North Rim"
+msgstr "Sjeverni rub Velikog kanjona"
+
+#: ../artful-wallpapers.xml.in.h:4
+msgid "Green Island"
+msgstr "Zeleni otok"
+
+#: ../artful-wallpapers.xml.in.h:5
+msgid "Headstock"
+msgstr "Glava gitare"
+
+#: ../artful-wallpapers.xml.in.h:6
+msgid "Lighthouse at sunrise"
+msgstr "Svjetionik u zoru"
+
+#: ../artful-wallpapers.xml.in.h:7
+msgid "Lily of the Valley"
+msgstr "Đurđica sa doline"
+
+#: ../artful-wallpapers.xml.in.h:8
+msgid "London Eye"
+msgstr "Londonsko Oko"
+
+#: ../artful-wallpapers.xml.in.h:9
+msgid "More Kamikochi"
+msgstr "More Kamikochi"
+
+#: ../artful-wallpapers.xml.in.h:10
+msgid "Planking is going against the grain"
+msgstr "Stare daske"
+
+#: ../artful-wallpapers.xml.in.h:11
+msgid "Red delight"
+msgstr "Crveni užitak"
+
+#: ../artful-wallpapers.xml.in.h:12
+msgid "Sunrise on the beach"
+msgstr "Zora na plaži"
+
+#: ../artful-wallpapers.xml.in.h:13
+msgid "Voss"
+msgstr "Fjord"
+
+#: ../bionic-wallpapers.xml.in.h:1
+msgid "Cathédrale Marie-Rheine-du-Monde"
+msgstr "Katedrala Marije Kraljice Svijeta"
+
+#: ../bionic-wallpapers.xml.in.h:2
+msgid "Crocus Wallpaper"
+msgstr "Šafran"
+
+#: ../bionic-wallpapers.xml.in.h:3
+msgid "Definitive Light Zen Orange"
+msgstr "Narančasto svijetli zen"
+
+#: ../bionic-wallpapers.xml.in.h:4
+msgid "El Haouaria"
+msgstr "El Haouaria"
+
+#: ../bionic-wallpapers.xml.in.h:5
+msgid "Halifax Sunset"
+msgstr "Halifax sumrak"
+
+#: ../bionic-wallpapers.xml.in.h:6
+msgid "Manhattan Sunset"
+msgstr "Manhattan sumrak"
+
+#: ../bionic-wallpapers.xml.in.h:7
+msgid "On top of the Rubihorn"
+msgstr "Na vrhu Rubihorna"
+
+#: ../bionic-wallpapers.xml.in.h:8
+msgid "Raindrops On The Table"
+msgstr "Kišne kapi na stolu"
+
+#: ../bionic-wallpapers.xml.in.h:9
+msgid "Ross Jones Rockpool (Sydney)"
+msgstr "Ross Jones kameni bazen (Sydney)"
+
+#: ../bionic-wallpapers.xml.in.h:10
+msgid "Spices in Athens"
+msgstr "Začini u Ateni"
+
+#: ../bionic-wallpapers.xml.in.h:11
+msgid "This Is Bionic Beaver"
+msgstr "Bionički dabar"
+
+#: ../bionic-wallpapers.xml.in.h:12
+msgid "Wall with door on Gozo"
+msgstr "Zid s vratima na Gozou"
+
+#: ../cosmic-wallpapers.xml.in.h:1
+msgid "Black Sand Beach"
+msgstr "Plaža od crnog pijeska"
+
+#: ../cosmic-wallpapers.xml.in.h:2
+msgid "Carriage Return"
+msgstr "Povratak kočije"
+
+#: ../cosmic-wallpapers.xml.in.h:3
+msgid "Cosmic Cuttlefish"
+msgstr "Kozmička sipa"
+
+#: ../cosmic-wallpapers.xml.in.h:4
+msgid "Encounter"
+msgstr "Bliski susret"
+
+#: ../cosmic-wallpapers.xml.in.h:5
+msgid "Fairground at Night"
+msgstr "Sajam noću"
+
+#: ../cosmic-wallpapers.xml.in.h:6
+msgid "Image of Mount Parnassus"
+msgstr "Planina Parnas"
+
+#: ../cosmic-wallpapers.xml.in.h:7
+msgid "Milky Way Before The Dawn"
+msgstr "Mliječni put prije zore"
+
+#: ../cosmic-wallpapers.xml.in.h:8
+msgid "Morning"
+msgstr "Jutro"
+
+#: ../cosmic-wallpapers.xml.in.h:9
+msgid "Spring Flowers"
+msgstr "Proljetni cvjetovi"
+
+#: ../cosmic-wallpapers.xml.in.h:10
+msgid "Tapiola Espoo Cultural Center"
+msgstr "Tapiola Espoo kulturni centar"
+
+#: ../cosmic-wallpapers.xml.in.h:11
+msgid "touch de vert"
+msgstr "Slika"
+
+#: ../cosmic-wallpapers.xml.in.h:12
+msgid "Ubuntu Party de Paris"
+msgstr "Ubuntu proslava u Parizu"
+
+#: ../disco-wallpapers.xml.in.h:1
+msgid "Capucijnengang"
+msgstr "Capucijnengang"
+
+#: ../disco-wallpapers.xml.in.h:2
+msgid "Cramond Island"
+msgstr "Cramond otok"
+
+#: ../disco-wallpapers.xml.in.h:3
+msgid "Flower Gate Bridge"
+msgstr "Cvijet na vratima mosta"
+
+#: ../disco-wallpapers.xml.in.h:4
+msgid "On the harbour"
+msgstr "Na luci"
+
+#: ../disco-wallpapers.xml.in.h:5
+msgid "Staniel Cay"
+msgstr "Staniel Cay"
+
+#: ../disco-wallpapers.xml.in.h:6
+msgid "Sunset of Peloponnesus"
+msgstr "Sumrak na Poloponezu"
+
+#: ../disco-wallpapers.xml.in.h:7
+msgid "Tennis ball"
+msgstr "Teniska loptica"
+
+#: ../disco-wallpapers.xml.in.h:8
+msgid "Water of Leith"
+msgstr "Voda u Leitai"
+
+#: ../disco-wallpapers.xml.in.h:9
+msgid "80s Disco Dingo Simulation"
+msgstr "Disco Dingo simulacija iz 80-ih"
+
+#: ../disco-wallpapers.xml.in.h:10
+msgid "Disco Dingo Alt Default"
+msgstr "Disco Dingo Alt zadano"
+
+#: ../eoan-wallpapers.xml.in.h:1
+msgid "Beijling park burial path"
+msgstr "Šetnica pogrebnog parka u Pekingu"
+
+#: ../eoan-wallpapers.xml.in.h:2
+msgid "Frozen sunset on the lake"
+msgstr "Smrznuti sumrak na jezeru"
+
+#: ../eoan-wallpapers.xml.in.h:3
+msgid "Origin of nature"
+msgstr "Iskonska priroda"
+
+#: ../eoan-wallpapers.xml.in.h:4
+msgid "Sky Sparkles"
+msgstr "Nebeske iskre"
+
+#: ../eoan-wallpapers.xml.in.h:5
+msgid "Stargazing"
+msgstr "Zvjezdani pogled"
+
+#: ../eoan-wallpapers.xml.in.h:6
+msgid "Ubuntu 80s glitch"
+msgstr "Ubuntu smetnja iz 80-ih"
+
+#: ../eoan-wallpapers.xml.in.h:7
+msgid "Ubuntu gel"
+msgstr "Ubuntu gel"
+
+#: ../eoan-wallpapers.xml.in.h:8
+msgid "Ermine lines"
+msgstr "Ermine linije"
+
+#: ../eoan-wallpapers.xml.in.h:9
+msgid "Flight dive"
+msgstr "Leteći zaron"
+
+#: ../focal-wallpapers.xml.in.h:1
+msgid "Stone Mountain"
+msgstr "Šumski proplanak"
+
+#: ../focal-wallpapers.xml.in.h:2
+msgid "Something Yellow"
+msgstr "Nešto žuto"
+
+#: ../focal-wallpapers.xml.in.h:3
+msgid "2nd Avenue"
+msgstr "2. avenija"
+
+#: ../focal-wallpapers.xml.in.h:4
+msgid "Skykomish River"
+msgstr "Skykomish rijeka"
+
+#: ../focal-wallpapers.xml.in.h:5
+msgid "Hardy Heron (Remaster)"
+msgstr "Hardy Heron (Remasteriran)"
+
+#: ../groovy-wallpapers.xml.in.h:1
+msgid "Abstract Painting Photo"
+msgstr "Fotografija apstraktnog slikarstva"
+
+#: ../groovy-wallpapers.xml.in.h:2
+msgid "Camera Film"
+msgstr "Filmska kamera"
+
+#: ../groovy-wallpapers.xml.in.h:3
+msgid "Colored Pencils"
+msgstr "Bojice"
+
+#: ../groovy-wallpapers.xml.in.h:4
+msgid "Landscape Photography Of Mountains"
+msgstr "Pejzažna fotografija planina"
+
+#: ../groovy-wallpapers.xml.in.h:5
+msgid "Silver Back Gorilla"
+msgstr "Srebrnkasta gorila"
+
+#: ../hirsute-wallpapers.xml.in.h:1
+msgid "Hippopotamus Swimming Photo"
+msgstr "Fotografija plivanja nilskog konja"
+
+#: ../hirsute-wallpapers.xml.in.h:2
+msgid "Macro Shot of Black Animal"
+msgstr "Makro snimak crne životinje"
+
+#: ../impish-wallpapers.xml.in.h:1
+msgid "Milky Way"
+msgstr "Mliječna staza"
+
+#: ../impish-wallpapers.xml.in.h:2
+msgid "Way"
+msgstr "Put"
+
+#: ../jammy-wallpapers.xml.in.h:1
+msgid "Blue flower"
+msgstr "Plavi cvijet"
+
+#: ../jammy-wallpapers.xml.in.h:2
+msgid "canvas"
+msgstr "platno"
+
+#: ../jammy-wallpapers.xml.in.h:3
+msgid "Cherry Tree in Lakones"
+msgstr "Trešnja u Lakonesu"
+
+#: ../jammy-wallpapers.xml.in.h:4
+msgid "DSC2943"
+msgstr "DSC2943"
+
+#: ../jammy-wallpapers.xml.in.h:5
+msgid "jj dark"
+msgstr "jj tamno"
+
+#: ../jammy-wallpapers.xml.in.h:6
+msgid "jj light"
+msgstr "jj svjetlo"
+
+#: ../jammy-wallpapers.xml.in.h:7
+msgid "Mirror"
+msgstr "Zrcalo"
+
+#: ../jammy-wallpapers.xml.in.h:8
+msgid "Optical Fibers in Dark"
+msgstr "Optička vlakna u tami"
+
+#: ../jammy-wallpapers.xml.in.h:9
+msgid "ubuntu2"
+msgstr "ubuntu2"
+
+#: ../jammy-wallpapers.xml.in.h:10
+msgid "ubuntu"
+msgstr "ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
@@ -27,31 +343,31 @@ msgstr "Bijela orhideja"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr "Bacajuće kamenje"
+msgstr "Bačeni kamenčići"
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr "Radioaktivna zora.jpg"
+msgstr "Radioaktivna zora"
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr "O život.jpg"
+msgstr "Odbijanje valova"
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr "Trava u A.jpg"
+msgstr "Trava"
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr "Penjanje.jpg"
+msgstr "Planinarenje"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr "Trešnje.jpg"
+msgstr "Trešnje"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr "Crvena primula"
+msgstr "Crveni jaglac"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
@@ -63,11 +379,11 @@ msgstr "Duga je mrtva"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr "Zalazak sunca"
+msgstr "Sumrak"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
-msgstr "Moje stare, stare cipele"
+msgstr "Stare cipele"
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
@@ -79,7 +395,7 @@ msgstr "Palmin vrt"
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr ""
+msgstr "Narančaste latice"
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
@@ -91,27 +407,51 @@ msgstr "Žaba"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr ""
+msgstr "Cvijet lotosa"
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
 msgstr "Zaljev"
 
+#: ../kinetic-wallpapers.xml.in.h:1
+msgid "Kinetic Kudu"
+msgstr "Kinetic Kudu"
+
+#: ../kinetic-wallpapers.xml.in.h:2
+msgid "Obersee"
+msgstr "Obersee jezero"
+
+#: ../kinetic-wallpapers.xml.in.h:3
+msgid "Sunset Over Lake Lugano"
+msgstr "Zalazak sunca iznad jezera Lugano"
+
+#: ../kinetic-wallpapers.xml.in.h:4
+msgid "Twisted Gradients"
+msgstr "Zakrivljeni gradijenti"
+
+#: ../kinetic-wallpapers.xml.in.h:5
+msgid "Reflection"
+msgstr "Odraz"
+
+#: ../kinetic-wallpapers.xml.in.h:6
+msgid "Saffron"
+msgstr "Šafran"
+
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr ""
+msgstr "Krošnja"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr ""
+msgstr "Noćna potraga"
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr ""
+msgstr "Cvijet u kutku"
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
-msgstr ""
+msgstr "Cvjetne kovrče"
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
@@ -119,23 +459,23 @@ msgstr "Tratinčica"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
-msgstr "Kapi kiše, pradavno svijetlo"
+msgstr "Kišne kapi u starinskom svjetlu"
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr ""
+msgstr "Maslačak"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr "Zaleđeno kamenje 2"
+msgstr "Zaleđeno kamenje"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
-msgstr ""
+msgstr "Cvijet u tami"
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
-msgstr "Maraetai prije izlaska sunca"
+msgstr "Maraetai prije zore"
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
@@ -143,11 +483,11 @@ msgstr "Izvan fokusa"
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
-msgstr ""
+msgstr "Šiljasto"
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr "Topla svijetla"
+msgstr "Topla svjetla"
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
@@ -155,23 +495,23 @@ msgstr "Žuti cvijet"
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr "Gladak moment"
+msgstr "Uglađen trenutak"
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
-msgstr ""
+msgstr "Puž"
 
 #: ../maverick-wallpapers.xml.in.h:2
 msgid "Blue box number 2"
-msgstr ""
+msgstr "Plava kutija broj"
 
-#: ../maverick-wallpapers.xml.in.h:3
+#: ../maverick-wallpapers.xml.in.h:3 ../wily-wallpapers.xml.in.h:7
 msgid "Blue"
-msgstr ""
+msgstr "Plavetnilo"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr ""
+msgstr "Mjehurići"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
@@ -187,15 +527,15 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr ""
+msgstr "Klasje"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr ""
+msgstr "Kapljice na staklu"
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr ""
+msgstr "Pas"
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
@@ -207,11 +547,11 @@ msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:13
 msgid "Ropey Photo"
-msgstr "Ropey fotografija"
+msgstr "Namoti užeta"
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr ""
+msgstr "Očaravajuće spokojstvo"
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
@@ -227,11 +567,11 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:2
 msgid "Arboreal ballet"
-msgstr ""
+msgstr "Drvni balet"
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr ""
+msgstr "Odmarajuće more"
 
 #: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
@@ -247,7 +587,7 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
-msgstr ""
+msgstr "Pupoljci na zelenom"
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
@@ -259,23 +599,23 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
-msgstr ""
+msgstr "Azkainetik sumrak"
 
 #: ../natty-wallpapers.xml.in.h:11
 msgid "Lá no alto"
-msgstr ""
+msgstr "Na nebu"
 
 #: ../natty-wallpapers.xml.in.h:12
 msgid "Quandro"
-msgstr ""
+msgstr "Sumrak u ledini"
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
-msgstr ""
+msgstr "Putokaz"
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr ""
+msgstr "Kapljice na laticama"
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
@@ -283,7 +623,7 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:16
 msgid "Tri Narwhal"
-msgstr ""
+msgstr "Tri Narwhala"
 
 #: ../natty-wallpapers.xml.in.h:17
 msgid "Variations On Natty Narwhal 1"
@@ -291,284 +631,604 @@ msgstr ""
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr ""
+msgstr "Bijeli cvjetovi"
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
-msgstr ""
+msgstr "Srnjak u jesen"
 
 #: ../oneiric-wallpapers.xml.in.h:2
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Satni mehanizam"
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Dybbølsbro stanica"
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Polarni vrt"
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr ""
+msgstr "Langelinie aleja"
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Požutjeli listovi"
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
-msgstr ""
+msgstr "Planina Snowdon, Wales"
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr ""
+msgstr "Cvijet nije sam"
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr ""
+msgstr "Nalivpero"
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Ljubičasti tučci"
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr ""
+msgstr "Mali cvjetovi"
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Izloženi ocelot"
 
 #: ../oneiric-wallpapers.xml.in.h:13
 msgid "The Grass Ain't Greener"
-msgstr ""
+msgstr "Trava nije zelenija"
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr ""
+msgstr "Divlja pšenica"
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr ""
+msgstr "Nježne latice"
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr ""
+msgstr "Rani cvijet"
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
-msgstr ""
+msgstr "Jato"
 
 #: ../precise-wallpapers.xml.in.h:4
 msgid "Floorboards"
-msgstr ""
+msgstr "Podne ploče"
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr ""
+msgstr "Zlatni cvat"
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
-msgstr ""
+msgstr "Londonsko oko odozdo"
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr ""
+msgstr "Jutarnja rosa"
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
-msgstr ""
+msgstr "Zid"
 
 #: ../precise-wallpapers.xml.in.h:9
 msgid "Precise Pangolin"
-msgstr ""
+msgstr "Precise Pangolin"
 
 #: ../precise-wallpapers.xml.in.h:10
 msgid "Speaker Weave"
-msgstr ""
+msgstr "Membrana zvučnika"
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr ""
+msgstr "Zabranjeni grad"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr ""
+msgstr "Vez broda"
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr ""
+msgstr "Mraz u suton"
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr ""
+msgstr "Zimsko jutro"
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr ""
+msgstr "Mali kvecal"
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr ""
+msgstr "Ispod oblaka"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr ""
+msgstr "Kamena oznaka"
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr ""
+msgstr "Rano jutro"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr ""
+msgstr "Smrzavica"
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr ""
+msgstr "Gran Canaria"
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr ""
+msgstr "Zelena biljka"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr ""
+msgstr "Mak u sumrak"
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
-msgstr ""
+msgstr "Pantano de Orellana"
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr ""
+msgstr "Crijepovi"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr ""
+msgstr "Klavijatura"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
-msgstr ""
+msgstr "Begonija"
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr ""
+msgstr "Plavi mraz"
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr ""
+msgstr "Brother pisaći stroj"
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
-msgstr ""
+msgstr "Mačka i klupko"
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr ""
+msgstr "Cvjetovi šljive"
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
-msgstr ""
+msgstr "La Gomera"
 
 #: ../raring-wallpapers.xml.in.h:7
 msgid "Landing"
-msgstr ""
+msgstr "Prizemljenje"
 
 #: ../raring-wallpapers.xml.in.h:8
 msgid "Last breath…"
-msgstr ""
+msgstr "Klasje pšenice"
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr ""
+msgstr "Neistraženo"
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr ""
+msgstr "Jutarnji listovi prekrivenom mrazom"
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
-msgstr ""
+msgstr "Zaustavi svjetlost"
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
-msgstr ""
+msgstr "Usamljena vlat"
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
-msgstr ""
+msgstr "Zimska magla"
 
 #: ../saucy-wallpapers.xml.in.h:1
 msgid "163"
-msgstr ""
+msgstr "163"
 
 #: ../saucy-wallpapers.xml.in.h:2
 msgid "Cyclotron"
-msgstr ""
+msgstr "Ciklotron"
 
 #: ../saucy-wallpapers.xml.in.h:3
 msgid "Gota D'água"
-msgstr ""
+msgstr "Kapi vode"
 
 #: ../saucy-wallpapers.xml.in.h:4
 msgid "Grass"
-msgstr ""
+msgstr "Trava"
 
 #: ../saucy-wallpapers.xml.in.h:5
 msgid "I am a Saucy Salamander..."
-msgstr ""
+msgstr "Ja sam Saucy Salamander"
 
 #: ../saucy-wallpapers.xml.in.h:6
 msgid "Mountains"
-msgstr ""
+msgstr "Planinski vrhovi"
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr ""
+msgstr "Drvo u sumraku"
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr ""
+msgstr "Najlonska duga"
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
-msgstr ""
+msgstr "Hrast"
 
 #: ../saucy-wallpapers.xml.in.h:10
 msgid "Salamander"
-msgstr ""
+msgstr "Salamander"
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr ""
+msgstr "Saucy Salamander apstraktan"
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr ""
+msgstr "Stablo u savani"
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
-msgstr ""
+msgstr "Tisa"
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr ""
+msgstr "Pelud"
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
-msgstr ""
+msgstr "(Ne)podnošljivo"
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
-msgstr ""
+msgstr "Thingvellir"
 
 #: ../saucy-wallpapers.xml.in.h:17
 msgid "Untitled"
-msgstr "Neimenovano"
+msgstr "Plot u predvečerje"
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
+msgstr "Vodeni lopoči"
+
+#: ../trusty-wallpapers.xml.in.h:1
+msgid "Backyard Mushrooms"
+msgstr "Dvorišne gljive"
+
+#: ../trusty-wallpapers.xml.in.h:2
+msgid "Beach"
+msgstr "Žal"
+
+#: ../trusty-wallpapers.xml.in.h:4
+msgid "Foggy Forest"
+msgstr "Maglovita šuma"
+
+#: ../trusty-wallpapers.xml.in.h:5
+msgid "Ibanez Infinity"
+msgstr "Vrat gitare"
+
+#: ../trusty-wallpapers.xml.in.h:6
+msgid "Jelly Fish"
+msgstr "Meduze"
+
+#: ../trusty-wallpapers.xml.in.h:7
+msgid "Mono Lake"
+msgstr "Mono jezero"
+
+#: ../trusty-wallpapers.xml.in.h:8
+msgid "Partitura"
+msgstr "Note"
+
+#: ../trusty-wallpapers.xml.in.h:9
+msgid "Reflections"
+msgstr "Odrazi"
+
+#: ../trusty-wallpapers.xml.in.h:10
+msgid "Sea Fury"
+msgstr "Sea Fury zrakoplov"
+
+#: ../trusty-wallpapers.xml.in.h:11
+msgid "Water web"
+msgstr "Kapljice na paukovj mreži"
+
+#: ../trusty-wallpapers.xml.in.h:12
+msgid "Forever"
+msgstr "Zvjezdani pogled 2"
+
+#: ../ubuntu-wallpapers.xml.in.h:1
+msgid "Ubuntu"
 msgstr ""
+
+#: ../ubuntu-wallpapers.xml.in.h:2
+msgid "Ubuntu Greyscale"
+msgstr "Ubuntu sivo"
+
+#: ../utopic-wallpapers.xml.in.h:1
+msgid "Empty Space"
+msgstr "Prazna klupa"
+
+#: ../utopic-wallpapers.xml.in.h:2
+msgid "Golden leaves"
+msgstr "Zlatno lišće"
+
+#: ../utopic-wallpapers.xml.in.h:3
+msgid "Horses on sand dunes"
+msgstr "Konji na pješčanim dinama"
+
+#: ../utopic-wallpapers.xml.in.h:4
+msgid "Kronach leuchtet 2014"
+msgstr "Kronach leuchtet 2014"
+
+#: ../utopic-wallpapers.xml.in.h:5
+msgid "Music"
+msgstr "Gramofon"
+
+#: ../utopic-wallpapers.xml.in.h:6
+msgid "Night Seascape"
+msgstr "Noćni morski pejzaž"
+
+#: ../utopic-wallpapers.xml.in.h:7
+msgid "Redes de hilo"
+msgstr "Niti mreže"
+
+#: ../utopic-wallpapers.xml.in.h:8
+msgid "salcantayperu"
+msgstr "Salcantay Peru"
+
+#: ../utopic-wallpapers.xml.in.h:9
+msgid "Sunny Autumn"
+msgstr "Sunčana jesen"
+
+#: ../utopic-wallpapers.xml.in.h:10
+msgid "Utopic Unicorn"
+msgstr "Utopic Unicorn"
+
+#: ../utopic-wallpapers.xml.in.h:11
+msgid "Warm grasses"
+msgstr "Topla trava"
+
+#: ../utopic-wallpapers.xml.in.h:12
+msgid "xgu472hf2"
+msgstr "Zgrada"
+
+#: ../vivid-wallpapers.xml.in.h:1
+msgid "150305-cinqAA"
+msgstr "Kockasto"
+
+#: ../vivid-wallpapers.xml.in.h:2
+msgid "Cedar Wax Wing"
+msgstr "Cedrova kugara"
+
+#: ../vivid-wallpapers.xml.in.h:3
+msgid "Christmas Lights"
+msgstr "Božićne lampice"
+
+#: ../vivid-wallpapers.xml.in.h:4
+msgid "Euphoria!"
+msgstr "Euforija!"
+
+#: ../vivid-wallpapers.xml.in.h:5
+msgid "Oyster Catcher in the Rocks"
+msgstr "Oštrigar na kamenju"
+
+#: ../vivid-wallpapers.xml.in.h:6
+msgid "Polka Dots and Moonbeams"
+msgstr "Stupovi na plaži i mjesečeve zrake"
+
+#: ../vivid-wallpapers.xml.in.h:7
+msgid "Primavera"
+msgstr "Proljeće"
+
+#: ../vivid-wallpapers.xml.in.h:8
+msgid "Tenerife Roques de Anaga"
+msgstr "Tenerife Roques de Anaga"
+
+#: ../vivid-wallpapers.xml.in.h:9
+msgid "Tesla"
+msgstr "Gramofonska ploča"
+
+#: ../vivid-wallpapers.xml.in.h:10
+msgid "Traviny"
+msgstr "Trave"
+
+#: ../wily-wallpapers.xml.in.h:1
+msgid "Tramonto a Scalea"
+msgstr "Zalazak sunca u Scalii"
+
+#: ../wily-wallpapers.xml.in.h:2
+msgid "Tranquil"
+msgstr "Podmorje"
+
+#: ../wily-wallpapers.xml.in.h:3
+msgid "Light my fire evening sun"
+msgstr "Livada"
+
+#: ../wily-wallpapers.xml.in.h:4
+msgid "Sitting Here, Making Fun"
+msgstr "Kapi na listovima"
+
+#: ../wily-wallpapers.xml.in.h:5
+msgid "Moss inflorescence"
+msgstr "Cvjetovi mahovine"
+
+#: ../wily-wallpapers.xml.in.h:6
+msgid "Breaker"
+msgstr "Strujni stup"
+
+#: ../wily-wallpapers.xml.in.h:8
+msgid "Hotel"
+msgstr "Hotel"
+
+#: ../wily-wallpapers.xml.in.h:9
+msgid "Mediterranean Sea"
+msgstr "Sredozemno more"
+
+#: ../wily-wallpapers.xml.in.h:10
+msgid "Abstract Ubuntu"
+msgstr "Abstraktan Ubuntu"
+
+#: ../xenial-wallpapers.xml.in.h:1
+msgid "160218-deux-two"
+msgstr "Dva"
+
+#: ../xenial-wallpapers.xml.in.h:2
+msgid "Black hole"
+msgstr "Crna rupa"
+
+#: ../xenial-wallpapers.xml.in.h:3
+msgid "Cielo estrellado"
+msgstr "Zvjezdani pogled 3"
+
+#: ../xenial-wallpapers.xml.in.h:4
+msgid "clock"
+msgstr "Sat"
+
+#: ../xenial-wallpapers.xml.in.h:5
+msgid "Dans ma bulle"
+msgstr "Baloni"
+
+#: ../xenial-wallpapers.xml.in.h:6
+msgid "Flora"
+msgstr "Flora"
+
+#: ../xenial-wallpapers.xml.in.h:7
+msgid "Icy Grass"
+msgstr "Zaleđena trava"
+
+#: ../xenial-wallpapers.xml.in.h:8
+msgid "Night lights"
+msgstr "Večernja svjetla"
+
+#: ../xenial-wallpapers.xml.in.h:9
+msgid "passion flower"
+msgstr "Cvijet pasiflore"
+
+#: ../xenial-wallpapers.xml.in.h:10
+msgid "Spring"
+msgstr "Tulipan"
+
+#: ../xenial-wallpapers.xml.in.h:11
+msgid "TCP118v1"
+msgstr "Maglovita udolina"
+
+#: ../xenial-wallpapers.xml.in.h:12
+msgid "The Land of Edonias"
+msgstr "Polje maka"
+
+#: ../yakkety-wallpapers.xml.in.h:1
+msgid "Alien wing"
+msgstr "Krilo vanzemaljca"
+
+#: ../yakkety-wallpapers.xml.in.h:2
+msgid "Classic Guitar Detail"
+msgstr "Detalj klasične gitare"
+
+#: ../yakkety-wallpapers.xml.in.h:3
+msgid "DSC3907"
+msgstr "Grančica"
+
+#: ../yakkety-wallpapers.xml.in.h:4
+msgid "Haukland Beach view"
+msgstr "Pogled na Haukland plažu"
+
+#: ../yakkety-wallpapers.xml.in.h:5
+msgid "IMG 0081"
+msgstr "Leptir"
+
+#: ../yakkety-wallpapers.xml.in.h:6
+msgid "IMG 7632"
+msgstr "Šimski puteljak"
+
+#: ../yakkety-wallpapers.xml.in.h:7
+msgid "larung gar by night"
+msgstr "larung gar noću"
+
+#: ../yakkety-wallpapers.xml.in.h:8
+msgid "P1310728"
+msgstr "Svjetionik"
+
+#: ../yakkety-wallpapers.xml.in.h:9
+msgid "ubuntu16_10"
+msgstr "Ubuntu16.10"
+
+#: ../yakkety-wallpapers.xml.in.h:10
+msgid "ubuntu wallpaper 16 10 02"
+msgstr "Ubuntu pozadina 16.10.02"
+
+#: ../yakkety-wallpapers.xml.in.h:11
+msgid "Wanaka Tree"
+msgstr "Wanaka drvo"
+
+#: ../yakkety-wallpapers.xml.in.h:12
+msgid "Yala mountain"
+msgstr "Yala planina"
+
+#: ../zesty-wallpapers.xml.in.h:1
+msgid "A star has fallen"
+msgstr "Morska zvjezda"
+
+#: ../zesty-wallpapers.xml.in.h:2
+msgid "Candy"
+msgstr "Slatkiši"
+
+#: ../zesty-wallpapers.xml.in.h:3
+msgid "Espaciolandia"
+msgstr "Vrtuljak"
+
+#: ../zesty-wallpapers.xml.in.h:4
+msgid "Forest"
+msgstr "Šuma"
+
+#: ../zesty-wallpapers.xml.in.h:5
+msgid "Mushrooms 3"
+msgstr "Gljive 3"
+
+#: ../zesty-wallpapers.xml.in.h:6
+msgid "Passion"
+msgstr "Strast"
+
+#: ../zesty-wallpapers.xml.in.h:7
+msgid "Pink and Blue"
+msgstr "Vretenac"
+
+#: ../zesty-wallpapers.xml.in.h:8
+msgid "Purple Daisy"
+msgstr "Ljubičasta tratinčica"
+
+#: ../zesty-wallpapers.xml.in.h:9
+msgid "Road to Nowhere"
+msgstr "Pružni most"
+
+#: ../zesty-wallpapers.xml.in.h:10
+msgid "Seebrücke Graal-Müritz"
+msgstr "Graal-Müritz lukobran"
+
+#: ../zesty-wallpapers.xml.in.h:11
+msgid "Some Light Reading"
+msgstr "Stare knjige"
+
+#: ../zesty-wallpapers.xml.in.h:12
+msgid "there is something human in that stuff"
+msgstr "Apstraktna slika"

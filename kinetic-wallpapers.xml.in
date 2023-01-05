@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 22.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/kinetic.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Kinetic Kudu</_name>
+     <filename>/usr/share/backgrounds/Kinetic_Kudu_by_Joshua_T_dark.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Kinetic Kudu</_name>
+     <filename>/usr/share/backgrounds/Kinetic_Kudu_by_Joshua_T_light.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Obersee</_name>
+     <filename>/usr/share/backgrounds/Obersee_by_Uday_Nakade.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Sunset Over Lake Lugano</_name>
+     <filename>/usr/share/backgrounds/Sunset_Over_Lake_Lugano_by_Alexey_Kulik.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Twisted Gradients</_name>
+     <filename>/usr/share/backgrounds/Twisted_Gradients_by_Gustavo_Brenner.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Reflection</_name>
+     <filename>/usr/share/backgrounds/Reflection_by_Juliette_Taka.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Saffron</_name>
+     <filename>/usr/share/backgrounds/Saffron_by_Rakesh_Yadav.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

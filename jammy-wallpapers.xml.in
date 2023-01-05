@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 22.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/jammy.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Blue flower</_name>
+     <filename>/usr/share/backgrounds/Blue_flower_by_Elena_Stravoravdi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>canvas</_name>
+     <filename>/usr/share/backgrounds/canvas_by_roytanck.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Cherry Tree in Lakones</_name>
+     <filename>/usr/share/backgrounds/Cherry_Tree_in_Lakones_by_elenastravoravdi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>DSC2943</_name>
+     <filename>/usr/share/backgrounds/DSC2943_by_kcpru.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>jj dark</_name>
+     <filename>/usr/share/backgrounds/jj_dark_by_Hiking93.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>jj light</_name>
+     <filename>/usr/share/backgrounds/jj_light_by_Hiking93.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Mirror</_name>
+     <filename>/usr/share/backgrounds/Mirror_by_Uday_Nakade.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Optical Fibers in Dark</_name>
+     <filename>/usr/share/backgrounds/Optical_Fibers_in_Dark_by_Elena_Stravoravdi.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>ubuntu2</_name>
+     <filename>/usr/share/backgrounds/ubuntu2_by_arman1992.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>ubuntu</_name>
+     <filename>/usr/share/backgrounds/ubuntu_by_arman1992.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

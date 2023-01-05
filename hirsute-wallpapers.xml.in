@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 21.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/hirsute.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Hippopotamus Swimming Photo</_name>
+     <filename>/usr/share/backgrounds/Hippopotamus_Swimming_Photo_by_Francesco_Ungaro.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Macro Shot of Black Animal</_name>
+     <filename>/usr/share/backgrounds/Macro_Shot_of_Black_Animal_by_Gene_Taylor.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

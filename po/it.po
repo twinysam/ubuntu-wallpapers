@@ -7,107 +7,447 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntu-wallpapers\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-08-23 16:44+0100\n"
-"PO-Revision-Date: 2013-09-17 12:00+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2022-12-14 04:34+0000\n"
+"PO-Revision-Date: 2022-05-21 19:37+0000\n"
+"Last-Translator: Nico Della Torre <Unknown>\n"
 "Language-Team: Italian <it@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-09-15 05:12+0000\n"
-"X-Generator: Launchpad (build 18449)\n"
+"X-Launchpad-Export-Date: 2022-12-15 06:11+0000\n"
+"X-Generator: Launchpad (build c3f9a3a8c5fffd8b8763824e1f305083a4e9705e)\n"
 
-#: ../ubuntu-wallpapers.xml.in.h:1
-msgid "Ubuntu"
-msgstr ""
+#: ../artful-wallpapers.xml.in.h:1
+msgid "Bee on lavender"
+msgstr "Ape e lavanda"
+
+#: ../artful-wallpapers.xml.in.h:2
+msgid "Bloom"
+msgstr "Bloom"
+
+#: ../artful-wallpapers.xml.in.h:3
+msgid "Grand Canyon North Rim"
+msgstr "Bordo settentrionale del Grand Canyon"
+
+#: ../artful-wallpapers.xml.in.h:4
+msgid "Green Island"
+msgstr "Isola verde"
+
+#: ../artful-wallpapers.xml.in.h:5
+msgid "Headstock"
+msgstr "Testata"
+
+#: ../artful-wallpapers.xml.in.h:6
+msgid "Lighthouse at sunrise"
+msgstr "Faro all'alba"
+
+#: ../artful-wallpapers.xml.in.h:7
+msgid "Lily of the Valley"
+msgstr "Mughetto"
+
+#: ../artful-wallpapers.xml.in.h:8
+msgid "London Eye"
+msgstr "London Eye"
+
+#: ../artful-wallpapers.xml.in.h:9
+msgid "More Kamikochi"
+msgstr "Più Kamikochi"
+
+#: ../artful-wallpapers.xml.in.h:10
+msgid "Planking is going against the grain"
+msgstr "Il tavolato và controcorrente"
+
+#: ../artful-wallpapers.xml.in.h:11
+msgid "Red delight"
+msgstr "Delizia rossa"
+
+#: ../artful-wallpapers.xml.in.h:12
+msgid "Sunrise on the beach"
+msgstr "Alba sulla spiaggia"
+
+#: ../artful-wallpapers.xml.in.h:13
+msgid "Voss"
+msgstr "Voss"
+
+#: ../bionic-wallpapers.xml.in.h:1
+msgid "Cathédrale Marie-Rheine-du-Monde"
+msgstr "Cattedrale Marie-Rheine-du-Monde"
+
+#: ../bionic-wallpapers.xml.in.h:2
+msgid "Crocus Wallpaper"
+msgstr "Sfondo di croco"
+
+#: ../bionic-wallpapers.xml.in.h:3
+msgid "Definitive Light Zen Orange"
+msgstr "Arancione Zen chiaro definitivo"
+
+#: ../bionic-wallpapers.xml.in.h:4
+msgid "El Haouaria"
+msgstr "El Haouaria"
+
+#: ../bionic-wallpapers.xml.in.h:5
+msgid "Halifax Sunset"
+msgstr "Tramonto di Halifax"
+
+#: ../bionic-wallpapers.xml.in.h:6
+msgid "Manhattan Sunset"
+msgstr "Tramonto di Manhattan"
+
+#: ../bionic-wallpapers.xml.in.h:7
+msgid "On top of the Rubihorn"
+msgstr "In cima al Rubihorn"
+
+#: ../bionic-wallpapers.xml.in.h:8
+msgid "Raindrops On The Table"
+msgstr "Gocce di pioggia sul tavolo"
+
+#: ../bionic-wallpapers.xml.in.h:9
+msgid "Ross Jones Rockpool (Sydney)"
+msgstr "Ross Jones Rockpool (Sydney)"
+
+#: ../bionic-wallpapers.xml.in.h:10
+msgid "Spices in Athens"
+msgstr "Spezie ad Atene"
+
+#: ../bionic-wallpapers.xml.in.h:11
+msgid "This Is Bionic Beaver"
+msgstr "Questo è il castoro bionico"
+
+#: ../bionic-wallpapers.xml.in.h:12
+msgid "Wall with door on Gozo"
+msgstr "Parete con porta su Gozo"
+
+#: ../cosmic-wallpapers.xml.in.h:1
+msgid "Black Sand Beach"
+msgstr "Spiaggia di sabbia nera"
+
+#: ../cosmic-wallpapers.xml.in.h:2
+msgid "Carriage Return"
+msgstr "Ritorno carrello"
+
+#: ../cosmic-wallpapers.xml.in.h:3
+msgid "Cosmic Cuttlefish"
+msgstr "Seppie Cosmiche"
+
+#: ../cosmic-wallpapers.xml.in.h:4
+msgid "Encounter"
+msgstr "Appuntamento"
+
+#: ../cosmic-wallpapers.xml.in.h:5
+msgid "Fairground at Night"
+msgstr "Fiera notturna"
+
+#: ../cosmic-wallpapers.xml.in.h:6
+msgid "Image of Mount Parnassus"
+msgstr "Immagine del Monte Parnaso"
+
+#: ../cosmic-wallpapers.xml.in.h:7
+msgid "Milky Way Before The Dawn"
+msgstr "Via Lattea prima dell'alba"
+
+#: ../cosmic-wallpapers.xml.in.h:8
+msgid "Morning"
+msgstr "Mattina"
+
+#: ../cosmic-wallpapers.xml.in.h:9
+msgid "Spring Flowers"
+msgstr "Fiori primaverili"
+
+#: ../cosmic-wallpapers.xml.in.h:10
+msgid "Tapiola Espoo Cultural Center"
+msgstr "Centro Culturale Tapiola Espoo"
+
+#: ../cosmic-wallpapers.xml.in.h:11
+msgid "touch de vert"
+msgstr "Tocco di verde"
+
+#: ../cosmic-wallpapers.xml.in.h:12
+msgid "Ubuntu Party de Paris"
+msgstr "Ubuntu Party di Parigi"
+
+#: ../disco-wallpapers.xml.in.h:1
+msgid "Capucijnengang"
+msgstr "Capucijnengang"
+
+#: ../disco-wallpapers.xml.in.h:2
+msgid "Cramond Island"
+msgstr "Isola Cramond"
+
+#: ../disco-wallpapers.xml.in.h:3
+msgid "Flower Gate Bridge"
+msgstr "Ponte dei fiori"
+
+#: ../disco-wallpapers.xml.in.h:4
+msgid "On the harbour"
+msgstr "Sul porto"
+
+#: ../disco-wallpapers.xml.in.h:5
+msgid "Staniel Cay"
+msgstr "Staniel Cay"
+
+#: ../disco-wallpapers.xml.in.h:6
+msgid "Sunset of Peloponnesus"
+msgstr "Tramonto del Peloponneso"
+
+#: ../disco-wallpapers.xml.in.h:7
+msgid "Tennis ball"
+msgstr "Palla da tennis"
+
+#: ../disco-wallpapers.xml.in.h:8
+msgid "Water of Leith"
+msgstr "Acqua di Leith"
+
+#: ../disco-wallpapers.xml.in.h:9
+msgid "80s Disco Dingo Simulation"
+msgstr "Simulazione Disco Dingo anni '80"
+
+#: ../disco-wallpapers.xml.in.h:10
+msgid "Disco Dingo Alt Default"
+msgstr "Disco Dingo Alt Predefinito"
+
+#: ../eoan-wallpapers.xml.in.h:1
+msgid "Beijling park burial path"
+msgstr "Percorso di sepoltura del parco di Pechino"
+
+#: ../eoan-wallpapers.xml.in.h:2
+msgid "Frozen sunset on the lake"
+msgstr "Tramonto ghiacciato sul lago"
+
+#: ../eoan-wallpapers.xml.in.h:3
+msgid "Origin of nature"
+msgstr "Origine della natura"
+
+#: ../eoan-wallpapers.xml.in.h:4
+msgid "Sky Sparkles"
+msgstr "Il cielo scintilla"
+
+#: ../eoan-wallpapers.xml.in.h:5
+msgid "Stargazing"
+msgstr "Guarda le stelle"
+
+#: ../eoan-wallpapers.xml.in.h:6
+msgid "Ubuntu 80s glitch"
+msgstr "Problema di Ubuntu anni '80"
+
+#: ../eoan-wallpapers.xml.in.h:7
+msgid "Ubuntu gel"
+msgstr "Gel Ubuntu"
+
+#: ../eoan-wallpapers.xml.in.h:8
+msgid "Ermine lines"
+msgstr "Linee di Ermellino"
+
+#: ../eoan-wallpapers.xml.in.h:9
+msgid "Flight dive"
+msgstr "Immersione in volo"
+
+#: ../focal-wallpapers.xml.in.h:1
+msgid "Stone Mountain"
+msgstr "Stone Mountain"
+
+#: ../focal-wallpapers.xml.in.h:2
+msgid "Something Yellow"
+msgstr "Qualcosa di giallo"
+
+#: ../focal-wallpapers.xml.in.h:3
+msgid "2nd Avenue"
+msgstr "2nd Avenue"
+
+#: ../focal-wallpapers.xml.in.h:4
+msgid "Skykomish River"
+msgstr "Fiume Skykosmish"
+
+#: ../focal-wallpapers.xml.in.h:5
+msgid "Hardy Heron (Remaster)"
+msgstr "Hardy Heron (Remaster)"
+
+#: ../groovy-wallpapers.xml.in.h:1
+msgid "Abstract Painting Photo"
+msgstr "Foto pittura astratta"
+
+#: ../groovy-wallpapers.xml.in.h:2
+msgid "Camera Film"
+msgstr "Pellicola per fotocamera"
+
+#: ../groovy-wallpapers.xml.in.h:3
+msgid "Colored Pencils"
+msgstr "Matite colorate"
+
+#: ../groovy-wallpapers.xml.in.h:4
+msgid "Landscape Photography Of Mountains"
+msgstr "Fotografia di paesaggio di montagne"
+
+#: ../groovy-wallpapers.xml.in.h:5
+msgid "Silver Back Gorilla"
+msgstr "Gorilla posteriore d'argento"
+
+#: ../hirsute-wallpapers.xml.in.h:1
+msgid "Hippopotamus Swimming Photo"
+msgstr "Hippopotamus Swimming Photo"
+
+#: ../hirsute-wallpapers.xml.in.h:2
+msgid "Macro Shot of Black Animal"
+msgstr "Macro Shot of Black Animal"
+
+#: ../impish-wallpapers.xml.in.h:1
+msgid "Milky Way"
+msgstr "Via Lattea"
+
+#: ../impish-wallpapers.xml.in.h:2
+msgid "Way"
+msgstr "Way"
+
+#: ../jammy-wallpapers.xml.in.h:1
+msgid "Blue flower"
+msgstr "Fiore blu"
+
+#: ../jammy-wallpapers.xml.in.h:2
+msgid "canvas"
+msgstr "tela"
+
+#: ../jammy-wallpapers.xml.in.h:3
+msgid "Cherry Tree in Lakones"
+msgstr "Ciliegio a Lakones"
+
+#: ../jammy-wallpapers.xml.in.h:4
+msgid "DSC2943"
+msgstr "DSC2943"
+
+#: ../jammy-wallpapers.xml.in.h:5
+msgid "jj dark"
+msgstr "jj scuro"
+
+#: ../jammy-wallpapers.xml.in.h:6
+msgid "jj light"
+msgstr "jj luce"
+
+#: ../jammy-wallpapers.xml.in.h:7
+msgid "Mirror"
+msgstr "Specchio"
+
+#: ../jammy-wallpapers.xml.in.h:8
+msgid "Optical Fibers in Dark"
+msgstr "Fibre ottiche al buio"
+
+#: ../jammy-wallpapers.xml.in.h:9
+msgid "ubuntu2"
+msgstr "ubuntu2"
+
+#: ../jammy-wallpapers.xml.in.h:10
+msgid "ubuntu"
+msgstr "ubuntu"
 
 #: ../karmic-wallpapers.xml.in.h:1
 msgid "White Orchid"
-msgstr ""
+msgstr "Orchidea bianca"
 
 #: ../karmic-wallpapers.xml.in.h:2
 msgid "Throwing Stones"
-msgstr ""
+msgstr "Pioggia di pietre"
 
 #: ../karmic-wallpapers.xml.in.h:3
 msgid "Radioactive Sunrise.jpg"
-msgstr ""
+msgstr "Alba radioattiva"
 
 #: ../karmic-wallpapers.xml.in.h:4
 msgid "O Life.jpg"
-msgstr ""
+msgstr "Oh, vita"
 
 #: ../karmic-wallpapers.xml.in.h:5
 msgid "Grass in A.jpg"
-msgstr ""
+msgstr "Fili d'erba"
 
 #: ../karmic-wallpapers.xml.in.h:6
 msgid "Climbing.jpg"
-msgstr ""
+msgstr "Ascesa"
 
 #: ../karmic-wallpapers.xml.in.h:7
 msgid "Cherries.jpg"
-msgstr ""
+msgstr "Ciliegie"
 
 #: ../karmic-wallpapers.xml.in.h:8
 msgid "Primula Red"
-msgstr ""
+msgstr "Primula rossa"
 
 #: ../karmic-wallpapers.xml.in.h:9
 msgid "Butterfly"
-msgstr ""
+msgstr "Farfalla"
 
 #: ../karmic-wallpapers.xml.in.h:10
 msgid "The Rainbow is Dead"
-msgstr ""
+msgstr "Fine dell'arcobaleno"
 
 #: ../karmic-wallpapers.xml.in.h:11
 msgid "Sunset"
-msgstr ""
+msgstr "Tramonto"
 
 #: ../karmic-wallpapers.xml.in.h:12
 msgid "Mi old, old Shoes"
-msgstr ""
+msgstr "Attesa"
 
 #: ../karmic-wallpapers.xml.in.h:13
 msgid "Sand"
-msgstr ""
+msgstr "Sabbia"
 
 #: ../karmic-wallpapers.xml.in.h:14
 msgid "Palmengarten"
-msgstr ""
+msgstr "Palmeto"
 
 #: ../karmic-wallpapers.xml.in.h:15
 msgid "Naranja"
-msgstr ""
+msgstr "Orangerie"
 
 #: ../karmic-wallpapers.xml.in.h:16
 msgid "Misty Morning"
-msgstr ""
+msgstr "Bruma mattutina"
 
 #: ../karmic-wallpapers.xml.in.h:17
 msgid "Frog"
-msgstr ""
+msgstr "Anfibio"
 
 #: ../karmic-wallpapers.xml.in.h:18
 msgid "Flor de Loto"
-msgstr ""
+msgstr "Fiore di loto"
 
 #: ../karmic-wallpapers.xml.in.h:19
 msgid "Bay"
-msgstr ""
+msgstr "Baia"
+
+#: ../kinetic-wallpapers.xml.in.h:1
+msgid "Kinetic Kudu"
+msgstr "Kinetic Kudu"
+
+#: ../kinetic-wallpapers.xml.in.h:2
+msgid "Obersee"
+msgstr "Obersee"
+
+#: ../kinetic-wallpapers.xml.in.h:3
+msgid "Sunset Over Lake Lugano"
+msgstr "Tramonto sul Lago di Lugano"
+
+#: ../kinetic-wallpapers.xml.in.h:4
+msgid "Twisted Gradients"
+msgstr "Gradienti contorti"
+
+#: ../kinetic-wallpapers.xml.in.h:5
+msgid "Reflection"
+msgstr "Riflesso"
+
+#: ../kinetic-wallpapers.xml.in.h:6
+msgid "Saffron"
+msgstr "Zafferano"
 
 #: ../lucid-wallpapers.xml.in.h:1
 msgid "Bosque TK"
-msgstr ""
+msgstr "Bosco"
 
 #: ../lucid-wallpapers.xml.in.h:2
 msgid "Busqueda Nocturna"
-msgstr ""
+msgstr "Busqueda Nocturna"
 
 #: ../lucid-wallpapers.xml.in.h:3
 msgid "Cornered"
-msgstr ""
+msgstr "Messo angolare"
 
 #: ../lucid-wallpapers.xml.in.h:4
 msgid "Curls by Candy"
@@ -115,327 +455,327 @@ msgstr "Ricci di Candy"
 
 #: ../lucid-wallpapers.xml.in.h:5
 msgid "Daisy"
-msgstr ""
+msgstr "Margherita"
 
 #: ../lucid-wallpapers.xml.in.h:6
 msgid "Fall Drops, Ancient Light"
-msgstr ""
+msgstr "Gocce d'autunno, luce antica"
 
 #: ../lucid-wallpapers.xml.in.h:7
 msgid "Fluffodome"
-msgstr ""
+msgstr "Fluffodome"
 
 #: ../lucid-wallpapers.xml.in.h:8
 msgid "Icy stones 2"
-msgstr ""
+msgstr "Pietre ghiacciate 2"
 
 #: ../lucid-wallpapers.xml.in.h:9
 msgid "In the dark Redux"
-msgstr ""
+msgstr "Nell'oscurità"
 
 #: ../lucid-wallpapers.xml.in.h:10
 msgid "Maraetai before sunrise"
-msgstr ""
+msgstr "Maraetai all'alba"
 
 #: ../lucid-wallpapers.xml.in.h:11
 msgid "Out of focus"
-msgstr ""
+msgstr "Sfocato"
 
 #: ../lucid-wallpapers.xml.in.h:12
 msgid "Pointy"
-msgstr ""
+msgstr "Appuntito"
 
 #: ../lucid-wallpapers.xml.in.h:13
 msgid "Warmlights"
-msgstr ""
+msgstr "Tiepide luci"
 
 #: ../lucid-wallpapers.xml.in.h:14
 msgid "Yellowflower"
-msgstr ""
+msgstr "Fiore giallo"
 
 #: ../lucid-wallpapers.xml.in.h:15
 msgid "SmoothMoment"
-msgstr ""
+msgstr "SmoothMoment"
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
 msgid "Aeg"
-msgstr ""
+msgstr "Lentezza"
 
 #: ../maverick-wallpapers.xml.in.h:2
 msgid "Blue box number 2"
-msgstr ""
+msgstr "Frammento in blu"
 
-#: ../maverick-wallpapers.xml.in.h:3
+#: ../maverick-wallpapers.xml.in.h:3 ../wily-wallpapers.xml.in.h:7
 msgid "Blue"
-msgstr ""
+msgstr "Spicchio di blu"
 
 #: ../maverick-wallpapers.xml.in.h:4
 msgid "Bubbles"
-msgstr ""
+msgstr "Brulichio"
 
 #: ../maverick-wallpapers.xml.in.h:5
 msgid "Crocosmia"
-msgstr ""
+msgstr "Croscomia"
 
 #: ../maverick-wallpapers.xml.in.h:6
 msgid "Feather"
-msgstr ""
+msgstr "Piuma"
 
 #: ../maverick-wallpapers.xml.in.h:7
 msgid "Fern"
-msgstr ""
+msgstr "Felce"
 
 #: ../maverick-wallpapers.xml.in.h:8
 msgid "Life"
-msgstr ""
+msgstr "Spighe"
 
 #: ../maverick-wallpapers.xml.in.h:9
 msgid "Liquid glass"
-msgstr ""
+msgstr "Gocce di vetro"
 
 #: ../maverick-wallpapers.xml.in.h:10
 msgid "Mirada Perduda"
-msgstr ""
+msgstr "Sguardo Perduto"
 
 #: ../maverick-wallpapers.xml.in.h:11
 msgid "Morning II"
-msgstr ""
+msgstr "Risveglio II"
 
 #: ../maverick-wallpapers.xml.in.h:12
 msgid "Primer Amanecer 2010"
-msgstr ""
+msgstr "Prima Alba 2010"
 
 #: ../maverick-wallpapers.xml.in.h:13
 msgid "Ropey Photo"
-msgstr ""
+msgstr "Legami"
 
 #: ../maverick-wallpapers.xml.in.h:14
 msgid "Serenity Enchanted"
-msgstr ""
+msgstr "Incanto in rosso"
 
 #: ../maverick-wallpapers.xml.in.h:15
 msgid "Smile"
-msgstr ""
+msgstr "Sorriso"
 
 #: ../maverick-wallpapers.xml.in.h:16
 msgid "Spiral"
-msgstr ""
+msgstr "Spirale"
 
 #: ../maverick-wallpapers.xml.in.h:17
 msgid "Waterchain"
-msgstr ""
+msgstr "Dripping"
 
 #: ../natty-wallpapers.xml.in.h:2
 msgid "Arboreal ballet"
-msgstr ""
+msgstr "Balletto boreale"
 
 #: ../natty-wallpapers.xml.in.h:3
 msgid "Aubergine Sea"
-msgstr ""
+msgstr "Mare purpureo"
 
 #: ../natty-wallpapers.xml.in.h:4 ../trusty-wallpapers.xml.in.h:3
 msgid "Berries"
-msgstr ""
+msgstr "Bacche"
 
 #: ../natty-wallpapers.xml.in.h:5
 msgid "Bird"
-msgstr ""
+msgstr "Uccello"
 
 #: ../natty-wallpapers.xml.in.h:6
 msgid "Fabric"
-msgstr ""
+msgstr "Stoffe"
 
 #: ../natty-wallpapers.xml.in.h:7
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #: ../natty-wallpapers.xml.in.h:8
 msgid "Grey day"
-msgstr ""
+msgstr "Giornata grigia"
 
 #: ../natty-wallpapers.xml.in.h:9
 msgid "Holes"
-msgstr ""
+msgstr "Brecce"
 
 #: ../natty-wallpapers.xml.in.h:10
 msgid "Ilunabarra Azkainetik"
-msgstr ""
+msgstr "Ilunabarra Azkainetik"
 
 #: ../natty-wallpapers.xml.in.h:11
 msgid "Lá no alto"
-msgstr ""
+msgstr "Lá no alto"
 
 #: ../natty-wallpapers.xml.in.h:12
 msgid "Quandro"
-msgstr ""
+msgstr "Quandro"
 
 #: ../natty-wallpapers.xml.in.h:13
 msgid "Signpost"
-msgstr ""
+msgstr "Cartello stradale"
 
 #: ../natty-wallpapers.xml.in.h:14
 msgid "Tiny Worlds"
-msgstr ""
+msgstr "Piccoli mondi"
 
 #: ../natty-wallpapers.xml.in.h:15
 msgid "Touch the light"
-msgstr ""
+msgstr "Accarezza la luce"
 
 #: ../natty-wallpapers.xml.in.h:16
 msgid "Tri Narwhal"
-msgstr ""
+msgstr "Triplice narvalo"
 
 #: ../natty-wallpapers.xml.in.h:17
 msgid "Variations On Natty Narwhal 1"
-msgstr ""
+msgstr "Variazioni su Natty Narwhal 1"
 
 #: ../natty-wallpapers.xml.in.h:18
 msgid "White flowers"
-msgstr ""
+msgstr "Candidi fiori"
 
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
-msgstr ""
+msgstr "Nebbia"
 
 #: ../oneiric-wallpapers.xml.in.h:2
 msgid "Darkening Clockwork"
-msgstr ""
+msgstr "Ingranaggi"
 
 #: ../oneiric-wallpapers.xml.in.h:3
 msgid "Dybbølsbro Station"
-msgstr ""
+msgstr "Stazione di Dybbølsbro"
 
 #: ../oneiric-wallpapers.xml.in.h:4
 msgid "Jardin Polar"
-msgstr ""
+msgstr "Giardino polare"
 
 #: ../oneiric-wallpapers.xml.in.h:5
 msgid "Langelinie Allé"
-msgstr ""
+msgstr "Langelinie Allé"
 
 #: ../oneiric-wallpapers.xml.in.h:6
 msgid "Momiji Dream"
-msgstr ""
+msgstr "Sogno Momiji"
 
 #: ../oneiric-wallpapers.xml.in.h:7
 msgid "Mount Snowdon, Wales"
-msgstr ""
+msgstr "Monte Snowdon, Galles"
 
 #: ../oneiric-wallpapers.xml.in.h:8
 msgid "Not Alone"
-msgstr ""
+msgstr "Non da solo"
 
 #: ../oneiric-wallpapers.xml.in.h:9
 msgid "Power of Words"
-msgstr ""
+msgstr "Il potere della parole"
 
 #: ../oneiric-wallpapers.xml.in.h:10
 msgid "Purple Dancers"
-msgstr ""
+msgstr "Ballerini viola"
 
 #: ../oneiric-wallpapers.xml.in.h:11
 msgid "Small flowers"
-msgstr ""
+msgstr "Piccoli fiori"
 
 #: ../oneiric-wallpapers.xml.in.h:12
 msgid "Stalking Ocelot"
-msgstr ""
+msgstr "Gattopardo"
 
 #: ../oneiric-wallpapers.xml.in.h:13
 msgid "The Grass Ain't Greener"
-msgstr ""
+msgstr "L'erba non è più verde"
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
-msgstr ""
+msgstr "Grano"
 
 #: ../precise-wallpapers.xml.in.h:1
 msgid "Delicate Petals"
-msgstr ""
+msgstr "Petali delicati"
 
 #: ../precise-wallpapers.xml.in.h:2
 msgid "Early Blossom"
-msgstr ""
+msgstr "Fioritura precoce"
 
 #: ../precise-wallpapers.xml.in.h:3
 msgid "Flocking"
-msgstr ""
+msgstr "Stormo"
 
 #: ../precise-wallpapers.xml.in.h:4
 msgid "Floorboards"
-msgstr ""
+msgstr "Parquet"
 
 #: ../precise-wallpapers.xml.in.h:5
 msgid "Golden Bloom"
-msgstr ""
+msgstr "Fioritura aurea"
 
 #: ../precise-wallpapers.xml.in.h:6
 msgid "London Eye From Beneath"
-msgstr ""
+msgstr "Sotto il London Eye"
 
 #: ../precise-wallpapers.xml.in.h:7
 msgid "Morning Dew"
-msgstr ""
+msgstr "Rugiada mattutina"
 
 #: ../precise-wallpapers.xml.in.h:8
 msgid "Murales"
-msgstr ""
+msgstr "Murales"
 
 #: ../precise-wallpapers.xml.in.h:9
 msgid "Precise Pangolin"
-msgstr ""
+msgstr "Precise Pangolin"
 
 #: ../precise-wallpapers.xml.in.h:10
 msgid "Speaker Weave"
-msgstr ""
+msgstr "Onde sonore"
 
 #: ../precise-wallpapers.xml.in.h:11
 msgid "The Forbidden City"
-msgstr ""
+msgstr "Città Proibita"
 
 #: ../precise-wallpapers.xml.in.h:12
 msgid "Tie My Boat"
-msgstr ""
+msgstr "Lega la barca"
 
 #: ../precise-wallpapers.xml.in.h:13
 msgid "Twilight Frost"
-msgstr ""
+msgstr "Brina crepuscolare"
 
 #: ../precise-wallpapers.xml.in.h:14
 msgid "Winter Morning"
-msgstr ""
+msgstr "Mattino invernale"
 
 #: ../quantal-wallpapers.xml.in.h:1
 msgid "A Little Quetzal"
-msgstr ""
+msgstr "Piccolo Quetzal"
 
 #: ../quantal-wallpapers.xml.in.h:2
 msgid "Below Clouds"
-msgstr ""
+msgstr "Sotto le nuvole"
 
 #: ../quantal-wallpapers.xml.in.h:3
 msgid "Cairn"
-msgstr ""
+msgstr "Cairn"
 
 #: ../quantal-wallpapers.xml.in.h:4
 msgid "Early Morning"
-msgstr ""
+msgstr "Mattino"
 
 #: ../quantal-wallpapers.xml.in.h:5
 msgid "Frozen"
-msgstr ""
+msgstr "Ghiacciato"
 
 #: ../quantal-wallpapers.xml.in.h:6
 msgid "Gran Canaria"
-msgstr ""
+msgstr "Gran Canaria"
 
 #: ../quantal-wallpapers.xml.in.h:7
 msgid "Green Plant"
-msgstr ""
+msgstr "Pianta verde"
 
 #: ../quantal-wallpapers.xml.in.h:8
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #: ../quantal-wallpapers.xml.in.h:9
 msgid "Pantano de Orellana"
@@ -443,11 +783,11 @@ msgstr "Pantano de Orellana"
 
 #: ../quantal-wallpapers.xml.in.h:10
 msgid "Roof Tiles"
-msgstr ""
+msgstr "Tegole"
 
 #: ../quantal-wallpapers.xml.in.h:11
 msgid "Vanishing"
-msgstr ""
+msgstr "Evanescente"
 
 #: ../raring-wallpapers.xml.in.h:1
 msgid "Begonia"
@@ -455,11 +795,11 @@ msgstr "Begonia"
 
 #: ../raring-wallpapers.xml.in.h:2
 msgid "Blue frost"
-msgstr ""
+msgstr "Gelo Blu"
 
 #: ../raring-wallpapers.xml.in.h:3
 msgid "Brother typewriter"
-msgstr ""
+msgstr "Fratello macchina da scrivere"
 
 #: ../raring-wallpapers.xml.in.h:4
 msgid "Cacomixtle Ubunteño"
@@ -467,7 +807,7 @@ msgstr "Cacomixtle Ubunteño"
 
 #: ../raring-wallpapers.xml.in.h:5
 msgid "Fleurs de Prunus 24"
-msgstr ""
+msgstr "Fiori di pruno 2 4"
 
 #: ../raring-wallpapers.xml.in.h:6
 msgid "La Gomera"
@@ -483,11 +823,11 @@ msgstr "Ultimo respiro..."
 
 #: ../raring-wallpapers.xml.in.h:9
 msgid "Leftover"
-msgstr ""
+msgstr "Rimasugli"
 
 #: ../raring-wallpapers.xml.in.h:10
 msgid "Morning Sun on Frost-Covered Leaves"
-msgstr ""
+msgstr "Sole mattutino su foglie ghiacciate"
 
 #: ../raring-wallpapers.xml.in.h:11
 msgid "Stop the light"
@@ -495,7 +835,7 @@ msgstr "Ferma la luce"
 
 #: ../raring-wallpapers.xml.in.h:12
 msgid "Trazo solitario"
-msgstr ""
+msgstr "Trazo solitario"
 
 #: ../raring-wallpapers.xml.in.h:13
 msgid "Winter Fog"
@@ -527,11 +867,11 @@ msgstr "Montagne"
 
 #: ../saucy-wallpapers.xml.in.h:7
 msgid "Mr. Tau and The Tree -"
-msgstr ""
+msgstr "Il signor Tau e l'albero -"
 
 #: ../saucy-wallpapers.xml.in.h:8
 msgid "Nylon Rainbow"
-msgstr ""
+msgstr "Arcobaleno di Nylon"
 
 #: ../saucy-wallpapers.xml.in.h:9
 msgid "Oak"
@@ -543,11 +883,11 @@ msgstr "Salamandra"
 
 #: ../saucy-wallpapers.xml.in.h:11
 msgid "Saucy Salamander Abstract"
-msgstr ""
+msgstr "Salamandra impertinente astratta"
 
 #: ../saucy-wallpapers.xml.in.h:12
 msgid "Savannah Lilian Blot"
-msgstr ""
+msgstr "Savana Lilian Blot"
 
 #: ../saucy-wallpapers.xml.in.h:13
 msgid "Taxus baccata"
@@ -555,11 +895,11 @@ msgstr "Taxus baccata"
 
 #: ../saucy-wallpapers.xml.in.h:14
 msgid "The City of Polen"
-msgstr ""
+msgstr "La città di Polena"
 
 #: ../saucy-wallpapers.xml.in.h:15
 msgid "THE 'OUT' STANDING"
-msgstr ""
+msgstr "IL 'FUORI' IN PIEDI"
 
 #: ../saucy-wallpapers.xml.in.h:16
 msgid "Thingvellir"
@@ -571,4 +911,324 @@ msgstr "Senza titolo"
 
 #: ../saucy-wallpapers.xml.in.h:18
 msgid "Water Lily"
-msgstr ""
+msgstr "Ninfea"
+
+#: ../trusty-wallpapers.xml.in.h:1
+msgid "Backyard Mushrooms"
+msgstr "Funghi prataioli"
+
+#: ../trusty-wallpapers.xml.in.h:2
+msgid "Beach"
+msgstr "Spiaggia"
+
+#: ../trusty-wallpapers.xml.in.h:4
+msgid "Foggy Forest"
+msgstr "Foresta nebbiosa"
+
+#: ../trusty-wallpapers.xml.in.h:5
+msgid "Ibanez Infinity"
+msgstr "Ibanez Infinity"
+
+#: ../trusty-wallpapers.xml.in.h:6
+msgid "Jelly Fish"
+msgstr "Medusa"
+
+#: ../trusty-wallpapers.xml.in.h:7
+msgid "Mono Lake"
+msgstr "Lago Mono"
+
+#: ../trusty-wallpapers.xml.in.h:8
+msgid "Partitura"
+msgstr "Partitura"
+
+#: ../trusty-wallpapers.xml.in.h:9
+msgid "Reflections"
+msgstr "Riflessi"
+
+#: ../trusty-wallpapers.xml.in.h:10
+msgid "Sea Fury"
+msgstr "Furia del mare"
+
+#: ../trusty-wallpapers.xml.in.h:11
+msgid "Water web"
+msgstr "Acqua e ragnatela"
+
+#: ../trusty-wallpapers.xml.in.h:12
+msgid "Forever"
+msgstr "Per sempre"
+
+#: ../ubuntu-wallpapers.xml.in.h:1
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: ../ubuntu-wallpapers.xml.in.h:2
+msgid "Ubuntu Greyscale"
+msgstr "Scala di grigi Ubuntu"
+
+#: ../utopic-wallpapers.xml.in.h:1
+msgid "Empty Space"
+msgstr "Spazio vuoto"
+
+#: ../utopic-wallpapers.xml.in.h:2
+msgid "Golden leaves"
+msgstr "Foglie d'orate"
+
+#: ../utopic-wallpapers.xml.in.h:3
+msgid "Horses on sand dunes"
+msgstr "Cavalli e dune di sabbia"
+
+#: ../utopic-wallpapers.xml.in.h:4
+msgid "Kronach leuchtet 2014"
+msgstr "Kronach leuchtet 2014"
+
+#: ../utopic-wallpapers.xml.in.h:5
+msgid "Music"
+msgstr "Musica"
+
+#: ../utopic-wallpapers.xml.in.h:6
+msgid "Night Seascape"
+msgstr "Paesaggio marittimo notturno"
+
+#: ../utopic-wallpapers.xml.in.h:7
+msgid "Redes de hilo"
+msgstr "Redes de hilo"
+
+#: ../utopic-wallpapers.xml.in.h:8
+msgid "salcantayperu"
+msgstr "salcantayperu"
+
+#: ../utopic-wallpapers.xml.in.h:9
+msgid "Sunny Autumn"
+msgstr "Autunno soleggiato"
+
+#: ../utopic-wallpapers.xml.in.h:10
+msgid "Utopic Unicorn"
+msgstr "Utopic Unicorn"
+
+#: ../utopic-wallpapers.xml.in.h:11
+msgid "Warm grasses"
+msgstr "Erbe calde"
+
+#: ../utopic-wallpapers.xml.in.h:12
+msgid "xgu472hf2"
+msgstr "xgu472hf2"
+
+#: ../vivid-wallpapers.xml.in.h:1
+msgid "150305-cinqAA"
+msgstr "150305-cinqAA"
+
+#: ../vivid-wallpapers.xml.in.h:2
+msgid "Cedar Wax Wing"
+msgstr "Ala di cedro"
+
+#: ../vivid-wallpapers.xml.in.h:3
+msgid "Christmas Lights"
+msgstr "Luci di Natale"
+
+#: ../vivid-wallpapers.xml.in.h:4
+msgid "Euphoria!"
+msgstr "Euforia!"
+
+#: ../vivid-wallpapers.xml.in.h:5
+msgid "Oyster Catcher in the Rocks"
+msgstr "Oyster Catcher tra le rocce"
+
+#: ../vivid-wallpapers.xml.in.h:6
+msgid "Polka Dots and Moonbeams"
+msgstr "Pois e raggi di luna"
+
+#: ../vivid-wallpapers.xml.in.h:7
+msgid "Primavera"
+msgstr "Primavera"
+
+#: ../vivid-wallpapers.xml.in.h:8
+msgid "Tenerife Roques de Anaga"
+msgstr "Tenerife Roques de Anaga"
+
+#: ../vivid-wallpapers.xml.in.h:9
+msgid "Tesla"
+msgstr "Tesla"
+
+#: ../vivid-wallpapers.xml.in.h:10
+msgid "Traviny"
+msgstr "Traviny"
+
+#: ../wily-wallpapers.xml.in.h:1
+msgid "Tramonto a Scalea"
+msgstr "Tramonto a Scalea"
+
+#: ../wily-wallpapers.xml.in.h:2
+msgid "Tranquil"
+msgstr "tranquillo"
+
+#: ../wily-wallpapers.xml.in.h:3
+msgid "Light my fire evening sun"
+msgstr "Accendi il mio fuoco sole della sera"
+
+#: ../wily-wallpapers.xml.in.h:4
+msgid "Sitting Here, Making Fun"
+msgstr "Seduto qui, prendendo in giro"
+
+#: ../wily-wallpapers.xml.in.h:5
+msgid "Moss inflorescence"
+msgstr "Infiorescenza di Muschio"
+
+#: ../wily-wallpapers.xml.in.h:6
+msgid "Breaker"
+msgstr "interruttore"
+
+#: ../wily-wallpapers.xml.in.h:8
+msgid "Hotel"
+msgstr "Hotel"
+
+#: ../wily-wallpapers.xml.in.h:9
+msgid "Mediterranean Sea"
+msgstr "Mar Mediterraneo"
+
+#: ../wily-wallpapers.xml.in.h:10
+msgid "Abstract Ubuntu"
+msgstr "Ubuntu astratto"
+
+#: ../xenial-wallpapers.xml.in.h:1
+msgid "160218-deux-two"
+msgstr "160218-deux-two"
+
+#: ../xenial-wallpapers.xml.in.h:2
+msgid "Black hole"
+msgstr "Buco nero"
+
+#: ../xenial-wallpapers.xml.in.h:3
+msgid "Cielo estrellado"
+msgstr "Cielo stellato"
+
+#: ../xenial-wallpapers.xml.in.h:4
+msgid "clock"
+msgstr "orologio"
+
+#: ../xenial-wallpapers.xml.in.h:5
+msgid "Dans ma bulle"
+msgstr "Nella mia bolla"
+
+#: ../xenial-wallpapers.xml.in.h:6
+msgid "Flora"
+msgstr "Flora"
+
+#: ../xenial-wallpapers.xml.in.h:7
+msgid "Icy Grass"
+msgstr "Erba Ghiacciata"
+
+#: ../xenial-wallpapers.xml.in.h:8
+msgid "Night lights"
+msgstr "Luci notturne"
+
+#: ../xenial-wallpapers.xml.in.h:9
+msgid "passion flower"
+msgstr "fiore della passione"
+
+#: ../xenial-wallpapers.xml.in.h:10
+msgid "Spring"
+msgstr "Primavera"
+
+#: ../xenial-wallpapers.xml.in.h:11
+msgid "TCP118v1"
+msgstr "TCP118v1"
+
+#: ../xenial-wallpapers.xml.in.h:12
+msgid "The Land of Edonias"
+msgstr "La terra di Edonias"
+
+#: ../yakkety-wallpapers.xml.in.h:1
+msgid "Alien wing"
+msgstr "Ala aliena"
+
+#: ../yakkety-wallpapers.xml.in.h:2
+msgid "Classic Guitar Detail"
+msgstr "Dettaglio chitarra classica"
+
+#: ../yakkety-wallpapers.xml.in.h:3
+msgid "DSC3907"
+msgstr "DSC3907"
+
+#: ../yakkety-wallpapers.xml.in.h:4
+msgid "Haukland Beach view"
+msgstr "Vista sulla spiaggia di Haukland"
+
+#: ../yakkety-wallpapers.xml.in.h:5
+msgid "IMG 0081"
+msgstr "IMG 0081"
+
+#: ../yakkety-wallpapers.xml.in.h:6
+msgid "IMG 7632"
+msgstr "IMG 7632"
+
+#: ../yakkety-wallpapers.xml.in.h:7
+msgid "larung gar by night"
+msgstr "larung gar di notte"
+
+#: ../yakkety-wallpapers.xml.in.h:8
+msgid "P1310728"
+msgstr "P1310728"
+
+#: ../yakkety-wallpapers.xml.in.h:9
+msgid "ubuntu16_10"
+msgstr "ubuntu16_10"
+
+#: ../yakkety-wallpapers.xml.in.h:10
+msgid "ubuntu wallpaper 16 10 02"
+msgstr "ubuntu wallpaper 16 10 02"
+
+#: ../yakkety-wallpapers.xml.in.h:11
+msgid "Wanaka Tree"
+msgstr "Albero di Wanaka"
+
+#: ../yakkety-wallpapers.xml.in.h:12
+msgid "Yala mountain"
+msgstr "Montagna Yala"
+
+#: ../zesty-wallpapers.xml.in.h:1
+msgid "A star has fallen"
+msgstr "È caduta una stella"
+
+#: ../zesty-wallpapers.xml.in.h:2
+msgid "Candy"
+msgstr "Caramella"
+
+#: ../zesty-wallpapers.xml.in.h:3
+msgid "Espaciolandia"
+msgstr "Espaciolandia"
+
+#: ../zesty-wallpapers.xml.in.h:4
+msgid "Forest"
+msgstr "Foresta"
+
+#: ../zesty-wallpapers.xml.in.h:5
+msgid "Mushrooms 3"
+msgstr "Funghi 3"
+
+#: ../zesty-wallpapers.xml.in.h:6
+msgid "Passion"
+msgstr "Passione"
+
+#: ../zesty-wallpapers.xml.in.h:7
+msgid "Pink and Blue"
+msgstr "Rosa e blu"
+
+#: ../zesty-wallpapers.xml.in.h:8
+msgid "Purple Daisy"
+msgstr "Margherita viola"
+
+#: ../zesty-wallpapers.xml.in.h:9
+msgid "Road to Nowhere"
+msgstr "Strada verso il nulla"
+
+#: ../zesty-wallpapers.xml.in.h:10
+msgid "Seebrücke Graal-Müritz"
+msgstr "Molo Graal-Müritz"
+
+#: ../zesty-wallpapers.xml.in.h:11
+msgid "Some Light Reading"
+msgstr "Qualche lettura leggera"
+
+#: ../zesty-wallpapers.xml.in.h:12
+msgid "there is something human in that stuff"
+msgstr "c'è qualcosa di umano in quella roba"
