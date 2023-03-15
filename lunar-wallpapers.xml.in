@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 23.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/lunar.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Copper Mountain</_name>
+     <filename>/usr/share/backgrounds/Copper_Mountain_by_Eduardo_Battaglia.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Startrail</_name>
+     <filename>/usr/share/backgrounds/Startrail_by_Hajime_Mizuno.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Warm Filament</_name>
+     <filename>/usr/share/backgrounds/Warm_Filament_by_Eduardo_Battaglia.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Flow</_name>
+     <filename>/usr/share/backgrounds/Flow_by_Emanuele_Santoro.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>LunarCatcher</_name>
+     <filename>/usr/share/backgrounds/LunarCatcher_by_Espio347.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Lunar-lobster-side</_name>
+     <filename>/usr/share/backgrounds/Lunar-lobster-side_by_Gixo-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/Lunar-lobster-side_by_Gixo-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Multiverse</_name>
+     <filename>/usr/share/backgrounds/Multiverse_by_Emanuele_Santoro.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>winter-is-leaving</_name>
+     <filename>/usr/share/backgrounds/winter-is-leaving_by_Gixo-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/winter-is-leaving_by_Gixo-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

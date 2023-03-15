@@ -19,6 +19,7 @@ setup(
 		('share/backgrounds/contest', glob.glob('contest/*.xml')),
                ],
     cmdclass = { "build" : build_extra.build_extra,
-                 "build_i18n" :  build_i18n.build_i18n }
+                 "build_i18n" :  build_i18n.build_i18n },
+    packages=[],
 )
 
