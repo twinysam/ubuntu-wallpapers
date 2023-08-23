@@ -1,3 +1,11 @@
+ubuntu-wallpapers (23.10.0) mantic; urgency=medium
+
+  * Replace the Lunar default wallpapers but temporary dev cycles ones,
+    it makes more obvious when testing the mantic daily that it is not
+    lunar anymore
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Wed, 23 Aug 2023 11:23:26 +0200
+
 ubuntu-wallpapers (23.04.1) lunar; urgency=medium
 
   * Add Lunar's wallpapers, the default and community contest winners.
