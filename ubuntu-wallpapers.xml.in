@@ -4,6 +4,7 @@
   <wallpaper>
     <_name>Ubuntu</_name>
     <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
+    <filename-dark>/usr/share/backgrounds/ubuntu-wallpaper-d.png</filename-dark>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
