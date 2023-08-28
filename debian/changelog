@@ -1,3 +1,9 @@
+ubuntu-wallpapers (23.10.2) mantic; urgency=medium
+
+  * Updated wallpaper with centered logo and darker default (lp: #2032969)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Mon, 28 Aug 2023 15:28:01 +0200
+
 ubuntu-wallpapers (23.10.1) mantic; urgency=medium
 
   * Install a dark variant default wallpaper
