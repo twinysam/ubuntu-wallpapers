@@ -14,7 +14,7 @@ Vcs-Browser: https://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-wallpapers/ubun
 Package: ubuntu-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntu-wallpapers-lunar,
+Depends: ubuntu-wallpapers-mantic,
          ${misc:Depends},
 Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-lucid,
@@ -43,6 +43,7 @@ Suggests: ubuntu-wallpapers-karmic,
           ubuntu-wallpapers-impish,
           ubuntu-wallpapers-jammy,
           ubuntu-wallpapers-kinetic,
+          ubuntu-wallpapers-lunar,
 Description: Ubuntu Wallpapers
  The default Ubuntu wallpaper. This is also a meta-package depending on the
  other default wallpapers for the current Ubuntu release.
@@ -243,4 +244,11 @@ Architecture: all
 Depends: ${misc:Depends},
 Description: Ubuntu 23.04 Wallpapers
  Alternative wallpapers for Ubuntu 23.04 and a Canonical-created greyscale
+ wallpaper.
+ 
+Package: ubuntu-wallpapers-mantic
+Architecture: all
+Depends: ${misc:Depends},
+Description: Ubuntu 23.10 Wallpapers
+ Alternative wallpapers for Ubuntu 23.10 and a Canonical-created greyscale
  wallpaper.
