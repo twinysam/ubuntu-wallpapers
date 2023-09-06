@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 16:14+0100\n"
+"POT-Creation-Date: 2023-09-05 12:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -527,6 +527,42 @@ msgstr ""
 
 #: ../lunar-wallpapers.xml.in.h:8
 msgid "winter-is-leaving"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:1
+msgid "Bane_of_theseus_by_aprisk"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:2
+msgid "Bodacious_bovine_by_oklopfer"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:3
+msgid "Haukelivegen_norway_by_madsrh"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:4
+msgid "Mantic_maze_by_motaymour"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:5
+msgid "Milkyway_by_mizuno_as"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:6
+msgid "Minotaur_by_gixo"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:7
+msgid "Minotaur_papercut_by_sbutcher"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:8
+msgid "Mountain_king_by_seashxlls"
+msgstr ""
+
+#: ../mantic-wallpapers.xml.in.h:9
+msgid "Ubuntu_warrior_by_jt05"
 msgstr ""
 
 #: ../maverick-wallpapers.xml.in.h:1 ../natty-wallpapers.xml.in.h:1
