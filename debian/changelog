@@ -1,3 +1,10 @@
+ubuntu-wallpapers (23.10.4) mantic; urgency=medium
+
+  * Make the default light and dark Ubuntu wallpapers manually selectable
+    so you're not restricted to the automatic selection (LP: #2037967)
+
+ -- Daniel van Vugt <daniel.van.vugt@canonical.com>  Tue, 03 Oct 2023 12:38:31 +0200
+
 ubuntu-wallpapers (23.10.3) mantic; urgency=medium
 
   * Add Mantic's wallpapers, the default and community contest winners.
