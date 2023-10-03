@@ -11,6 +11,22 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
+    <_name>Ubuntu Light</_name>
+    <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Ubuntu Dark</_name>
+    <filename>/usr/share/backgrounds/ubuntu-wallpaper-d.png</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
     <_name>Ubuntu Greyscale</_name>
     <filename>/usr/share/backgrounds/ubuntu-default-greyscale-wallpaper.png</filename>
     <options>zoom</options>
