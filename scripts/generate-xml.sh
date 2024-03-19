@@ -16,7 +16,7 @@ echo """<?xml version=\"1.0\"?>
    <options>zoom</options>
  </wallpaper>"""
 
-for i in *.{jpg,png}; do
+for i in *.{jpg,png,webp}; do
     FN=${i//_/ }
     TITLE=${FN% by*}
     echo """ <wallpaper>

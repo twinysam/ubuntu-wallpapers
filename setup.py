@@ -15,7 +15,7 @@ if os.path.exists(changelog):
 setup(
     name = 'ubuntu-wallpapers',
     version = version,
-    data_files=[('share/backgrounds', glob.glob('*.png')+glob.glob('*.jpg')),
+    data_files=[('share/backgrounds', glob.glob('*.png')+glob.glob('*.jpg')+glob.glob('*.webp')),
 		('share/backgrounds/contest', glob.glob('contest/*.xml')),
                ],
     cmdclass = { "build" : build_extra.build_extra,
