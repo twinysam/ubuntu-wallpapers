@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-05 12:20+0200\n"
+"POT-Creation-Date: 2024-03-19 13:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -701,6 +701,38 @@ msgstr ""
 msgid "White flowers"
 msgstr ""
 
+#: ../noble-wallpapers.xml.in.h:1
+msgid "Clouds"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:2
+msgid "Little numbat boy"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:3
+msgid "Monument valley"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:4
+msgid "Province of the south of france"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:5
+msgid "Fuji san"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:6
+msgid "Fuwafuwa nanbatto san"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:7
+msgid "Rainbow lightbulb"
+msgstr ""
+
+#: ../noble-wallpapers.xml.in.h:8
+msgid "Northan lights"
+msgstr ""
+
 #: ../oneiric-wallpapers.xml.in.h:1
 msgid "Buck Off!"
 msgstr ""
@@ -1030,6 +1062,14 @@ msgid "Ubuntu"
 msgstr ""
 
 #: ../ubuntu-wallpapers.xml.in.h:2
+msgid "Ubuntu Light"
+msgstr ""
+
+#: ../ubuntu-wallpapers.xml.in.h:3
+msgid "Ubuntu Dark"
+msgstr ""
+
+#: ../ubuntu-wallpapers.xml.in.h:4
 msgid "Ubuntu Greyscale"
 msgstr ""
 

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 24.04 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/noble.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Clouds</_name>
+     <filename>/usr/share/backgrounds/Clouds_by_Tibor_Mokanszki.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Little numbat boy</_name>
+     <filename>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Monument valley</_name>
+     <filename>/usr/share/backgrounds/Monument_valley_by_orbitelambda.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Province of the south of france</_name>
+     <filename>/usr/share/backgrounds/Province_of_the_south_of_france_by_orbitelambda.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Fuji san</_name>
+     <filename>/usr/share/backgrounds/Fuji_san_by_amaral.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Fuwafuwa nanbatto san</_name>
+     <filename>/usr/share/backgrounds/Fuwafuwa_nanbatto_san_by_amaral-light.png</filename>
+     <filename-dark>/usr/share/backgrounds/Fuwafuwa_nanbatto_san_by_amaral-dark.png</filename-dark>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Rainbow lightbulb</_name>
+     <filename>/usr/share/backgrounds/Rainbow_lightbulb_by_Daniel_Micallef.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Northan lights</_name>
+     <filename>/usr/share/backgrounds/Northan_lights_by_mizuno.webp</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
