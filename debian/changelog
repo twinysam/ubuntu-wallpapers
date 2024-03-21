@@ -1,3 +1,9 @@
+ubuntu-wallpapers (24.04.2) noble; urgency=medium
+
+  * Include the HD version of the Little numbat image
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 21 Mar 2024 16:46:20 +0100
+
 ubuntu-wallpapers (24.04.1) noble; urgency=medium
 
   * Add Noble's wallpapers, the default and community contest winners. 

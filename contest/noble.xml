@@ -24,15 +24,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Clouds_by_Tibor_Mokanszki.jpg</from>
-    <to>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.jpg</to>
+    <to>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.png</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.jpg</file>
+    <file>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.jpg</from>
+    <from>/usr/share/backgrounds/Little_numbat_boy_by_azskalt.png</from>
     <to>/usr/share/backgrounds/Province_of_the_south_of_france_by_orbitelambda.jpg</to>
   </transition>
   <static>
