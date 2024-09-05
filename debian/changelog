@@ -1,3 +1,11 @@
+ubuntu-wallpapers (24.10.1) oracular; urgency=medium
+
+  * Add Oracular's wallpapers, the default and community contest winners.
+  * Create a ubuntu-wallpapers-lts-legacy package which includes the
+    historical Ubuntu LTSes default wallpapers.
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 05 Sep 2024 15:38:29 +0200
+
 ubuntu-wallpapers (24.04.2) noble; urgency=medium
 
   * Include the HD version of the Little numbat image
