@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-19 13:44+0100\n"
+"POT-Creation-Date: 2024-09-05 10:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -377,7 +377,7 @@ msgstr ""
 msgid "The Rainbow is Dead"
 msgstr ""
 
-#: ../karmic-wallpapers.xml.in.h:11
+#: ../karmic-wallpapers.xml.in.h:11 ../oracular-wallpapers.xml.in.h:4
 msgid "Sunset"
 msgstr ""
 
@@ -787,6 +787,34 @@ msgstr ""
 
 #: ../oneiric-wallpapers.xml.in.h:14
 msgid "Wild Wheat"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:1
+msgid "Arizona night"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:2
+msgid "Einsamer Raum"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:3
+msgid "Oriole"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:5
+msgid "Warty remastered"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:6
+msgid "Oriole 3D"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:7
+msgid "OrioleMascot"
+msgstr ""
+
+#: ../oracular-wallpapers.xml.in.h:8
+msgid "Ubuntu Legacy"
 msgstr ""
 
 #: ../precise-wallpapers.xml.in.h:1

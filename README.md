@@ -30,8 +30,8 @@ At the time of writing, this is still largely a manual (and as such, error-prone
 
  0) `export CODENAME=$(lsb_release -cs)`
 
-1a) get the new official wallpaper and replace the existing `warty-final-ubuntu.png` with it
-1b) get the new greyscale official wallpaper and copy it at the root of this branch
+1a) get the new official wallpapers and replace the existing `warty-final-ubuntu.png` and `ubuntu-wallpaper-d.png`
+1b) get the new dimmed and light official wallpapers and copy them at the root of this branch
 1c) get the community wallpapers for the upcoming Ubuntu release (codenamed `$CODENAME`) and unpack them in a staging subfolder (e.g. named `staging/`) inside this branch
 
  2) create `$CODENAME-wallpapers.xml.in` (which references only the community wallpapers):

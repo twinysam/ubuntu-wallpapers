@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu LTS Legacy Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/lts-legacy.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>4.10 Warty Warthog.jpg</_name>
+     <filename>/usr/share/backgrounds/4.10_Warty_Warthog.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>6.06 LTS Dapper Drake.jpg</_name>
+     <filename>/usr/share/backgrounds/6.06_LTS_Dapper_Drake.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>8.04 LTS Hardy Heron.jpg</_name>
+     <filename>/usr/share/backgrounds/8.04_LTS_Hardy_Heron.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>10.04 LTS Lucid Lynx.jpg</_name>
+     <filename>/usr/share/backgrounds/10.04_LTS_Lucid_Lynx.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>12.04 LTS Precise Pangolin.jpg</_name>
+     <filename>/usr/share/backgrounds/12.04_LTS_Precise_Pangolin.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>14.04 LTS Trusty Tahr.jpg</_name>
+     <filename>/usr/share/backgrounds/14.04_LTS_Trusty_Tahr.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>16.04 LTS Xenial Xerus.jpg</_name>
+     <filename>/usr/share/backgrounds/16.04_LTS_Xenial_Xerus.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>18.04 LTS Bionic Beaver.jpg</_name>
+     <filename>/usr/share/backgrounds/18.04_LTS_Bionic_Beaver.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+
+ <wallpaper>
+     <_name>20.04 LTS Focal Fossa.png</_name>
+     <filename>/usr/share/backgrounds/20.04_LTS_Focal_Fossa.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>22.04 LTS Jammy Jellyfish.png</_name>
+     <filename>/usr/share/backgrounds/22.04_LTS_Jammy_Jellyfish.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>24.04 LTS Noble Numbat.png</_name>
+     <filename>/usr/share/backgrounds/24.04_LTS_Noble_Numbat.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
