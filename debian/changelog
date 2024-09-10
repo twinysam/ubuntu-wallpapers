@@ -1,3 +1,10 @@
+ubuntu-wallpapers (24.10.2) oracular; urgency=medium
+
+  * Use a png version instead of a jpg for the warty remaster wallpaper,
+    should help with color banding issues (lp: #2079941)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 10 Sep 2024 10:38:28 +0200
+
 ubuntu-wallpapers (24.10.1) oracular; urgency=medium
 
   * Add Oracular's wallpapers, the default and community contest winners.
