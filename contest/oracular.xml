@@ -42,15 +42,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/Einsamer_Raum_by_Orbite_Lambda.jpg</from>
-    <to>/usr/share/backgrounds/Warty_remastered_by_Romactu.jpg</to>
+    <to>/usr/share/backgrounds/Warty_remastered_by_Romactu.png</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>/usr/share/backgrounds/Warty_remastered_by_Romactu.jpg</file>
+    <file>/usr/share/backgrounds/Warty_remastered_by_Romactu.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/Warty_remastered_by_Romactu.jpg</from>
+    <from>/usr/share/backgrounds/Warty_remastered_by_Romactu.png</from>
     <to>/usr/share/backgrounds/Oriole_wallpaper_light_3840x2160.png</to>
   </transition>
   <static>
