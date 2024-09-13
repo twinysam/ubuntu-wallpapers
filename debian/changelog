@@ -1,3 +1,11 @@
+ubuntu-wallpapers (24.10.3) oracular; urgency=medium
+
+  * Warty_Remastered-Romactu.png: 
+    - update the wallpaper to be more consistent with rest of the 20 years
+      of Ubuntu branding
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Fri, 13 Sep 2024 15:32:51 +0200
+
 ubuntu-wallpapers (24.10.2) oracular; urgency=medium
 
   * Use a png version instead of a jpg for the warty remaster wallpaper,
