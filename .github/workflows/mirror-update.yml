@@ -13,11 +13,12 @@ jobs:
     steps:
       - name: Checkout repository
         run: |
-          git clone https://$GH_PAT@github.com/twinysam/ubuntu-wallpapers.git repo
-          cd repo
+          git clone -b workflow https://$GH_PAT@github.com/twinysam/ubuntu-wallpapers.git workflow-repo
+          cd workflow-repo
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream
-          changes=$(git diff upstream/main)
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
+          changes=$(git diff upstream/$latest_branch)
           if [ -z "$changes" ]; then
             echo "No changes found"
             echo "::set-output name=changes::false"
