@@ -29,6 +29,6 @@ jobs:
 
       - name: Set default branch
         run: |
-          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d '{"default_branch":"upstream/importer/ubuntu/dsc"}'
+          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d "{\"default_branch\":\"${{ env.latest_branch }}\"}"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
