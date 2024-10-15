@@ -17,7 +17,7 @@ jobs:
           cd workflow-repo
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream
-          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1 | sed 's|upstream/||')
           changes=$(git diff upstream/$latest_branch)
           if [ -z "$changes" ]; then
             echo "No changes found"
@@ -42,10 +42,10 @@ jobs:
           git config --global user.name "twinysam"
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream
-          for branch in $(git branch -r | grep -v '\->' | sed 's/ *upstream\///g'); do
+          for branch in $(git branch -r | grep upstream/ | sed 's/upstream\///'); do
               git checkout -b $branch upstream/$branch || true
           done
-          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1 | sed 's|upstream/||')
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
           echo "latest_branch is $latest_branch"
           echo "latest_branch=$latest_branch" >> $GITHUB_ENV
           git checkout $latest_branch
