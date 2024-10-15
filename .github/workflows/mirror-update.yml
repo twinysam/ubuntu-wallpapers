@@ -22,6 +22,13 @@ jobs:
           done
           latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
           git checkout $latest_branch
+          git push origin $latest_branch
           git push --mirror origin
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+
+      - name: Set default branch
+        run: |
+          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d '{"default_branch":"upstream/importer/ubuntu/dsc"}'
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
