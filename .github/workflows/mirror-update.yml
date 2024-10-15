@@ -1,9 +1,8 @@
-@'
 name: Mirror Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,7 +14,7 @@ jobs:
 
       - name: Set up Git
         run: |
-          git config --global user.email "twinysam@gmail.com  "
+          git config --global user.email "twinysam@gmail.com"
           git config --global user.name "twinysam"
 
       - name: Fetch updates from upstream
@@ -26,7 +25,7 @@ jobs:
       - name: Get latest branch
         id: latest-branch
         run: |
-          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format="%(refname:short)" | head -n 1)
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
           echo "latest_branch=$latest_branch" >> $GITHUB_ENV
 
       - name: Checkout latest branch
@@ -36,4 +35,3 @@ jobs:
       - name: Push updates to GitHub mirror
         run: |
           git push --mirror origin
-'@ | Out-File -FilePath .github/workflows/mirror-update.yml
