@@ -17,9 +17,11 @@ jobs:
           cd workflow-repo
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream
-          latest_commit_date=$(git log -1 --format=%ct upstream)
-          latest_mirror_commit_date=$(git log -1 --format=%ct origin/workflow)
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
+          echo "latest_branch is $latest_branch"
+          latest_commit_date=$(git log -1 --format=%ct upstream/$latest_branch)
           echo "latest_commit_date=$latest_commit_date" >> $GITHUB_ENV
+          latest_mirror_commit_date=$(git log -1 --format=%ct)
           echo "latest_mirror_commit_date=$latest_mirror_commit_date" >> $GITHUB_ENV
           if [ "$latest_commit_date" -gt "$latest_mirror_commit_date" ]; then
             echo "Changes detected"
