@@ -26,6 +26,7 @@ jobs:
           git checkout $latest_branch
           git push origin $latest_branch
           git push --mirror origin
+          git branch -r
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
 
