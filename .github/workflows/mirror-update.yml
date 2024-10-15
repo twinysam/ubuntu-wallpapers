@@ -9,17 +9,19 @@ jobs:
   update_mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up repository
+      - name: Checkout repository
         run: |
           git clone https://$GH_PAT@github.com/twinysam/ubuntu-wallpapers.git repo
           cd repo
           git config --global user.email "twinysam@gmail.com"
           git config --global user.name "twinysam"
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
-          git fetch upstream --tags
+          git fetch upstream
+          for branch in $(git branch -r | grep upstream/ | sed 's/upstream\///'); do
+              git checkout -b $branch upstream/$branch || true
+          done
           latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
-          echo "latest_branch=$latest_branch" >> $GITHUB_ENV
-          git checkout ${{ env.latest_branch }}
+          git checkout $latest_branch
           git push --mirror origin
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
