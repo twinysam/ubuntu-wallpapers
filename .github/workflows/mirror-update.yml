@@ -17,7 +17,7 @@ jobs:
           cd workflow-repo
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream
-          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1 | sed 's|upstream/||')
           echo "latest_branch is $latest_branch"
           latest_commit_date=$(git log -1 --format=%ct upstream/$latest_branch)
           echo "latest_commit_date=$latest_commit_date" >> $GITHUB_ENV
@@ -46,10 +46,10 @@ jobs:
           git config --global user.name "twinysam"
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream
-          for branch in $(git branch -r | grep upstream/ | sed 's/upstream\///'); do
+          for branch in $(git branch -r | grep -v '\->' | sed 's/ *upstream\///g'); do
               git checkout -b $branch upstream/$branch || true
           done
-          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
+          latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1 | sed 's|upstream/||')
           echo "latest_branch is $latest_branch"
           echo "latest_branch=$latest_branch" >> $GITHUB_ENV
           git checkout $latest_branch
@@ -60,7 +60,8 @@ jobs:
 
       - name: Set default branch
         run: |
-          echo "Setting default branch to ${{ env.latest_branch }}"
-          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d "{\"default_branch\":\"${{ env.latest_branch }}\"}"
+          latest_branch=${{ env.latest_branch }}
+          echo "Setting default branch to $latest_branch"
+          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d "{\"default_branch\":\"$latest_branch\"}"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
