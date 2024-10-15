@@ -1,0 +1,9 @@
+me: "Checkout"
+description: "Checkout the repository"
+runs:
+    using: "composite"
+      steps:
+            - run: git clone ${{ github.repository_url }} .
+                  shell: bash
+                  '@ | Out-File -FilePath .github/actions/checkout/action.yml
+              
