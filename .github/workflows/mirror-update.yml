@@ -6,7 +6,32 @@ on:
   workflow_dispatch:
 
 jobs:
+  check_for_updates:
+    runs-on: ubuntu-latest
+    outputs:
+      changes: ${{ steps.check.outputs.changes }}
+    steps:
+      - name: Check for updates
+        id: check
+        run: |
+          git clone https://$GH_PAT@github.com/twinysam/ubuntu-wallpapers.git repo
+          cd repo
+          git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
+          git fetch upstream
+          changes=$(git diff upstream/main)
+          if [ -z "$changes" ]; then
+            echo "No changes found"
+            echo "::set-output name=changes::false"
+          else
+            echo "Changes detected"
+            echo "::set-output name=changes::true"
+          fi
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+
   update_mirror:
+    needs: check_for_updates
+    if: needs.check_for_updates.outputs.changes == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -31,8 +56,7 @@ jobs:
 
       - name: Set default branch
         run: |
-          latest_branch=${{ env.latest_branch }}
-          echo "Setting default branch to $latest_branch"
-          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d "{\"default_branch\":\"$latest_branch\"}"
+          echo "Setting default branch to ${{ env.latest_branch }}"
+          curl -X PATCH -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/twinysam/ubuntu-wallpapers -d "{\"default_branch\":\"${{ env.latest_branch }}\"}"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
