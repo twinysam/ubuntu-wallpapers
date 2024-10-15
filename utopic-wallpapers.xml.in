@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 14.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/utopic.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Empty Space</_name>
+     <filename>/usr/share/backgrounds/Empty_Space_by_Glenn_Rayat.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Golden leaves</_name>
+     <filename>/usr/share/backgrounds/Golden_leaves_by_Mauro_Campanelli.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Horses on sand dunes</_name>
+     <filename>/usr/share/backgrounds/Horses_on_sand_dunes_by_Matthias_Siewert.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Kronach leuchtet 2014</_name>
+     <filename>/usr/share/backgrounds/Kronach_leuchtet_2014_by_Brian_Fox.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Music</_name>
+     <filename>/usr/share/backgrounds/Music_by_tomasino.cz.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Night Seascape</_name>
+     <filename>/usr/share/backgrounds/Night_Seascape_by_Davor_Dopar.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Redes de hilo</_name>
+     <filename>/usr/share/backgrounds/Redes_de_hilo_by_Juan_Pablo_Lauriente.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>salcantayperu</_name>
+     <filename>/usr/share/backgrounds/salcantayperu_by_Life_Nomadic.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Sunny Autumn</_name>
+     <filename>/usr/share/backgrounds/Sunny_Autumn_by_Joel_Heaps.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Utopic Unicorn </_name>
+     <filename>/usr/share/backgrounds/Utopic_Unicorn__by_Bedis_ElAchКche.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Warm grasses</_name>
+     <filename>/usr/share/backgrounds/Warm_grasses_by_dcsearle.t21.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>xgu472hf2</_name>
+     <filename>/usr/share/backgrounds/xgu472hf2_by_lariliikala.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

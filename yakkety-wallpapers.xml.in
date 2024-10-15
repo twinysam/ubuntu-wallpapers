@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Ubuntu 16.10 Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/yakkety.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <_name>Alien wing</_name>
+     <filename>/usr/share/backgrounds/Alien_wing_by_Ralph_Crützen.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Classic Guitar Detail</_name>
+     <filename>/usr/share/backgrounds/Classic_Guitar_Detail_by_Sten_Jørgen_Pettersen.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>DSC3907</_name>
+     <filename>/usr/share/backgrounds/DSC3907_by_Todor_Velichkov.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Haukland Beach view</_name>
+     <filename>/usr/share/backgrounds/Haukland_Beach_view_by_Michele_Agostini.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>IMG 0081</_name>
+     <filename>/usr/share/backgrounds/IMG_0081_by_Jobin_Babu.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>IMG 7632</_name>
+     <filename>/usr/share/backgrounds/IMG_7632_by_Jobin_Babu.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>larung gar by night</_name>
+     <filename>/usr/share/backgrounds/larung_gar_by_night_by_Geza_Radics.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>P1310728</_name>
+     <filename>/usr/share/backgrounds/P1310728_by_Ferran_Reyes.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>ubuntu16_10</_name>
+     <filename>/usr/share/backgrounds/ubuntu16_10_by_Khoir_Rudin.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>ubuntu wallpaper 16 10 02</_name>
+     <filename>/usr/share/backgrounds/ubuntu_wallpaper_16_10_02_by_screen_name_007.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Wanaka Tree</_name>
+     <filename>/usr/share/backgrounds/Wanaka_Tree_by_Stephane_Pakula.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Yala mountain</_name>
+     <filename>/usr/share/backgrounds/Yala_mountain_by_Geza_Radics.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>

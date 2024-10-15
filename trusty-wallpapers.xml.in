@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu 14.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/contest/trusty.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <_name>Backyard Mushrooms</_name>
+    <filename>/usr/share/backgrounds/Backyard_Mushrooms_by_Kurt_Zitzelman.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Beach</_name>
+    <filename>/usr/share/backgrounds/Beach_by_Renato_Giordanelli.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Berries</_name>
+    <filename>/usr/share/backgrounds/Berries_by_Tom_Kijas.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Foggy Forest</_name>
+    <filename>/usr/share/backgrounds/Foggy_Forest_by_Jake_Stewart.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Ibanez Infinity</_name>
+    <filename>/usr/share/backgrounds/Ibanez_Infinity_by_Jaco_Kok.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Jelly Fish</_name>
+    <filename>/usr/share/backgrounds/Jelly_Fish_by_RaDu_GaLaN.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Mono Lake</_name>
+    <filename>/usr/share/backgrounds/Mono_Lake_by_Angela_Henderson.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Partitura</_name>
+    <filename>/usr/share/backgrounds/Partitura_by_Vincijun.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Reflections</_name>
+    <filename>/usr/share/backgrounds/Reflections_by_Trenton_Fox.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Sea Fury</_name>
+    <filename>/usr/share/backgrounds/Sea_Fury_by_Ian_Worrall.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Water web</_name>
+    <filename>/usr/share/backgrounds/Water_web_by_Tom_Kijas.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <_name>Forever</_name>
+    <filename>/usr/share/backgrounds/Forever_by_Shady_S.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>
