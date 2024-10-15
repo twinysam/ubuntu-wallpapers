@@ -1,9 +1,8 @@
 name: "Checkout"
 description: "Checkout the repository"
 runs:
-    using: "composite"
-      steps:
-            - run: |
-                      git clone ${{ github.repository_url }} .
-                            shell: bash
-
+  using: "composite"
+  steps:
+    - run: |
+        git clone https://$GH_PAT@github.com/twinysam/ubuntu-wallpapers.git repo
+      shell: bash

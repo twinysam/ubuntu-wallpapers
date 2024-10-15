@@ -10,18 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-        with:
-          repository: twinysam/ubuntu-wallpapers
-          token: ${{ secrets.GH_PAT }}
-      
+        uses: ./github/actions/checkout
+
       - name: Set up Git
         run: |
+          cd repo
           git config --global user.email "twinysam@gmail.com"
           git config --global user.name "twinysam"
 
       - name: Fetch updates from upstream
         run: |
+          cd repo
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream --tags
           latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
@@ -29,7 +28,8 @@ jobs:
           git checkout ${{ env.latest_branch }}
 
       - name: Push updates to GitHub mirror
-        run: |
-          git push --mirror origin
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          cd repo
+          git push --mirror origin
