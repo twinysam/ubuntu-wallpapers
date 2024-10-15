@@ -9,14 +9,27 @@ jobs:
   update_mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          repository: twinysam/ubuntu-wallpapers
+          token: ${{ secrets.GH_PAT }}
+      
+      - name: Set up Git
         run: |
-          git clone https://github.com/twinysam/ubuntu-wallpapers.git repo
-          cd repo
+          git config --global user.email "twinysam@gmail.com"
+          git config --global user.name "twinysam"
+
+      - name: Fetch updates from upstream
+        run: |
           git remote add upstream https://git.launchpad.net/ubuntu/+source/ubuntu-wallpapers
           git fetch upstream --tags
           latest_branch=$(git for-each-ref --sort=-committerdate refs/remotes/upstream/ --format='%(refname:short)' | head -n 1)
           echo "latest_branch=$latest_branch" >> $GITHUB_ENV
           git checkout ${{ env.latest_branch }}
-          git remote set-url origin https://$GH_PAT@github.com/twinysam/ubuntu-wallpapers.git
+
+      - name: Push updates to GitHub mirror
+        run: |
           git push --mirror origin
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
